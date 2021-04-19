@@ -1,5 +1,5 @@
 # Algoritmo
----
+
 ## RECURSOS
 ### Ferramentas
 * [Compilador Online de C](https://www.onlinegdb.com/online_c_compiler)
