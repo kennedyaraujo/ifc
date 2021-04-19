@@ -11,12 +11,11 @@
 
 
 ### Bibliografia
-* [Apostila Manasses](https://gustavoguanabara.github.io) 
+* [Apostila Manasses](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/bibliografia/mini-apostila-c-manasses.pdf) 
 
 
-##Aulas
-
-#### Aula 01
-
-
-#### Aula 02
+## Aulas
+* Aula 01 - Introdução à Lógica de Programação   
+    * [Slides - Aula 01](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/slides/aula01-algoritmo.pdf)
+    * [Vídeo - Aula 01](https://youtu.be/JAkcA0eMRFg)  
+    [![Vídeo - Aula 01](https://img.youtube.com/vi/JAkcA0eMRFg/maxresdefault.jpg)](https://youtu.be/JAkcA0eMRFg)
