@@ -6,7 +6,7 @@
 * [Ferramenta para codificação colaborativa](https://replit.com/ )
 * [IDE - Compilador em C](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe)
 #### Bibliografia
-* [Apostila Manasses](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/bibliografia/mini-apostila-c-manasses.pdf) 
+* [Apostila - Profº Manassés](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/bibliografia/mini-apostila-c-manasses.pdf) 
 
 ---
 
