@@ -13,6 +13,6 @@
 ## AULAS
 * **Aula 01 - Introdução à Lógica de Programação**   
     * [Slides - Aula 01](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/slides/aula01-algoritmo.pdf)
-    * [Vídeo - Aula 01](https://youtu.be/JAkcA0eMRFg)
+    * [Vídeo - Aula 01](https://youtu.be/JAkcA0eMRFg) <br/>
     <a href="https://youtu.be/JAkcA0eMRFg"> <img src="https://img.youtube.com/vi/JAkcA0eMRFg/maxresdefault.jpg" width="200"></a>  
     <!-- [![Vídeo - Aula 01](https://img.youtube.com/vi/JAkcA0eMRFg/maxresdefault.jpg)](https://youtu.be/JAkcA0eMRFg) -->
