@@ -16,3 +16,7 @@
     * [Vídeo - Aula 01](https://youtu.be/JAkcA0eMRFg) <br/>
     <a href="https://youtu.be/JAkcA0eMRFg"> <img src="https://img.youtube.com/vi/JAkcA0eMRFg/maxresdefault.jpg" width="200"></a>  
     <!-- [![Vídeo - Aula 01](https://img.youtube.com/vi/JAkcA0eMRFg/maxresdefault.jpg)](https://youtu.be/JAkcA0eMRFg) -->
+* Aula 02
+    * [Planilha para inserção das questões](https://docs.google.com/spreadsheets/d/1owTPhGuBwUFKWh28IJnBClg6TOkNqQScMr8StXa4nco/edit?usp=sharing)
+    * [Lista de Exercício Operadores e Estrutura de Decisão](https://drive.google.com/file/d/1styjLAxRdBwRE6aa-xtRyxXGKYvYjK3j/view?usp=sharing)
+
