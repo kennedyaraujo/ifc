@@ -22,7 +22,7 @@
     * [Vídeo - Aula 01](https://youtu.be/zQMZG6hHs0E) <br/>
     <a href="https://youtu.be/zQMZG6hHs0E"> <img src="https://img.youtube.com/vi/zQMZG6hHs0E/maxresdefault.jpg" width="200"></a>   
 * **Aula 03 - Resolução de Exercícios**
-    * [Notas de aula - Aula 03](https://github.com/kennedyaraujo/ifc/blob/main/fumat/notas-de-aula/aula3.png)
+    * [Notas de aula - Aula 03 - Cap 2 - Questões 1,5,9 e 16](https://github.com/kennedyaraujo/ifc/blob/main/fumat/notas-de-aula/aula3.png)
     * [Vídeo - Aula 03](https://youtu.be/MK4uxmB5kxw) <br/>
     <a href="https://youtu.be/MK4uxmB5kxw"> <img src="https://img.youtube.com/vi/MK4uxmB5kxw/maxresdefault.jpg" width="200"></a>
     
