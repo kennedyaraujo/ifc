@@ -25,4 +25,4 @@
     * [Notas de aula - Aula 03](https://github.com/kennedyaraujo/ifc/blob/main/fumat/notas-de-aula/aula03.png)
     * [Vídeo - Aula 03](https://youtu.be/MK4uxmB5kxw) <br/>
     <a href="https://youtu.be/MK4uxmB5kxw"> <img src="https://img.youtube.com/vi/MK4uxmB5kxw/maxresdefault.jpg" width="200"></a>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/MK4uxmB5kxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+    
