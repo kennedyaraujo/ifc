@@ -1,14 +1,14 @@
-# IHM - Interface Homem-Máquina - 2021.1
+# TCC - Bacharelado em Ciência da Computação
 
 ### RECURSOS
 
 #### Bibliografia
-* [Apostila Caelum - UX e Usabilidade aplicados em Mobile e Web](https://www.caelum.com.br/apostila/apostila-ux-usabilidade-mobile-web.pdf) 
-* [Interação Humano-Computador - Simone Barbosa, Bruno Silva](https://www.google.com.br/books/edition/Intera%C3%A7%C3%A3o_Humano_Computador/qk0skwr_cewC?hl=pt-BR&gbpv=1&dq=interface+homem+m%C3%A1quina&printsec=frontcover) 
+ 
+* [Palestra: Metodologia da Pesquisa para Ciência da Computação - Raul Wazlawick](https://www.youtube.com/watch?v=RayW_ELIlyc) 
 
 ---
 
-### AULAS
+### EXEMPLOS
 * **Aula 01 - Introdução à Interação Humano–computador**   
     * [Slides - Aula 01](https://github.com/kennedyaraujo/ifc/blob/main/ihm/slides/aula01-introducao-a-ihc.pdf)
     * [Vídeo - Aula 01](https://youtu.be/AYDYyCjbJtM) <br/>
