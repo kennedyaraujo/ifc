@@ -6,8 +6,8 @@
 * [Prova 2 - 2019](https://github.com/kennedyaraujo/ifc/blob/main/fumat/provas/2019-prova2.pdf)
 
 #### Bibliografia
-* [Introdução à Lógica Matemática](https://www.google.com.br/books/edition/Inicia%C3%A7%C3%A3o_%C3%A0_l%C3%B3gica_matem%C3%A1tica/s7GKHIjAQC4C?hl=pt-BR&gbpv=1&dq=inicia%C3%A7%C3%A3o+a+logica+matematica&printsec=frontcover) 
-
+* [Introdução à Lógica Matemática - Edgard de Alencar Filho - 2002](https://www.google.com.br/books/edition/Inicia%C3%A7%C3%A3o_%C3%A0_l%C3%B3gica_matem%C3%A1tica/s7GKHIjAQC4C?hl=pt-BR&gbpv=1&dq=inicia%C3%A7%C3%A3o+a+logica+matematica&printsec=frontcover) 
+* [Apostila - Introdução à Lógica Matemática - Prof. Antônio A. Pinho](http://ifgjatai.webcindario.com/logica.pdf) 
 ---
 
 ### AULAS
