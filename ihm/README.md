@@ -17,14 +17,18 @@
     <a href="https://youtu.be/AYDYyCjbJtM"> <img src="https://img.youtube.com/vi/AYDYyCjbJtM/maxresdefault.jpg" width="200"></a>  
     <!-- [![Vídeo - Aula 01](https://img.youtube.com/vi/JAkcA0eMRFg/maxresdefault.jpg)](https://youtu.be/JAkcA0eMRFg) -->
 * **Aula 02 - Personas**   
-    * [Slides - Aula 02](https://github.com/kennedyaraujo/ifc/blob/main/ihm/slides/aula-02-persona.pdf)
-    * Leitura complementar
-        * [Personas - Usability.gov](https://www.usability.gov/how-to-and-tools/methods/personas.html)    
+    * [Slides - Aula 02](https://github.com/kennedyaraujo/ifc/blob/main/ihm/slides/aula-02-persona.pdf)    
+    * [Vídeo - Aula 02](https://www.youtube.com/watch?v=FbZTTTCdzHs) <br/>
+    <a href="https://www.youtube.com/watch?v=FbZTTTCdzHs"> <img src="https://img.youtube.com/vi/FbZTTTCdzHs/maxresdefault.jpg" width="200"></a>
     * Geradores de Personas e Templates
         * [Userforge.com - Free - 2 personas](https://userforge.com/join/)
         * [Hubspot.com - Free - Pouco personalizável](https://www.hubspot.com/make-my-persona?__hstc=64741936.4449c6352ad3956dde84aa635a9cd227.1584653280224.1584657920351.1584970032936.3&__hssc=64741936.1.1584970032936&__hsfp=1079729891&_ga=2.185901545.1728181288.1619390474-1053955073.1619390474&_conv_v=vi%3A1*sc%3A1*cs%3A1619390470*fs%3A1619390470*pv%3A1*seg%3A%7B10031564.1%7D*exp%3A%7B%7D&_conv_s=si%3A1*sh%3A1619390470440-0.6961043410009764*pv%3A1)
         * [Template Persona - Usability.gov](https://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
-    * [Vídeo - Aula 02](https://www.youtube.com/watch?v=FbZTTTCdzHs) <br/>
-    <a href="https://www.youtube.com/watch?v=FbZTTTCdzHs"> <img src="https://img.youtube.com/vi/FbZTTTCdzHs/maxresdefault.jpg" width="200"></a>  
+    * Leitura complementar
+        * [Personas - Usability.gov](https://www.usability.gov/how-to-and-tools/methods/personas.html)
+        * [Por quê criar personas?](https://brasil.uxdesign.cc/por-que-criar-personas-bc796a1ffc7e) 
+        * [O que é buyer persona?](https://www.tracto.com.br/buyer-persona/)
+        * [Alan Cooper, O Alquimista de Software](http://duxcoworkers.com/article/alan-cooper-o-alquimista-desoftware)
+         * [A Personas Guideline, From What They Are to How To Use](https://uxdesign.cc/while-we-are-talking-about-personas-what-exactly-are-we-talking-525a645eb61a)  
 
     
