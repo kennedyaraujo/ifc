@@ -21,4 +21,6 @@
     * [Lista de Exercício Operadores e Estrutura de Decisão](https://drive.google.com/file/d/1styjLAxRdBwRE6aa-xtRyxXGKYvYjK3j/view?usp=sharing)
     * [Arquivo de codificação](https://replit.com/join/wvwrkydp-kennedyarajo)
     * [Vídeo - Aula 01](https://youtu.be/BCZrWyFd6LI) <br/>
-    <a href="https://youtu.be/JAkcA0eMRFg"> <img src="https://img.youtube.com/vi/BCZrWyFd6LI/maxresdefault.jpg" width="200"></a> 
+    <a href="https://youtu.be/JAkcA0eMRFg"> <img src="https://img.youtube.com/vi/BCZrWyFd6LI/maxresdefault.jpg" width="200"></a>
+* Aula 03
+    * [Resoluções propostas](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/resolucoes/resolucao-aula-03.c)
