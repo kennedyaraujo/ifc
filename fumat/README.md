@@ -27,6 +27,7 @@
     <a href="https://youtu.be/MK4uxmB5kxw"> <img src="https://img.youtube.com/vi/MK4uxmB5kxw/maxresdefault.jpg" width="200"></a>
 * **Aula 04 - Cálculo Proposicional**
     * [Slides Aula 03 - Cálculo Proposicional](https://github.com/kennedyaraujo/ifc/blob/main/fumat/slides/aula03-calculo-proposicional.pdf)
-    * [Vídeo - Aula 03](https://youtu.be/MK4uxmB5kxw) <br/>
-    <a href="https://youtu.be/MK4uxmB5kxw"> <img src="https://img.youtube.com/vi/MK4uxmB5kxw/maxresdefault.jpg" width="200"></a>
+    * [Notas de aula - Aula 04 - Cálculo Proposicional](https://github.com/kennedyaraujo/ifc/blob/main/fumat/notas-de-aula/aula4.png)
+    * [Vídeo - Aula 04](https://youtu.be/5rAslsZobjU) <br/>
+    <a href="https://youtu.be/5rAslsZobjU"> <img src="https://img.youtube.com/vi/5rAslsZobjU/maxresdefault.jpg" width="200"></a>
     

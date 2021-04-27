@@ -31,4 +31,3 @@
         * [Alan Cooper, O Alquimista de Software](http://duxcoworkers.com/article/alan-cooper-o-alquimista-desoftware)
          * [A Personas Guideline, From What They Are to How To Use](https://uxdesign.cc/while-we-are-talking-about-personas-what-exactly-are-we-talking-525a645eb61a)  
 
-    
