@@ -18,7 +18,7 @@
     <!-- [![Vídeo - Aula 01](https://img.youtube.com/vi/JAkcA0eMRFg/maxresdefault.jpg)](https://youtu.be/JAkcA0eMRFg) -->
 
 * **Aula 02 - Conectivos**
-    * [Slides - Aula 02](https://github.com/kennedyaraujo/ifc/blob/main/fumat/slides/aula-02-conectivos.pdf)
+    * [Slides - Aula 02](https://github.com/kennedyaraujo/ifc/blob/main/fumat/slides/aula02-conectivos.pdf)
     * [Vídeo - Aula 01](https://youtu.be/zQMZG6hHs0E) <br/>
     <a href="https://youtu.be/zQMZG6hHs0E"> <img src="https://img.youtube.com/vi/zQMZG6hHs0E/maxresdefault.jpg" width="200"></a>   
 * **Aula 03 - Resolução de Exercícios**
@@ -26,7 +26,7 @@
     * [Vídeo - Aula 03](https://youtu.be/MK4uxmB5kxw) <br/>
     <a href="https://youtu.be/MK4uxmB5kxw"> <img src="https://img.youtube.com/vi/MK4uxmB5kxw/maxresdefault.jpg" width="200"></a>
 * **Aula 04 - Cálculo Proposicional**
-    * [Slides Aula 03 - Cálculo Proposicional](https://github.com/kennedyaraujo/ifc/blob/main/fumat/slides/aula03-calculo-proposicional.pdf)
+    * [Slides Aula 04 - Cálculo Proposicional](https://github.com/kennedyaraujo/ifc/blob/main/fumat/slides/aula03-calculo-proposicional.pdf)
     * [Notas de aula - Aula 04 - Cálculo Proposicional](https://github.com/kennedyaraujo/ifc/blob/main/fumat/notas-de-aula/aula4.png)
     * [Vídeo - Aula 04](https://youtu.be/5rAslsZobjU) <br/>
     <a href="https://youtu.be/5rAslsZobjU"> <img src="https://img.youtube.com/vi/5rAslsZobjU/maxresdefault.jpg" width="200"></a>
