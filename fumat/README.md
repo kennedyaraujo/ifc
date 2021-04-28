@@ -33,5 +33,5 @@
 * **Aula 05 - Tabela Verdade**
     * [Notas de aula - Aula 05 - Tabela Verdade](https://github.com/kennedyaraujo/ifc/blob/main/fumat/notas-de-aula/aula5.png)
     * [Vídeo - Aula 05](https://youtu.be/1hMOK-dcECM ) <br/>
-    <a href="https://www.youtube.com/watch?v=1hMOK-dcECM"> <img src="https://img.youtube.com/vi/1hMOK-dcECM /maxresdefault.jpg" width="200"></a>
+    <a href="https://www.youtube.com/watch?v=1hMOK-dcECM"> <img src="https://img.youtube.com/vi/1hMOK-dcECM/maxresdefault.jpg" width="200"></a>
     
