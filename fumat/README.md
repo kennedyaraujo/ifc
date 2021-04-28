@@ -26,8 +26,12 @@
     * [Vídeo - Aula 03](https://youtu.be/MK4uxmB5kxw) <br/>
     <a href="https://youtu.be/MK4uxmB5kxw"> <img src="https://img.youtube.com/vi/MK4uxmB5kxw/maxresdefault.jpg" width="200"></a>
 * **Aula 04 - Cálculo Proposicional**
-    * [Slides Aula 04 - Cálculo Proposicional](https://github.com/kennedyaraujo/ifc/blob/main/fumat/slides/aula03-calculo-proposicional.pdf)
+    * [Slides Aula 04 - Cálculo Proposicional](https://github.com/kennedyaraujo/ifc/blob/main/fumat/slides/aula04-calculo-proposicional.pdf)
     * [Notas de aula - Aula 04 - Cálculo Proposicional](https://github.com/kennedyaraujo/ifc/blob/main/fumat/notas-de-aula/aula4.png)
     * [Vídeo - Aula 04](https://youtu.be/5rAslsZobjU) <br/>
     <a href="https://youtu.be/5rAslsZobjU"> <img src="https://img.youtube.com/vi/5rAslsZobjU/maxresdefault.jpg" width="200"></a>
+* **Aula 05 - Tabela Verdade**
+    * [Notas de aula - Aula 05 - Tabela Verdade](https://github.com/kennedyaraujo/ifc/blob/main/fumat/notas-de-aula/aula5.png)
+    * [Vídeo - Aula 05](https://youtu.be/1hMOK-dcECM ) <br/>
+    <a href="https://www.youtube.com/watch?v=1hMOK-dcECM"> <img src="https://img.youtube.com/vi/1hMOK-dcECM /maxresdefault.jpg" width="200"></a>
     
