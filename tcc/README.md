@@ -11,10 +11,12 @@
     * [Scielo](https://scielo.org/)
     * [Portal de períodicos da CAPES](https://www-periodicos-capes-gov-br.ez46.periodicos.capes.gov.br/index.php?option=com_pcollection)
     * [Google Acadêmico](https://scholar.google.com.br/)
+* Bases de Trabalhos acadêmicos
 
 
 
 ### CONTEÚDO
+ * ]Estrutura do Trabalho]()
  * [Metodologia de Pesquisa para Ciência da Computação - Raul Wazlawick](https://books.google.com.br/books?id=BZioBQAAQBAJ&newbks=0&hl=pt-BR&source=newbks_fb&redir_esc=y)  
     * [Palestra: Metodologia da Pesquisa para Ciência da Computação - Raul Wazlawick](https://www.youtube.com/watch?v=RayW_ELIlyc)
 * [Curso Escrita Científica - Prof. Dr. Valtencir Zucolotto](http://www.escritacientifica.sc.usp.br/escrita/cursos-escrita/)
