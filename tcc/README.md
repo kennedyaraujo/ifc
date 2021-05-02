@@ -3,9 +3,10 @@
 ### RECURSOS
 * [Normalização de trabalhos IFC](https://biblioteca.ifc.edu.br/normalizacao-de-trabalhos/)
 * Referências
-    * [Mecanismo Online para Referências](http://novo.more.ufsc.br/)
-    * [NORMAS ABNT - OBSERVAR MENU LATERAL ESQUERDO](https://normas-abnt.espm.br/index.php?title=Estrutura_do_trabalho)
+    * [Mecanismo Online para Referências - MORE - UFSC](http://novo.more.ufsc.br/)
     * [Gerador de referências - ZoteroBib](https://zbib.org/)
+    * [NORMAS ABNT - OBSERVAR MENU LATERAL ESQUERDO](https://normas-abnt.espm.br/index.php?title=Estrutura_do_trabalho)
+    
 * Verificadores de Plágio
     * [CopySpider](https://copyspider.com.br/main/)
     * [DOCxWEB](https://www.docxweb.com/pages/home.jsf)
