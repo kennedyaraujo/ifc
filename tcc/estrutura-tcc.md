@@ -1,5 +1,6 @@
 # ESTRUTURA DO TRABALHO
 
+1. [Resumo](#resumo)
 1. [Palavras-chave](#palavras-chave--categorias-teóricas--descritores)
 1. [Introdução](#introdução)
 1. [Fundamentação Teórica](#fundamentação-teórica)
