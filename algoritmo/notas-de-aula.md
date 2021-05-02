@@ -1,5 +1,11 @@
 # Algoritmo - NOTAS DE AULA - 2021.1
 
+#### DOCUMENTAÇÃO
+
+* [Funções Biblioteca Stdio.h](https://www.tutorialspoint.com/c_standard_library/stdio_h.htm)
+* [Funções Biblioteca Math.h](https://www.tutorialspoint.com/c_standard_library/math_h.htm)
+* [Exemplo em C](https://www.programiz.com/c-programming/examples)
+
 ### COMANDOS DE ENTRADA E SAÍDA
 #### Ferramentas
 * [Onlinegdb.com - Compilador Online de C](https://www.onlinegdb.com/online_c_compiler)
