@@ -1,12 +1,13 @@
 # TCC - Bacharelado em Ciência da Computação
 
 ### RECURSOS
-* [Normalização de trabalhos IFC](https://biblioteca.ifc.edu.br/normalizacao-de-trabalhos/)
+* Templates / Modelos
+    * [Normalização de trabalhos acadêmicos - IFC](https://biblioteca.ifc.edu.br/normalizacao-de-trabalhos/)
+    * [Normalização de trabalhos acadêmicos - UFSC](https://portal.bu.ufsc.br/normalizacao/)
 * Referências
     * [Mecanismo Online para Referências - MORE - UFSC](http://novo.more.ufsc.br/)
     * [Gerador de referências - ZoteroBib](https://zbib.org/)
-    * [NORMAS ABNT - OBSERVAR MENU LATERAL ESQUERDO](https://normas-abnt.espm.br/index.php?title=Estrutura_do_trabalho)
-    
+    * [NORMAS ABNT - OBSERVAR MENU LATERAL ESQUERDO](https://normas-abnt.espm.br/index.php?title=Estrutura_do_trabalho)    
 * Verificadores de Plágio
     * [CopySpider](https://copyspider.com.br/main/)
     * [DOCxWEB](https://www.docxweb.com/pages/home.jsf)
@@ -17,15 +18,23 @@
     * [Portal de períodicos da CAPES](https://www-periodicos-capes-gov-br.ez46.periodicos.capes.gov.br/index.php?option=com_pcollection)
     * [Google Acadêmico](https://scholar.google.com.br/)
 * Bases de Trabalhos acadêmicos
+    * [Biblioteca Digital Brasileira de Teses e Dissertações (BDTD)](http://bdtd.ibict.br/vufind/)
+    * [Biblioteca de Dissertações e Teses USP](https://teses.usp.br/)
+    * [Biblioteca Digital de Trabalhos Acadêmicos - USP](http://www.tcc.sc.usp.br/index.php)
+    * [Biblioteca de Dissertações e Teses - UFPE](https://repositorio.ufpe.br/simple-search?location=&query=&filtername=title&filtertype=contains&filterquery=%22realidade+aumentada%22&rpp=10&sort_by=score&order=desc)
+        * Aplicado filtro buscando por "realidade aumentada" no título
 * [Dicionário de sinônimos](https://www.sinonimos.com.br/)
 
 
 
 ### CONTEÚDO
  * [Estrutura do Trabalho](estrutura-tcc.md)
- * [Metodologia de Pesquisa para Ciência da Computação - Raul Wazlawick](https://books.google.com.br/books?id=BZioBQAAQBAJ&newbks=0&hl=pt-BR&source=newbks_fb&redir_esc=y)  
+ * **Palestras**      
     * [Palestra: Metodologia da Pesquisa para Ciência da Computação - Raul Wazlawick](https://www.youtube.com/watch?v=RayW_ELIlyc)
-* [Curso Escrita Científica - Prof. Dr. Valtencir Zucolotto](http://www.escritacientifica.sc.usp.br/escrita/cursos-escrita/)
+        * [Metodologia de Pesquisa para Ciência da Computação - Raul Wazlawick](https://books.google.com.br/books?id=BZioBQAAQBAJ&newbks=0&hl=pt-BR&source=newbks_fb&redir_esc=y)
+    * [Fontes de Informação nível básico e Portal de Periódicos da CAPES - BU UFSC](https://www.youtube.com/watch?v=-KmTOfX3Pok&t=118s)
+* **Cursos Escrita Científica**
+    * [Curso Escrita Científica - Prof. Dr. Valtencir Zucolotto](http://www.escritacientifica.sc.usp.br/escrita/cursos-escrita/)
 * **Realidade Aumentada**
     * [Introdução a Realidade Virtual e Aumentada - Pré-Simpósio do SVR - 2020](https://github.com/kennedyaraujo/ifc/blob/main/tcc/bibliografia-realidade-aumentada/Introdu%C3%A7%C3%A3o%20a%20Realidade%20Virtual%20e%20Aumentada%20-%20Pr%C3%A9-Simp%C3%B3sio%20do%20SVR%20-%202020.pdf)
 * **Links Recomendados**
