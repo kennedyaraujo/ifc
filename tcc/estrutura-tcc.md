@@ -23,7 +23,7 @@ Mais relacionado ao autor(a) da pesquisa, existe alguma motivação de cunho pes
 
 ## Trabalhos Relacionados
 
-Recomenda0se que você traga não só artigos mas também  trabalhos de mesmo tipo daquele que está sendo desenvolvido. Se está fazendo um TCC, inclua tamém algum trabalho de conclusão dentro dos trabalhos relacionados. Pode ocorrer de um TCC também ser transposto para forma de artigo e você ter contato com os dois tipos de documentos, é interessante citar isso quando for descrever o trabalho.
+Recomenda0se que você traga não só artigos mas também  trabalhos de mesmo tipo daquele que está sendo desenvolvido. Se está fazendo um TCC, inclua também algum trabalho de conclusão dentro dos trabalhos relacionados. Pode ocorrer de um TCC também ser transposto para forma de artigo e você ter contato com os dois tipos de documentos, é interessante citar isso quando for descrever o trabalho.
 
 Além da leitura de todo trabalho, é interessante também ler o resumo, para verificar quais os pontos do trabalho o próprio autor(a) considerou como chave para inserir em seu resumo. Ao abordar cada trabalho apresente: 
 * Título do trabalho
@@ -34,6 +34,8 @@ Além da leitura de todo trabalho, é interessante também ler o resumo, para ve
 * Resultados obtidos
 * No que o trabalho selecionado se aproxima da sua pesquisa e também no que difere
 * Sua consideração sobre o trabalho
+
+
 **Obs**: Lembre de durante seu texto citar o nome dos autores do trabalho
 
 
