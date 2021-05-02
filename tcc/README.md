@@ -16,7 +16,7 @@
 
 
 ### CONTEÚDO
- * ]Estrutura do Trabalho]()
+ * [Estrutura do Trabalho](https://github.com/kennedyaraujo/ifc/blob/main/tcc/estrutura-tcc.md)
  * [Metodologia de Pesquisa para Ciência da Computação - Raul Wazlawick](https://books.google.com.br/books?id=BZioBQAAQBAJ&newbks=0&hl=pt-BR&source=newbks_fb&redir_esc=y)  
     * [Palestra: Metodologia da Pesquisa para Ciência da Computação - Raul Wazlawick](https://www.youtube.com/watch?v=RayW_ELIlyc)
 * [Curso Escrita Científica - Prof. Dr. Valtencir Zucolotto](http://www.escritacientifica.sc.usp.br/escrita/cursos-escrita/)
