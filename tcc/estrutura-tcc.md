@@ -1,9 +1,9 @@
 # ESTRUTURA DO TRABALHO
 
-1. [Palavras-chave](## Palavras-chave / Categorias teóricas / Descritores)
-1. [Introdução](## Introdução)
-1. [Fundamentação Teórica](## Fundamentação Teórica)
-1. [Trabalhos Relacionados](## Trabalhos Relacionados)
+1. [Palavras-chave](#palavras-chave--categorias-teóricas--descritores)
+1. [Introdução](#introdução)
+1. [Fundamentação Teórica](#fundamentação-teórica)
+1. [Trabalhos Relacionados](#trabalhos-relacionados)
 
 
 ## Resumo
