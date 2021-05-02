@@ -16,7 +16,7 @@ int main() {
 }
 ```
 
-###### Sequência 
+##### Sequência 
 1. Declaração de variáveis
 1. Captura de informações
 1. Realizar cálculos
