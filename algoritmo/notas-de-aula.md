@@ -16,6 +16,12 @@ int main() {
 }
 ```
 
+###### Sequência 
+1. Declaração de variáveis
+1. Captura de informações
+1. Realizar cálculos
+1. Exibir resultados
+
 
 #### COMANDOS DE ENTRADA E SAÍDA
 ###### printf()
