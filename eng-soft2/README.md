@@ -11,7 +11,6 @@
 ---
 
 ### AULAS
-* **[NOTAS DE AULA]()**
 * **Aula 01 - Introdução à Lógica de Programação**   
     * [Slides - Aula 01](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/slides/aula01-algoritmo.pdf)
     * [Vídeo - Aula 01](https://youtu.be/JAkcA0eMRFg) <br/>
