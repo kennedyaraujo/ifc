@@ -7,14 +7,14 @@
 * [Exemplo em C](https://www.programiz.com/c-programming/examples)
 
 #### ESTRUTURA BASE
-ˋˋˋ
+```
 #include <stdio.h>
 int main() {
    // este é um comentário
    printf("Olá, Mundo!");
    return 0;
 }
-ˋˋˋ
+```
 
 
 #### COMANDOS DE ENTRADA E SAÍDA
