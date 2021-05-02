@@ -20,15 +20,13 @@ As palavras-chave irão refletir os pontos principais nos quais sua pesquisa foc
 
 ## Introdução
 
-1. Justificativa
-Discorre a respeito das lacunas/problemas existente que a pesquisa deve resolver
+#### Subseções
+1. **Justificativa:** Discorre a respeito das lacunas/problemas existente que a pesquisa deve resolver
 Pode-se apresentar dados que embasem a relavância do tema
-1. Motivação
-Mais relacionado ao autor(a) da pesquisa, existe alguma motivação de cunho pessoal para o desenvimento da pesquisa?
-1. Objetivos
-    1. Objetivo Geral
-    1. Objetivo Específico
-        Correspondem as etapas a serem seguidas para que se alcance o objetivo Geral.Sentenças claras, contendo apenas um único verbo que deve, preferencialmente, iniciar a frase e estar no infinitivo. Quantidade entre 3 e 5.
+1. **Motivação:** Mais relacionado ao autor(a) da pesquisa, existe alguma motivação de cunho pessoal para o desenvimento da pesquisa?
+1. **Objetivos**
+    1. Objetivo Geral: Sentenças claras, contendo apenas um único verbo que deve, preferencialmente, iniciar a frase e estar no infinitivo.
+    1. Objetivo Específico: Correspondem as etapas a serem seguidas para que se alcance o objetivo Geral. Quantidade entre 3 e 5.
 
 
 ## Fundamentação Teórica
