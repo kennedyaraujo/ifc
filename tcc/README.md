@@ -5,6 +5,7 @@
 * Referências
     * [Mecanismo Online para Referências](http://novo.more.ufsc.br/)
     * [NORMAS ABNT - OBSERVAR MENU LATERAL ESQUERDO](https://normas-abnt.espm.br/index.php?title=Estrutura_do_trabalho)
+    * [Gerador de referências - ZoteroBib](https://zbib.org/)
 * Verificadores de Plágio
     * [CopySpider](https://copyspider.com.br/main/)
     * [DOCxWEB](https://www.docxweb.com/pages/home.jsf)
