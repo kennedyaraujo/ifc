@@ -8,8 +8,8 @@
 * Verificadores de Plágio
     * [CopySpider](https://copyspider.com.br/main/)
     * [DOCxWEB](https://www.docxweb.com/pages/home.jsf)
-* Base de dados
-    * [Scopus - Necessira de permissão para busca](https://www.scopus.com/search/form.uri)
+* Bases de dados
+    * [Scopus - Necessita de permissão para busca](https://www.scopus.com/search/form.uri)
     * [IEE - Busca aberta com artigos de acesso privado](https://ieeexplore.ieee.org/)
     * [Scielo](https://scielo.org/)
     * [Portal de períodicos da CAPES](https://www-periodicos-capes-gov-br.ez46.periodicos.capes.gov.br/index.php?option=com_pcollection)
@@ -27,7 +27,7 @@
 * **Realidade Aumentada**
     * [Introdução a Realidade Virtual e Aumentada - Pré-Simpósio do SVR - 2020](https://github.com/kennedyaraujo/ifc/blob/main/tcc/bibliografia-realidade-aumentada/Introdu%C3%A7%C3%A3o%20a%20Realidade%20Virtual%20e%20Aumentada%20-%20Pr%C3%A9-Simp%C3%B3sio%20do%20SVR%20-%202020.pdf)
 * **Links Recomendados**
-    *[Videoaulas gratuitas ensinam a fazer TCC, tese e monografia](https://porvir.org/videoaulas-gratuitas-ensinam-fazer-de-tcc-tese/)
+    * [Videoaulas gratuitas ensinam a fazer TCC, tese e monografia](https://porvir.org/videoaulas-gratuitas-ensinam-fazer-de-tcc-tese/)
 
 ---
 
