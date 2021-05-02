@@ -1,6 +1,7 @@
 # TCC - Bacharelado em Ciência da Computação
 
 ### RECURSOS
+* [Normalização de trabalhos IFC](https://biblioteca.ifc.edu.br/normalizacao-de-trabalhos/)
 * Referências
     * [Mecanismo Online para Referências](http://novo.more.ufsc.br/)
     * [NORMAS ABNT - OBSERVAR MENU LATERAL ESQUERDO](https://normas-abnt.espm.br/index.php?title=Estrutura_do_trabalho)
