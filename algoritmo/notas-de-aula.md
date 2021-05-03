@@ -24,8 +24,50 @@ int main() {
 
 
 #### COMANDOS DE ENTRADA E SAÍDA
-###### printf()
-###### scanf()
+##### printf() - Exibir Informações - Saída
+O comando `printf()` é utilizado para exibir uma mensagem na tela do programa.
+
+###### Sintaxe
+```
+   printf(string, [variavel1,variavel2...]);
+```
+
+###### Exemplos
+```
+#include <stdio.h>
+int main() {
+   // exemplo de mensagem
+   printf("Olá, Mundo!");
+   return 0;
+}
+```
+
+```
+#include <stdio.h>
+int main() {
+   int soma;
+   soma = 2 + 2+
+   // exemplo de mensagem com variável
+   printf("O resultado é %d", soma);
+   return 0;
+}
+```
+
+```
+#include <stdio.h>
+int main() {
+   int dividendo, divisor;
+   dividendo = 6;
+   divisor = 3;
+   // exemplo de mensagem com variável
+   printf("O resultado é da divisão de %d por %d é %d", dividendo, divisor, dividendo/dividor);
+   return 0;
+}
+```
+
+
+
+##### scanf() - Capturar dados - Entrada
 
 Utilização | Tipo de dado
 ----|-------|
