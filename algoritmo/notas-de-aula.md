@@ -1,5 +1,13 @@
 # Algoritmo - NOTAS DE AULA - 2021.1
 
+## Índice
+
+1. [Documentação](#documentação)
+1. [Estrutra Base](#estrutura-base)
+1. [Comandos de Entrada e Saída](#comandos-de-entrada-e-saída)
+1. [Variáveis](#variáveis)
+1. [Operadores](#operadores)
+
 ## DOCUMENTAÇÃO
 
 * [Funções Biblioteca Stdio.h](https://www.tutorialspoint.com/c_standard_library/stdio_h.htm)
