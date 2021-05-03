@@ -1,6 +1,6 @@
 # TCC - Bacharelado em Ciência da Computação
 
-> Trabalhos que não possuem referências, não são considerados de cunho científico. Por não possuírem embasamento teórico, serão tratados como **obras de ficção.**
+> Trabalhos que não possuem referências, não são considerados de cunho científico. Por não possuírem embasamento teórico, serão tratados como **obras de ficção.** - [Primeiro uso identificado](https://github.com/kennedyaraujo/ifc/blob/main/tcc/documentos-normalizacao/PADRÃO INCISA_IMAM DE NORMALIZAÇÃO.pdf)
 
 
 ### CONTEÚDO
