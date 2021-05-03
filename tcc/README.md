@@ -4,17 +4,17 @@
 
 
 ### CONTEÚDO
- * [Estrutura do Trabalho](estrutura-tcc.md)
- * **Palestras**      
-    * [Palestra: Metodologia da Pesquisa para Ciência da Computação - Raul Wazlawick](https://www.youtube.com/watch?v=RayW_ELIlyc)
-        * [Metodologia de Pesquisa para Ciência da Computação - Raul Wazlawick](https://books.google.com.br/books?id=BZioBQAAQBAJ&newbks=0&hl=pt-BR&source=newbks_fb&redir_esc=y)
-    * [Fontes de Informação nível básico e Portal de Periódicos da CAPES - BU UFSC](https://www.youtube.com/watch?v=-KmTOfX3Pok&t=118s)
+* [ESTRUTURA DO TRABALHO](estrutura-tcc.md) 
 * **Cursos Escrita Científica**
     * [Curso Escrita Científica - Prof. Dr. Valtencir Zucolotto](http://www.escritacientifica.sc.usp.br/escrita/cursos-escrita/)
 * **Realidade Aumentada**
     * [Introdução a Realidade Virtual e Aumentada - Pré-Simpósio do SVR - 2020](https://github.com/kennedyaraujo/ifc/blob/main/tcc/bibliografia-realidade-aumentada/Introdu%C3%A7%C3%A3o%20a%20Realidade%20Virtual%20e%20Aumentada%20-%20Pr%C3%A9-Simp%C3%B3sio%20do%20SVR%20-%202020.pdf)
 * **Links Recomendados**
     * [Videoaulas gratuitas ensinam a fazer TCC, tese e monografia](https://porvir.org/videoaulas-gratuitas-ensinam-fazer-de-tcc-tese/)
+* **Palestras**      
+    * [Palestra: Metodologia da Pesquisa para Ciência da Computação - Raul Wazlawick](https://www.youtube.com/watch?v=RayW_ELIlyc)
+        * [Metodologia de Pesquisa para Ciência da Computação - Raul Wazlawick](https://books.google.com.br/books?id=BZioBQAAQBAJ&newbks=0&hl=pt-BR&source=newbks_fb&redir_esc=y)
+    * [Fontes de Informação nível básico e Portal de Periódicos da CAPES - BU UFSC](https://www.youtube.com/watch?v=-KmTOfX3Pok&t=118s)
 
 ---
 
