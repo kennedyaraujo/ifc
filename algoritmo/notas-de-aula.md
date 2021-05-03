@@ -1,12 +1,12 @@
 # Algoritmo - NOTAS DE AULA - 2021.1
 
-#### DOCUMENTAÇÃO
+## DOCUMENTAÇÃO
 
 * [Funções Biblioteca Stdio.h](https://www.tutorialspoint.com/c_standard_library/stdio_h.htm)
 * [Funções Biblioteca Math.h](https://www.tutorialspoint.com/c_standard_library/math_h.htm)
 * [Exemplo em C](https://www.programiz.com/c-programming/examples)
 
-#### ESTRUTURA BASE
+## ESTRUTURA BASE
 ```
 #include <stdio.h>
 int main() {
@@ -16,23 +16,23 @@ int main() {
 }
 ```
 
-##### Sequência 
+### Sequência 
 1. Declaração de variáveis
 1. Captura de informações
 1. Realizar cálculos
 1. Exibir resultados
 
 
-#### COMANDOS DE ENTRADA E SAÍDA
-##### printf() - Exibir Informações - Saída
+## COMANDOS DE ENTRADA E SAÍDA
+### printf() - Exibir Informações - Saída
 O comando `printf()` é utilizado para exibir uma mensagem na tela do programa.
 
-###### Sintaxe
+#### Sintaxe
 ```
    printf(string, [variavel1,variavel2...]);
 ```
 
-###### Exemplos
+#### Exemplos
 ```
 #include <stdio.h>
 int main() {
@@ -67,7 +67,7 @@ int main() {
 
 
 
-##### scanf() - Capturar dados - Entrada
+### scanf() - Capturar dados - Entrada
 
 Utilização | Tipo de dado
 ----|-------|
@@ -79,9 +79,9 @@ s | string - char *
 Fonte:[Prof Rodolfo Resende - UFMG](https://homepages.dcc.ufmg.br/~rodolfo/aedsi-2-10/printf_scanf/printfscanf.html) 
 
 
-#### VARIÁVEIS
+## VARIÁVEIS
 
-##### Declaração de variáveis
+### Declaração de variáveis
 
 Declaração | Tipo de dado | Descrição
 ----|-------|-------------------
@@ -93,9 +93,9 @@ bool | Valor lógico (V ou F) | Indica true (verdadeiro) ou false (falso)
 
 Fonte: [pt.wikibooks.org](https://pt.wikibooks.org/wiki/Programar_em_C/Tipos_de_dados) 
 
-#### OPERADORES
+## OPERADORES
 
-##### ARITMÉTICOS
+### ARITMÉTICOS
 
 Operador | Operação 
 :----: | :-------
@@ -105,7 +105,7 @@ Operador | Operação
 `/` | Divisão
 `%` | Resto inteiro da divisão
 
-##### RELACIONAIS
+### RELACIONAIS
 Operador | Operação
 :----: |-------
 `==` | Igual
@@ -115,7 +115,7 @@ Operador | Operação
 `<` | Menor
 `<=` | Menor ou Igual
 
-###### LÓGICOS
+### LÓGICOS
 Operador | Operação | Descrição
 :----: |------- | ----------------
 `&&` | E | As duas operações precisam necessáriamente retornar verdadeiro
