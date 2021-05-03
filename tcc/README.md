@@ -1,5 +1,7 @@
 # TCC - Bacharelado em Ciência da Computação
 
+> Trabalhos que não possuem referências não são considerados de cunho científico. Por não possuírem embasamento teórico, são tratados como **obras de ficção.**
+
 
 ### CONTEÚDO
  * [Estrutura do Trabalho](estrutura-tcc.md)
