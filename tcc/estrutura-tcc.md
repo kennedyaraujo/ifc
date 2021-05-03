@@ -24,7 +24,7 @@ Deve apontar:
 * Resultados
 * Conclusão
 
-Deve ser construído como parágrafo único, utilizando o verbo na voz ativa e na terceira pessoa do singular.  Em sua extensão deve ter no mínimo 150 e no máximo 500 palavras para trabalhos acadêmicos (teses, dissertações e outros) e relatórios técnico-cientifícos; e de 100 a 250 palavras os de artigos de periódicos.
+De acordo com a NBR 6028, deve ser construído como parágrafo único, utilizando o verbo na voz ativa e na terceira pessoa do singular.  Em sua extensão deve ter no mínimo 150 e no máximo 500 palavras para trabalhos acadêmicos (teses, dissertações e outros) e relatórios técnico-cientifícos; e de 100 a 250 palavras os de artigos de periódicos.
 
 
 ## Palavras-chave / Categorias teóricas / Descritores
@@ -46,8 +46,12 @@ Pode-se apresentar dados que embasem a relavância do tema
 1. **Questões e hipóteses:**
 1. **Organização do trabalho:**
 
-## Fundamentação Teórica
 
+## Fundamentação Teórica
+Evite seções ou subseções que tenham como fonte um único autor.
+Deve-se construir um diálogo com os conceitos
+
+Expor conceitos de autores distintos, indicar qual será adotado no trabalho, ou partir do que foi exposto elaborar sua própria definição.
 
 ## Trabalhos Relacionados
 
@@ -60,8 +64,8 @@ Além da leitura de todo trabalho, é interessante também ler o resumo, para ve
 * Objetivos / A solução proposta
 * Como foi implementada (percurso metodológico)
 * Resultados obtidos
-* No que o trabalho selecionado se aproxima da sua pesquisa e também no que difere
-* Sua consideração sobre o trabalho
+* O porquê da escolha do trabalho, no que ele se aproxima da sua pesquisa e em quais pontos se distncia
+* Suas considerações sobre o trabalho: algum ponto que chamou atenção, um determinado conceito que desconhecia, métodos podem ser aplicados em outros contexto...
 
 
 **Obs**: Lembre de durante seu texto citar o nome dos autores do trabalho
