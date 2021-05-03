@@ -14,20 +14,37 @@
 
 
 ## Resumo
+Deve reunir os pontos chaves do trabalho, recomenda-se que seja construído depois que o trabalho estiver finalizado.
+
+Deve apontar:
+* Contexto: identificar área de pesquisa / grande área na qual o trabalho está inserido e qual sua contribuição
+* GAP (lacuna):  o que ainda não é bem entendido, o que ainda é controverso, o que precisa ser estudado nesse campo ()
+* Propósito: o que ele fez e o que está sendo reportado, qual o objetivo, deve estar relacionado com o gap
+* Metodologia / Percurso metodológico: sucinta
+* Resultados
+* Conclusão
+
+Deve ser construído como parágrafo único, utilizando o verbo na voz ativa e na terceira pessoa do singular.  Em sua extensão deve ter no mínimo 150 e no máximo 500 palavras para trabalhos acadêmicos (teses, dissertações e outros) e relatórios técnico-cientifícos; e de 100 a 250 palavras os de artigos de periódicos.
+
 
 ## Palavras-chave / Categorias teóricas / Descritores
+
+Segundo a NBR 6028, palavra-chave é uma “palavra representativa do conteúdo do documento, escolhida, preferentemente, em vocabulário controlado.” Devem ser separadas por ponto e finalizadas também por ponto.
+
 As palavras-chave irão refletir os pontos principais nos quais sua pesquisa focará, elas servirão de base para estruturação da seção de referêncial teórico. Antes de definá-las vale a pena antes elaborar a seção de trabalhos relacionados, observe quais as palavras chave que estão mais em uso para os assuntos que pretende utilizar. Faça buscas com as palavras que você definiu nas bases listadas e veja quais os trabalhos que são listados.
 
 ## Introdução
 
 #### Subseções
-1. **Justificativa:** Discorre a respeito das lacunas/problemas existente que a pesquisa deve resolver
+1. **Definição do problema:**
+1. **Justificativa / Importância da pesquisa:** Discorre a respeito das lacunas/problemas existente que a pesquisa deve resolver
 Pode-se apresentar dados que embasem a relavância do tema
 1. **Motivação:** Mais relacionado ao autor(a) da pesquisa, existe alguma motivação de cunho pessoal para o desenvimento da pesquisa?
 1. **Objetivos**
     1. Objetivo Geral: Sentenças claras, contendo apenas um único verbo que deve, preferencialmente, iniciar a frase e estar no infinitivo.
     1. Objetivo Específico: Correspondem as etapas a serem seguidas para que se alcance o objetivo Geral. Quantidade entre 3 e 5.
-
+1. **Questões e hipóteses:**
+1. **Organização do trabalho:**
 
 ## Fundamentação Teórica
 
@@ -62,7 +79,10 @@ Se possível construa um diagrama para exemplificar as etapas que serão seguida
 ## Considerações Finais / Conclusão
 Deve-se revisitar os objetivos do trabalho fazendo comentários sobre cada um deles.
 
-1. Limitações da pesquisa
+1. Conclusões
+1. Contribuições
+1. Impactos da pesquisa
+1. Limites e Limitações da pesquisa
 1. Trabalhos Futuros
 1. Considerações Finais
 
@@ -76,3 +96,7 @@ Recomendações:
 * Evite documentos em que não se tem autoria definida ou não se sabe o ano que foi publicado
 * Evite utilizar o mesmo autor em parágrafos seguidos
 * Seções ou subseções que tenham como fonte um único autor
+
+
+
+Fonte:
