@@ -24,4 +24,6 @@
     * [Vídeo - Aula 02](https://youtu.be/BCZrWyFd6LI) <br/>
     <a href="https://youtu.be/JAkcA0eMRFg"> <img src="https://img.youtube.com/vi/BCZrWyFd6LI/maxresdefault.jpg" width="200"></a>
 * Aula 03
+    * [Vídeo - Aula 03](https://youtu.be/BCZrWyFd6LI) <br/>
+    <a href="https://youtu.be/EgsERRlPozk"> <img src="https://img.youtube.com/vi/EgsERRlPozk/maxresdefault.jpg" width="200"></a>
     * [Resoluções propostas](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/resolucoes/resolucao-aula-03.c)
