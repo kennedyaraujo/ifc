@@ -73,9 +73,9 @@ int main() {
 }
 ```
 
-
-
 ### scanf() - Capturar dados - Entrada
+
+
 
 Utilização | Tipo de dado
 ----|-------|
@@ -84,6 +84,7 @@ f | float
 c | char
 f | double
 s | string - char *
+
 Fonte:[Prof Rodolfo Resende - UFMG](https://homepages.dcc.ufmg.br/~rodolfo/aedsi-2-10/printf_scanf/printfscanf.html) 
 
 
