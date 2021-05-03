@@ -90,6 +90,11 @@ Fonte: [Prof Rodolfo Resende - UFMG](https://homepages.dcc.ufmg.br/~rodolfo/aeds
 
 ## VARIÁVEIS
 
+Regras para nomeação de uma variável:
+* Devem começar por um caracter alfabético (pref. minúsculo)
+* Podem ser seguidos por mais caracteres alfabéticos ou numéricos
+* Não devem ser usados caracteres especiais
+
 
 ### Declaração de variáveis
 
