@@ -17,13 +17,18 @@
     * [Vídeo - Aula 01](https://youtu.be/JAkcA0eMRFg) <br/>
     <a href="https://youtu.be/JAkcA0eMRFg"> <img src="https://img.youtube.com/vi/JAkcA0eMRFg/maxresdefault.jpg" width="200"></a>  
     <!-- [![Vídeo - Aula 01](https://img.youtube.com/vi/JAkcA0eMRFg/maxresdefault.jpg)](https://youtu.be/JAkcA0eMRFg) -->
-* Aula 02
+* Aula 02 - Comandos de entrada e saída e operações aritméticas
     * [Planilha para inserção das questões](https://docs.google.com/spreadsheets/d/1owTPhGuBwUFKWh28IJnBClg6TOkNqQScMr8StXa4nco/edit?usp=sharing)
     * [Lista de Exercício Operadores e Estrutura de Decisão](https://drive.google.com/file/d/1styjLAxRdBwRE6aa-xtRyxXGKYvYjK3j/view?usp=sharing)
     * [Arquivo de codificação](https://replit.com/join/wvwrkydp-kennedyarajo)
     * [Vídeo - Aula 02](https://youtu.be/BCZrWyFd6LI) <br/>
     <a href="https://youtu.be/JAkcA0eMRFg"> <img src="https://img.youtube.com/vi/BCZrWyFd6LI/maxresdefault.jpg" width="200"></a>
-* Aula 03
+* Aula 03 - Resolução de Exercícios
     * [Vídeo - Aula 03](https://youtu.be/BCZrWyFd6LI) <br/>
     <a href="https://youtu.be/EgsERRlPozk"> <img src="https://img.youtube.com/vi/EgsERRlPozk/maxresdefault.jpg" width="200"></a>
     * [Resoluções propostas](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/resolucoes/resolucao-aula-03.c)
+
+* Aula 04 - Estrutura de Decisão (IF{}ELSE{})
+    * [Vídeo - Aula 04](https://youtu.be/AoboWZM-Fkc) <br/>
+    <a href="https://youtu.be/AoboWZM-Fkc"> <img src="https://img.youtube.com/vi/AoboWZM-Fkc/maxresdefault.jpg" width="200"></a>
+    * [Resoluções propostas](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/resolucoes/resolucao-aula-04.c)
