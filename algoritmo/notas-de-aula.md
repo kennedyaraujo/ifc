@@ -33,7 +33,7 @@ int main() {
 
 ## COMANDOS DE ENTRADA E SAÍDA
 ### printf() - Exibir Informações - Saída
-O comando `printf()` é utilizado para exibir uma mensagem na tela do programa. A mensagem a ser exibida deve estar entre aspas (por ser uma string), e caso deseja inserir variáveis na mensagem informe dentro de texto que naquele ponto será exibido uma variável utilizando o marcador % junto com o tipo da variável (%d, inteiro; %f, floar...) e depois do texto informe as variáveis que devem ser mostradas de forma que a sequência corresponda a ordem em que devem ser exibidas no texto.
+O comando `printf()` é utilizado para exibir uma mensagem na tela do programa, atua no fluxo de saída. A mensagem a ser exibida deve estar entre aspas (por ser uma string), e caso deseja inserir variáveis na mensagem informe dentro de texto que naquele ponto será exibido uma variável utilizando o marcador % junto com o tipo da variável (%d, inteiro; %f, floar...) e depois do texto informe as variáveis que devem ser mostradas de forma que a sequência corresponda a ordem em que devem ser exibidas no texto.
 
 #### Sintaxe
 ```
