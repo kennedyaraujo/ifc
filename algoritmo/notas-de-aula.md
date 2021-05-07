@@ -137,3 +137,4 @@ Operador | Operação | Descrição
 `|`  | OU | Pelo menos uma das operações precisa retornar verdadeiro
 `|` | OU | Pelo menos uma das operações precisa retornar verdadeiro
 
+## LEMBRETES
