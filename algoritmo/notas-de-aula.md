@@ -134,5 +134,5 @@ Operador | Operação
 Operador | Operação | Descrição
 :----: |------- | ----------------
 `&&` | E | As duas operações precisam necessáriamente retornar verdadeiro
-`||` | OU | Pelo menos uma das operações precisa retornar verdadeiro
+`||`  | OU | Pelo menos uma das operações precisa retornar verdadeiro
 
