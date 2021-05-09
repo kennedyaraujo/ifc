@@ -10,7 +10,7 @@
 
 ### AULAS
 * **Aula 01 - Introdução à Realidade Aumentada**   
-    * [Artigo The Ultimate Display -  Ivan E. Sutherland](https://github.com/kennedyaraujo/ifc/blob/main/ihm/slides/aula01-introducao-a-ihc.pdf)
+    * [Artigo The Ultimate Display -  Ivan E. Sutherland](https://github.com/kennedyaraujo/ifc/blob/main/tei2/bibliografia-realidade-aumentada/The%20ultimate%20display%20-%20Ivan%20E%20Sutherland.pdf)
     * [Vídeo 01 - Sensorama - Morton Heilig's - Observar 1:25](https://www.youtube.com/watch?v=AFqXGxKsM3w)
     * [Vídeo 02 - Óculos Criado por Ivan Sutherland - Observar 2:58](https://www.youtube.com/watch?v=AFqXGxKsM3w)
-    * [Augmented Reality: An Application of Heads-Up Display Technology to Manual Manufacturing Processes]()
+    * [Augmented Reality: An Application of Heads-Up Display Technology to Manual Manufacturing Processes](https://github.com/kennedyaraujo/ifc/blob/main/tei2/bibliografia-realidade-aumentada/Augmented%20Reality%20-%20An%20Application%20of%20Heads-Up%20Display%20Technology%20to%20Manual%20-%20Thomas%20C%20David%20M.pdf)
