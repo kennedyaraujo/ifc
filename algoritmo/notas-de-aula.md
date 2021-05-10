@@ -134,8 +134,7 @@ Operador | Operação
 Operador | Operação | Descrição
 :----: |------- | ----------------
 `&&` | E | As duas operações precisam necessáriamente retornar verdadeiro
-`&&` | Teste  | Verificar
-` | | ` | E | As duas operações precisam necessáriamente retornar verdadeiro
+&#124;&#124; | OU | Apenas uma das opções precisa ser verdadeira
 
 
 ## LEMBRETES
