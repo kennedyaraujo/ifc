@@ -54,7 +54,7 @@ int main() {
 #include <stdio.h>
 int main() {
    int soma;
-   soma = 2 + 2+
+   soma = 2 + 2;
    // exemplo de mensagem com variável
    printf("O resultado é %d", soma);
    return 0;
@@ -108,9 +108,11 @@ bool | Valor lógico (V ou F) | Indica true (verdadeiro) ou false (falso)
 
 Fonte: [pt.wikibooks.org](https://pt.wikibooks.org/wiki/Programar_em_C/Tipos_de_dados) 
 
+---
+
 ## OPERADORES
 
-### ARITMÉTICOS
+### OPERADORES ARITMÉTICOS
 
 Operador | Operação 
 :----: | :-------
@@ -120,7 +122,7 @@ Operador | Operação
 `/` | Divisão
 `%` | Resto inteiro da divisão
 
-### RELACIONAIS
+### OPERADORES RELACIONAIS
 Operador | Operação
 :----: |-------
 `==` | Igual
@@ -130,12 +132,14 @@ Operador | Operação
 `<` | Menor
 `<=` | Menor ou Igual
 
-### LÓGICOS
+### OPERADORES LÓGICOS
 Operador | Operação | Descrição
 :----: |------- | ----------------
 `&&` | E | As duas operações precisam necessáriamente retornar verdadeiro
 &#124;&#124; | OU | Apenas uma das opções precisa ser verdadeira
 
+
+---
 
 ## CONDICIONAL
 
