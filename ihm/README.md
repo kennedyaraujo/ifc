@@ -16,7 +16,8 @@
     * [Vídeo - Aula 01](https://youtu.be/AYDYyCjbJtM) <br/>
     <a href="https://youtu.be/AYDYyCjbJtM"> <img src="https://img.youtube.com/vi/AYDYyCjbJtM/maxresdefault.jpg" width="200"></a>  
     <!-- [![Vídeo - Aula 01](https://img.youtube.com/vi/JAkcA0eMRFg/maxresdefault.jpg)](https://youtu.be/JAkcA0eMRFg) -->
-* **Aula 02 - Personas**   
+* **Aula 02 - Apresentação Análise de sites**
+* **Aula 03 - Personas**   
     * [Slides - Aula 02](https://github.com/kennedyaraujo/ifc/blob/main/ihm/slides/aula-02-persona.pdf)    
     * [Vídeo - Aula 02](https://www.youtube.com/watch?v=FbZTTTCdzHs) <br/>
     <a href="https://www.youtube.com/watch?v=FbZTTTCdzHs"> <img src="https://img.youtube.com/vi/FbZTTTCdzHs/maxresdefault.jpg" width="200"></a>
@@ -30,4 +31,8 @@
         * [O que é buyer persona?](https://www.tracto.com.br/buyer-persona/)
         * [Alan Cooper, O Alquimista de Software](http://duxcoworkers.com/article/alan-cooper-o-alquimista-desoftware)
          * [A Personas Guideline, From What They Are to How To Use](https://uxdesign.cc/while-we-are-talking-about-personas-what-exactly-are-we-talking-525a645eb61a)  
-
+* **Aula 04 - Criação das Personas**
+* **Aula 05 - Apresentação das Personas**
+    * [Pasta Personas](https://drive.google.com/drive/folders/1ZTqI9M5uG9sxlUZgsLebZQjLXZQ9h4f-)
+    * [Vídeo - Aula 02](https://www.youtube.com/watch?v=8_nTn3OYZOY) <br/>
+    <a href="https://www.youtube.com/watch?v=8_nTn3OYZOY"> <img src="https://img.youtube.com/vi/8_nTn3OYZOY/maxresdefault.jpg" width="200"></a>

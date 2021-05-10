@@ -10,12 +10,12 @@
 
 ### AULAS
 * **Aula 01 - Introdução à Realidade Aumentada**
-    * [Slides Aula 01](https://github.com/kennedyaraujo/ifc/blob/main/tei2/slides/aula01-introducao-ra.pdf)   
-    * [Artigo The Ultimate Display -  Ivan E. Sutherland](https://github.com/kennedyaraujo/ifc/blob/main/tei2/bibliografia-realidade-aumentada/The%20ultimate%20display%20-%20Ivan%20E%20Sutherland.pdf)
+    * [Slides Aula 01](https://github.com/kennedyaraujo/ifc/blob/main/tei2/slides/aula01-introducao-ra.pdf)    
     * [Vídeo 01 - Sensorama - Morton Heilig's](https://www.youtube.com/watch?v=vSINEBZNCks)
         * 0:10 - Imagens mostradas no sensorama
         * 1:23 - Imagens da máquina sendo utilizada 
     * [Vídeo 02 - Óculos Criado por Ivan Sutherland](https://www.youtube.com/watch?v=AFqXGxKsM3w)
         * 2:58 - Imagens sendo colocadas sobrepostas ao ambiente
         * 3:10 - Display sendo usado
-    * [Augmented Reality: An Application of Heads-Up Display Technology to Manual Manufacturing Processes](https://github.com/kennedyaraujo/ifc/blob/main/tei2/bibliografia-realidade-aumentada/Augmented%20Reality%20-%20An%20Application%20of%20Heads-Up%20Display%20Technology%20to%20Manual%20-%20Thomas%20C%20David%20M.pdf)
+    * [Artigo - The Ultimate Display -  Ivan E. Sutherland](https://github.com/kennedyaraujo/ifc/blob/main/tei2/bibliografia-realidade-aumentada/The%20ultimate%20display%20-%20Ivan%20E%20Sutherland.pdf)
+    * [Artigo - Augmented Reality: An Application of Heads-Up Display Technology to Manual Manufacturing Processes](https://github.com/kennedyaraujo/ifc/blob/main/tei2/bibliografia-realidade-aumentada/Augmented%20Reality%20-%20An%20Application%20of%20Heads-Up%20Display%20Technology%20to%20Manual%20-%20Thomas%20C%20David%20M.pdf)
