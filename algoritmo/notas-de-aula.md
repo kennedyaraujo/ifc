@@ -137,4 +137,88 @@ Operador | Operação | Descrição
 &#124;&#124; | OU | Apenas uma das opções precisa ser verdadeira
 
 
-## LEMBRETES
+## CONDICIONAL
+
+#### Estrutura base
+
+```
+if(<condição>){
+   //código a ser executado se a condição for verdadeira
+}
+```
+
+```
+if(<condição>){
+   //código a ser executado se a condição for verdadeira
+}else{
+   //código a ser executado se a condição for falso
+}
+```
+
+```
+if(<condição1>){
+   //código a ser executado se a condição 1 for verdadeira
+}else if(<condição2>){
+   //código a ser executado se a condição 2 for verdadeira
+}else{
+   //código a ser executado se a condição for falso
+}
+```
+
+#### Exemplo
+
+```
+//REQUISITAR UM NÚMERO E INFORMAR SE ELE É PAR OU ÍMPAR
+#include <stdio.h>
+int main(void) {
+  //declarar as variáveis
+  int numero;
+
+  //capturar informações
+  printf("Informe um número:\n");
+  scanf("%d", &numero);
+
+  //fazer o calculo e mostrar o resultado
+  if(numero%2 == 0){
+    printf("O número é par\n");
+  }else{
+    printf("O numero é ímpar\n");
+  }
+
+  return 0;
+}
+
+```
+
+
+```
+// Solicite ao usuário o numero do mês e informe em qual trimestre ele se encontra
+#include <stdio.h>
+int main(void) {   
+   //capturar variavel
+   int mes;
+   //capturar informacoes - breno reck
+   printf("Informe o mês: \n");
+   scanf("%d",&mes);
+
+   if(mes <= 3){
+      printf("1° TRI.\n");
+   }
+   //if(mes==4 || mes==5 || mes==6)
+   if(mes>3 && mes<=6){
+      printf("2° TRI.\n");
+   }
+   if(mes>6 && mes<=9){
+      printf("3° TRI.\n");
+   }
+   if(mes>9){
+      printf("4° TRI.\n");
+   }
+
+  return 0;
+}
+
+```
+
+
+De início imagine que cada condição precisará de um [operador relacionnal](#relacionais) fazendo a comparação entre dois valores que podem ser representados por variáveis.
