@@ -19,3 +19,5 @@
         * 3:10 - Display sendo usado
     * [Artigo - The Ultimate Display -  Ivan E. Sutherland](https://github.com/kennedyaraujo/ifc/blob/main/tei2/bibliografia-realidade-aumentada/The%20ultimate%20display%20-%20Ivan%20E%20Sutherland.pdf)
     * [Artigo - Augmented Reality: An Application of Heads-Up Display Technology to Manual Manufacturing Processes](https://github.com/kennedyaraujo/ifc/blob/main/tei2/bibliografia-realidade-aumentada/Augmented%20Reality%20-%20An%20Application%20of%20Heads-Up%20Display%20Technology%20to%20Manual%20-%20Thomas%20C%20David%20M.pdf)
+    * [Vídeo - Aula 01](https://www.youtube.com/watch?v=qjKx1nFbmZ8) <br/>
+    <a href="https://youtu.be/qjKx1nFbmZ8"> <img src="https://img.youtube.com/vi/qjKx1nFbmZ8/maxresdefault.jpg" width="200"></a>
