@@ -42,8 +42,12 @@
     * [Biblioteca Digital de Trabalhos Acadêmicos - USP](http://www.tcc.sc.usp.br/index.php)
     * [Biblioteca de Dissertações e Teses - UFPE](https://repositorio.ufpe.br/simple-search?location=&query=&filtername=title&filtertype=contains&filterquery=%22realidade+aumentada%22&rpp=10&sort_by=score&order=desc)
         * Aplicado filtro buscando por "realidade aumentada" no título
-* [Dicionário de sinônimos](https://www.sinonimos.com.br/)
-
+* Escrita
+    * [Dicionário de sinônimos](https://www.sinonimos.com.br/)
+    * [Tradutor - Translito](https://www.translito.com/portuguese/)
+    * [Assistente para escrita em inglês - Grammarly](https://www.grammarly.com/)
+* Ferramentas Diversas
+    * [Framadate - Marcação de Reuniões](https://framadate.org/)
 
 ---
 
