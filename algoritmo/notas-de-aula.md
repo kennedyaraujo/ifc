@@ -24,6 +24,12 @@ int main() {
 }
 ```
 
+### Lembretes
+   * Toda linha deve ser finalizada com um ponto e virgula ;
+   * Comentários
+      * Uma linha: `//`
+      * Multiplas linhas: `/*    */`
+
 ### Sequência 
 1. Declaração de variáveis
 1. Captura de informações
@@ -150,6 +156,13 @@ if(<condição>){
    //código a ser executado se a condição for verdadeira
 }
 ```
+Caso o código a ser executado tenha apenas uma linha o uso das chaves no if é opcional
+```
+if(<condição>)
+   //código a ser executado se a condição for verdadeira
+```
+
+
 
 ```
 if(<condição>){

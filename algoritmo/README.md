@@ -23,12 +23,15 @@
     * [Arquivo de codificação](https://replit.com/join/wvwrkydp-kennedyarajo)
     * [Vídeo - Aula 02](https://youtu.be/BCZrWyFd6LI) <br/>
     <a href="https://youtu.be/JAkcA0eMRFg"> <img src="https://img.youtube.com/vi/BCZrWyFd6LI/maxresdefault.jpg" width="200"></a>
-* Aula 03 - Resolução de Exercícios
+* Aula 03 - Resolução de Exercícios - Comandos de entrada e saída e operações aritméticas
     * [Vídeo - Aula 03](https://youtu.be/BCZrWyFd6LI) <br/>
     <a href="https://youtu.be/EgsERRlPozk"> <img src="https://img.youtube.com/vi/EgsERRlPozk/maxresdefault.jpg" width="200"></a>
     * [Resoluções propostas](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/resolucoes/resolucao-aula-03.c)
-
 * Aula 04 - Estrutura de Decisão (IF{}ELSE{})
     * [Vídeo - Aula 04](https://youtu.be/AoboWZM-Fkc) <br/>
     <a href="https://youtu.be/AoboWZM-Fkc"> <img src="https://img.youtube.com/vi/AoboWZM-Fkc/maxresdefault.jpg" width="200"></a>
-    * [Resoluções propostas](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/resolucoes/resolucao-aula-04.c)
+    * [Resoluções propostas - Aula 04](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/resolucoes/resolucao-aula-04.c)
+* Aula 05 - Resolução de Exercícios - Estrutura de Decisão (IF{}ELSE{})
+    * [Vídeo - Aula 05](https://www.youtube.com/watch?v=C7d5b1julEk) <br/>
+    <a href="https://youtu.be/C7d5b1julEk"> <img src="https://img.youtube.com/vi/C7d5b1julEk/maxresdefault.jpg" width="200"></a>
+    * [Resoluções propostas - Aula 05](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/resolucoes/resolucao-aula-03.c)
