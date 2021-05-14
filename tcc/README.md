@@ -4,7 +4,10 @@
 
 
 ### CONTEÚDO
-* [ESTRUTURA DO TRABALHO](estrutura-tcc.md) 
+* [ESTRUTURA DO TRABALHO](estrutura-tcc.md)
+* **Bibliografia**
+    * [Metodologia de Pesquisa para Ciência da Computação - Raul Wazlawick](https://books.google.com.br/books?id=BZioBQAAQBAJ&newbks=0&hl=pt-BR&source=newbks_fb&redir_esc=y)
+    * [Metodologia do Trabalho Científico: Métodos e Técnicas de Pesquisa e do Trabalho Acadêmico.](https://books.google.com.br/books/about/Metodologia_do_Trabalho_Cient%C3%ADfico_M%C3%A9t.html?hl=pt-BR&id=zUDsAQAAQBAJ&redir_esc=y)
 * **Cursos Escrita Científica**
     * [Curso Escrita Científica - Prof. Dr. Valtencir Zucolotto](http://www.escritacientifica.sc.usp.br/escrita/cursos-escrita/)
 * **Realidade Aumentada**

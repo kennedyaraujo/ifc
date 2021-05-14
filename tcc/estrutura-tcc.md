@@ -45,8 +45,18 @@ As palavras-chave irão refletir os pontos principais nos quais sua pesquisa foc
 Pode-se apresentar dados que embasem a relavância do tema
 1. **Motivação:** Mais relacionado ao autor(a) da pesquisa, existe alguma motivação de cunho pessoal para o desenvimento da pesquisa?
 1. **Objetivos**
-    1. Objetivo Geral: Sentenças claras, contendo apenas um único verbo que deve, preferencialmente, iniciar a frase e estar no infinitivo.
-    1. Objetivo Específico: Correspondem as etapas a serem seguidas para que se alcance o objetivo Geral. Quantidade entre 3 e 5.
+    1. Objetivo Geral
+        * Define explicitamente o propósito do trabalho 
+        * 
+    1. Objetivo Específico
+        * Correspondem as etapas/fases para que se alcance o objetivo Geral
+        * Quantidade: entre 3 e 5.
+        * Tente apresentá-los em ordem de execução
+
+    1. **Recomendações para contrução:**
+        * Estrutura: VERBO + FINALIDADE DA PESQUISA + CONDIÇÕES DA PESQUISA
+        * Sentenças claras, contendo apenas um único verbo que deve, preferencialmente, iniciar a frase e estar no infinitivo.
+        * Insira nos objetivos aquilo de fato será realizado no trabalho
 1. **Questões e hipóteses:**
 1. **Organização do trabalho:**
 
@@ -108,3 +118,5 @@ Recomendações:
 
 
 Fonte:
+[PRODANOV, Cleber Cristiano; FREITAS, Ernani Cesar de. Metodologia do Trabalho Científico: Métodos e Técnicas de Pesquisa e do Trabalho Acadêmico. / Cleber Cristiano Prodanov, Ernani
+Cesar de Freitas. 2. ed. Novo Hamburgo, RS: Feevale, 2013.](https://books.google.com.br/books/about/Metodologia_do_Trabalho_Cient%C3%ADfico_M%C3%A9t.html?hl=pt-BR&id=zUDsAQAAQBAJ&redir_esc=y)
