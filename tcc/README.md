@@ -17,7 +17,7 @@
         * [Metodologia de Pesquisa para Ciência da Computação - Raul Wazlawick](https://books.google.com.br/books?id=BZioBQAAQBAJ&newbks=0&hl=pt-BR&source=newbks_fb&redir_esc=y)
     * [Fontes de Informação nível básico e Portal de Periódicos da CAPES - BU UFSC](https://www.youtube.com/watch?v=-KmTOfX3Pok&t=118s)
 
-##### Temas de Pesquisa
+#### Temas de Pesquisa
 
 * **Realidade Aumentada**
     * [Introdução a Realidade Virtual e Aumentada - Pré-Simpósio do SVR - 2020](https://github.com/kennedyaraujo/ifc/blob/main/tei2/bibliografia-realidade-aumentada/Introdu%C3%A7%C3%A3o%20a%20Realidade%20Virtual%20e%20Aumentada%20-%20Pr%C3%A9-Simp%C3%B3sio%20do%20SVR%20-%202020.pdf)
