@@ -1,14 +1,18 @@
 # ESTRUTURA DO TRABALHO
 
-1. [Resumo](#resumo)
-1. [Palavras-chave](#palavras-chave--categorias-teóricas--descritores)
-1. [Introdução](#introdução)
-1. [Fundamentação Teórica](#fundamentação-teórica)
-1. [Trabalhos Relacionados](#trabalhos-relacionados)
-1. [Metodologia](#metodologia)
-1. [Capítulo de Desenvolvimento / Resultados](#capítulo-de-desenvolvimento--resultados)
-1. [Considerações Finais / Conclusão](#considerações-finais--conclusão)
-1. [Referências](#referências)
+1. Elementos pré-textuais
+    1. [Resumo](#resumo)
+    1. [Palavras-chave](#palavras-chave--categorias-teóricas--descritores)
+    1. Para os demais elementos observe o modelo/template
+
+1. Seções/Capítulos
+    1. [Introdução](#introdução)
+    1. [Fundamentação Teórica](#fundamentação-teórica)
+    1. [Trabalhos Relacionados](#trabalhos-relacionados)
+    1. [Metodologia](#metodologia)
+    1. [Capítulo de Desenvolvimento / Resultados](#capítulo-de-desenvolvimento--resultados)
+    1. [Considerações Finais / Conclusão](#considerações-finais--conclusão)
+    1. [Referências](#referências)
 
 
 
@@ -36,7 +40,7 @@ As palavras-chave irão refletir os pontos principais nos quais sua pesquisa foc
 ## Introdução
 
 #### Subseções
-1. **Definição do problema:**
+1. **Definição do problema:** 
 1. **Justificativa / Importância da pesquisa:** Discorre a respeito das lacunas/problemas existente que a pesquisa deve resolver
 Pode-se apresentar dados que embasem a relavância do tema
 1. **Motivação:** Mais relacionado ao autor(a) da pesquisa, existe alguma motivação de cunho pessoal para o desenvimento da pesquisa?
@@ -55,7 +59,7 @@ Expor conceitos de autores distintos, indicar qual será adotado no trabalho, ou
 
 ## Trabalhos Relacionados
 
-Recomenda0se que você traga não só artigos mas também  trabalhos de mesmo tipo daquele que está sendo desenvolvido. Se está fazendo um TCC, inclua também algum trabalho de conclusão dentro dos trabalhos relacionados. Pode ocorrer de um TCC também ser transposto para forma de artigo e você ter contato com os dois tipos de documentos, é interessante citar isso quando for descrever o trabalho.
+Recomenda-se que você traga não só artigos mas também  trabalhos de mesmo tipo daquele que está sendo desenvolvido. Se está fazendo um TCC, inclua também algum trabalho de conclusão dentro dos trabalhos relacionados. Pode ocorrer de um TCC também ser transposto para forma de artigo e você ter contato com os dois tipos de documentos, é interessante citar isso quando for descrever o trabalho.
 
 Além da leitura de todo trabalho, é interessante também ler o resumo, para verificar quais os pontos do trabalho o próprio autor(a) considerou como chave para inserir em seu resumo. Ao abordar cada trabalho apresente: 
 * Título do trabalho
