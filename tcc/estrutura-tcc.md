@@ -57,8 +57,8 @@ Pode-se apresentar dados que embasem a relavância do tema
         * Estrutura: VERBO + FINALIDADE DA PESQUISA + CONDIÇÕES DA PESQUISA
         * Sentenças claras, contendo apenas um único verbo que deve, preferencialmente, iniciar a frase e estar no infinitivo.
         * Insira nos objetivos aquilo de fato será realizado no trabalho
-    1. **Tabela de sugestão de verbos por objetivos:**
-    
+    1. **Tabela de sugestão de verbos por objetivos (PRODANOV; FREITAS, 2013):**
+
     Objetivo | Verbos
     :----: |-----------------------------------------
     Conhecer | apontar, citar, classificar, conhecer, definir, descrever, identificar, reconhecer e relatar
