@@ -61,12 +61,12 @@ Pode-se apresentar dados que embasem a relavância do tema
 
     Objetivo | Verbos
     :----: |-----------------------------------------
-    Conhecer | apontar, citar, classificar, conhecer, definir, descrever, identificar, reconhecer e relatar
-    Compreender | compreender, concluir, deduzir, demonstrar, determinar, diferenciar, discutir, interpretar, localizar e reafirmar
-    Aplicar | desenvolver, empregar, estruturar, operar, organizar, praticar, selecionar, traçar, aperfeiçoar, melhorar
-    Analisar | comparar, criticar, debater, diferenciar, discriminar, examinar, investigar, provar, ensaiar, medir, testar, monitorar e experimentar
-    Sintetizar | compor, construir, documentar, especificar, esquematizar, formular, produzir, propor, reunir e sintetizar
-    Avaliar | argumentar, avaliar, contrastar, decidir, escolher, estimar, julgar, medir e selecionar
+    Conhecer | Apontar, citar, classificar, conhecer, definir, descrever, identificar, reconhecer e relatar
+    Compreender | Compreender, concluir, deduzir, demonstrar, determinar, diferenciar, discutir, interpretar, localizar e reafirmar
+    Aplicar | Desenvolver, empregar, estruturar, operar, organizar, praticar, selecionar, traçar, aperfeiçoar, melhorar
+    Analisar | Comparar, criticar, debater, diferenciar, discriminar, examinar, investigar, provar, ensaiar, medir, testar, monitorar e experimentar
+    Sintetizar | Compor, construir, documentar, especificar, esquematizar, formular, produzir, propor, reunir e sintetizar
+    Avaliar | Argumentar, avaliar, contrastar, decidir, escolher, estimar, julgar, medir e selecionar
 
 
 
