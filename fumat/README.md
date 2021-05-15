@@ -53,3 +53,16 @@
     * [Notas de aula - Aula 09 - Regras de Inferência - ADD, DC, SH e DC](https://github.com/kennedyaraujo/ifc/blob/main/fumat/notas-de-aula/aula08.png)
     * [Vídeo - Aula 09 - Regras de Inferência - ADD, DC, SH e DC](https://www.youtube.com/watch?v=Xxm8utviWdQ) <br/>
     <a href="https://youtu.be/Xxm8utviWdQ"> <img src="https://img.youtube.com/vi/Xxm8utviWdQ/maxresdefault.jpg" width="200"></a>
+* **Aula 10 - Exercício - Regras de Inferência**
+    * Demonstre a validade dos argumentos abaixo:
+        * T &#8594; (R v U), T, ~U : R
+        * P &#8594; R, ~R, Q v P, Q &#8594; S : S v (P &#8594; T)
+        * Q &#8594; ~R, Q, S &#8594; R : ~S ^ Q
+        * R &#8594; S, S &#8594; Q, (R &#8594; Q) &#8594; U: U v R
+        * S v P, ~P, R &#8594; P, ~R &#8594; V : S ^ V
+        * R &#8594; S, ~U v V, ~V, ~U &#8594; (Q &#8594; P), (Q v R) v U : P v S
+        * ~P, P v R, R &#8594; S : S
+        * P &#8594; Q, Q &#8594; R, (P &#8594; R) &#8594; S, S &#8594; U : U
+        * P &#8594; Q, P v S, ~S, T &#8594; U: Q v U
+        * P ^ ~Q, P &#8594; R, T &#8594; Q : (R v S)
+    * [Exercício - Regras de Inferência - PDF](https://github.com/kennedyaraujo/ifc/blob/main/fumat/exercicios/exercicio-regras-inferencia.pdf)
