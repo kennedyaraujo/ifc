@@ -81,10 +81,15 @@
 ##### NEGAÇÃO
 * Símbolo: **~** (til), **¬** (cantoneira), **'** (aspa)
 * Leitura: ~p, lê-se não p
-* 
+* Linguagem corrente: não, é falso que, não é verdade que
 * Ação: Inverte o valor da proposição
 * Tabela Verdade
     p | ~p | ~~p
     --|----|------
     V | F | V
     F | V | F
+
+De forma geral é feita, antepondo o adverbio não antes do verbo
+p: Eduardo é estudioso
+~p: Eduardo **não** é estudioso
+~~p: **É falso que** Eduardo é estudioso
