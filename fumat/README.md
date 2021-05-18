@@ -66,3 +66,20 @@
         * P &#8594; Q, P v S, ~S, T &#8594; U: Q v U
         * P ^ ~Q, P &#8594; R, T &#8594; Q : (R v S)
     * [Exercício - Regras de Inferência - PDF](https://github.com/kennedyaraujo/ifc/blob/main/fumat/exercicios/exercicio-regras-inferencia.pdf)
+
+
+---
+
+### RESUMO
+
+#### CONECTIVOS
+
+##### NEGAÇÃO
+* Símbolo: **~** (til), **¬** (cantoneira), **'** (aspa)
+* Leitura: ~p, lê-se não p
+* 
+* Ação: Inverte o valor da proposição
+* Tabela Verdade
+    p | ~p | ~~p
+    V | F | V
+    F | V | F

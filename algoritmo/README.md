@@ -35,3 +35,8 @@
     * [Vídeo - Aula 05](https://www.youtube.com/watch?v=C7d5b1julEk) <br/>
     <a href="https://youtu.be/C7d5b1julEk"> <img src="https://img.youtube.com/vi/C7d5b1julEk/maxresdefault.jpg" width="200"></a>
     * [Resoluções propostas - Aula 05](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/resolucoes/resolucao-aula-03.c)
+* Aula 06 - Estrutura de Repetição While e Do...While
+    * [Vídeo - Aula 06](https://www.youtube.com/watch?v=tk45MzWNFqI) <br/>
+    <a href="https://youtu.be/tk45MzWNFqI"> <img src="https://img.youtube.com/vi/tk45MzWNFqI/maxresdefault.jpg" width="200"></a>
+    * [Resoluções propostas - Aula 06](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/resolucoes/resolucao-aula-06.c)
+    
