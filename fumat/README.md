@@ -66,6 +66,10 @@
         * P &#8594; Q, P v S, ~S, T &#8594; U: Q v U
         * P ^ ~Q, P &#8594; R, T &#8594; Q : (R v S)
     * [Exercício - Regras de Inferência - PDF](https://github.com/kennedyaraujo/ifc/blob/main/fumat/exercicios/exercicio-regras-inferencia.pdf)
+    * [Notas de aula - Aula 10 - Revisão - Conectivos, Cálculo Proposicional, Tabela Verdade](https://github.com/kennedyaraujo/ifc/blob/main/fumat/notas-de-aula/aula10.png)
+    * [Vídeo - Aula 10 - Revisão - Conectivos, Cálculo Proposicional, Tabela Verdade](https://www.youtube.com/watch?v=j-JE08bG6mg) <br/>
+    <a href="https://youtu.be/j-JE08bG6mg"> <img src="https://img.youtube.com/vi/j-JE08bG6mg/maxresdefault.jpg" width="200"></a>
+
 
 
 ---
@@ -81,5 +85,6 @@
 * Ação: Inverte o valor da proposição
 * Tabela Verdade
     p | ~p | ~~p
+    --|----|------
     V | F | V
     F | V | F
