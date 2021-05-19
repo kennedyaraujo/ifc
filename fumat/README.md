@@ -69,6 +69,24 @@
     * [Notas de aula - Aula 10 - Revisão - Conectivos, Cálculo Proposicional, Tabela Verdade](https://github.com/kennedyaraujo/ifc/blob/main/fumat/notas-de-aula/aula10.png)
     * [Vídeo - Aula 10 - Revisão - Conectivos, Cálculo Proposicional, Tabela Verdade](https://www.youtube.com/watch?v=j-JE08bG6mg) <br/>
     <a href="https://youtu.be/j-JE08bG6mg"> <img src="https://img.youtube.com/vi/j-JE08bG6mg/maxresdefault.jpg" width="200"></a>
+* **Aula 11 - Regras de Equivalência**
+    * [Slides e Notas de Aula](https://github.com/kennedyaraujo/ifc/blob/main/fumat/slides/aula10-regras-de-equivalencia.pdf)
+    * [Exercício - Regras de Equivalência - PDF](https://github.com/kennedyaraujo/ifc/blob/main/fumat/exercicios/exercicio-regras-equivalencia.pdf)
+    * [Notas de aula - Aula 10 - Revisão - Conectivos, Cálculo Proposicional, Tabela Verdade](https://github.com/kennedyaraujo/ifc/blob/main/fumat/notas-de-aula/aula10.png)
+    * [Vídeo - Aula 11 - Regras de Equivalência](https://www.youtube.com/watch?v=eHrGJFiyLG8) <br/>
+    <a href="https://youtu.be/eHrGJFiyLG8"> <img src="https://img.youtube.com/vi/eHrGJFiyLG8/maxresdefault.jpg" width="200"></a>
+    * Demonstre a validade dos argumentos abaixo:
+        * P &#8594; (Q ^ R), P : P ^ R
+        * ~P &#8594; (Q &#8594; ( R &#8594; ~T)), ~P, Q, R : ~T
+        * P ^ Q, (P v R) &#8594; S : P ^ S
+        * (P v Q) &#8594; R, (RvQ) &#8594; (P &#8594; (S &#10231;
+ T)), P ^S: S &#10231;
+ T
+        * (P ^ Q) &#8594; R, R &#8594; S, T &#8594; ~U, T, ~S v U : ~P v ~Q
+        * P &#8594; Q, Q &#8594; R, ~R v P : P &#10231;
+  Q
+
+
 
 
 
