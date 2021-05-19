@@ -14,6 +14,10 @@
 * Banco de Logos
     * [Worldvectorlogo](https://worldvectorlogo.com/)
     * [BrandsOfTheWorld](https://www.brandsoftheworld.com/)
+* Gerador de texto aleatório
+    * [Lero Lero](https://lerolero.com/)
+    * [Lorem Ipsum](https://www.lipsum.com/)
+    * [Mussum Ipsum](https://mussumipsum.com/)
 * Cores
     * [Colourlovers](https://www.colourlovers.com/)
     * [Color Wheel - Adobe](https://color.adobe.com/create/color-wheel)
