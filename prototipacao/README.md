@@ -42,6 +42,7 @@
     * [Vídeo - Aula 01](https://youtu.be/AYDYyCjbJtM) <br/>
     <a href="https://youtu.be/AYDYyCjbJtM"> <img src="https://img.youtube.com/vi/AYDYyCjbJtM/maxresdefault.jpg" width="200"></a>  
     <!-- [![Vídeo - Aula 01](https://img.youtube.com/vi/JAkcA0eMRFg/maxresdefault.jpg)](https://youtu.be/JAkcA0eMRFg) -->
+    * Sugestão de fontes para texto: Roboto, Open Sans, Lato, Montserrat ou Raleway.
     * [Statcounter](https://gs.statcounter.com/)
     * [Resoluções Desktop](https://gs.statcounter.com/screen-resolution-stats/desktop/worldwide)
     * [Fonts Google](https://fonts.google.com/)
