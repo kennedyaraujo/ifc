@@ -1,0 +1,93 @@
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" type="text/css" href="font/material-icons.css"> 
+</head>
+<body> 
+
+<video id="video" autoplay width="640" height="480"></video>
+
+<div id="container">
+  <canvas id="video-com-flip" width="640" height="480"></canvas>
+</div>
+
+<style type="text/css">
+div#container{
+  position: absolute;
+  border: 2px;
+}
+canvas#video-com-flip{
+  position: relative;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+</style>
+
+
+<script>
+
+//o código que estará aqui dentro só será mostrado depois que página carregar
+document.addEventListener("DOMContentLoaded", function(){
+   
+
+//alias document.querySelector();
+window.$ = (query, ctx = document) => ctx.querySelector(query);
+
+//capturei o elemento de video
+const videoBase = $('#video');
+//não realizar captura de audio e apenas do video
+const constraints = { audio: false, video: true }; 
+
+  
+//responsável por solicitar a abertura da camera e capturar o stream de vídeo
+navigator.mediaDevices.getUserMedia(constraints)
+.then(function(stream) {
+  videoBase.srcObject = stream;
+  console.log(stream);
+  videoBase.onloadedmetadata = function(e) {
+    videoBase.play();
+  };//onloadedmetadata        
+})
+.catch(function(err) {
+  console.log(err.name + ": " + err.message);
+});
+
+
+
+//captura canvas
+var videoComFlip = $("#video-com-flip");
+
+//cria a base para edição do canvas com as imagens capturadas
+var contextoVideoComFlip = videoComFlip.getContext('2d');
+
+
+//flip horizontal para facilitar a usabilidade interação por gestos
+contextoVideoComFlip.translate(videoComFlip.width, 0);
+//contextoVideoComFlip.translate(150, 0);
+contextoVideoComFlip.scale(-1, 1);
+
+
+
+const atualizacao =  setInterval(function(){
+  //ela pega o conteudo do video e joga no canvas invertido para melhorar a percepção do usuaroo
+  contextoVideoComFlip.drawImage(video, 0, 0, video.width, video.height);
+},1000/22);// end setInterval atualizacao
+
+});//domcontent load
+  </script>
+<script src="js/plugins.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html>

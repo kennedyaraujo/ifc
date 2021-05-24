@@ -39,4 +39,4 @@
     * [Vídeo - Aula 06](https://www.youtube.com/watch?v=tk45MzWNFqI) <br/>
     <a href="https://youtu.be/tk45MzWNFqI"> <img src="https://img.youtube.com/vi/tk45MzWNFqI/maxresdefault.jpg" width="200"></a>
     * [Resoluções propostas - Aula 06](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/resolucoes/resolucao-aula-06.c)
-    
+    * [Lista de Exercício Operadores e Estrutura de Repetição](https://drive.google.com/file/d/1eVgW4Z00-sM-ZSZTeualOM4axZlIkJ4P/view?usp=sharing)
