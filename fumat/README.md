@@ -82,9 +82,13 @@
  T)), P ^S: S &#10231; T
         * (P ^ Q) &#8594; R, R &#8594; S, T &#8594; ~U, T, ~S v U : ~P v ~Q
         * P &#8594; Q, Q &#8594; R, ~R v P : P &#10231; Q
-
-
-
+* **Aula 12 - Resolução - Regras de Inferência**
+    * [Slides e Notas de Aula](https://github.com/kennedyaraujo/ifc/blob/main/fumat/slides/aula12-correcao-inferencia.pdf)
+    * [Exercício - Regras de Inferência - PDF](https://github.com/kennedyaraujo/ifc/blob/main/fumat/exercicios/exercicio-regras-inferencia.pdf)
+    * [Vídeo - Aula 12 - Resolução - Regras de Inferência](https://www.youtube.com/watch?v=nZdK6N1M5mY) <br/>
+    <a href="https://youtu.be/nZdK6N1M5mY"> <img src="https://img.youtube.com/vi/nZdK6N1M5mY/maxresdefault.jpg" width="200"></a>
+* **Aula 13 - Resolução - Regras de Inferência**
+    * [Resumo dos conectivos](https://hackmd.io/@fumat2021/H1k7E95YO/edit)
 
 
 ---
