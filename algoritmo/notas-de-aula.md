@@ -369,7 +369,7 @@ printf("Msg2 - A soma de todos os numeros sera: %.1f\n", soma);
 ### FOR 
 #### Estrutura base
 ```
-for(<início>, <condição>, <incremento>){
+for(<inicialização>, <condição>, <incremento>){
    //código a ser executado se a condição for verdadeira
 }
 ```

@@ -40,3 +40,8 @@
     <a href="https://youtu.be/tk45MzWNFqI"> <img src="https://img.youtube.com/vi/tk45MzWNFqI/maxresdefault.jpg" width="200"></a>
     * [Resoluções propostas - Aula 06](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/resolucoes/resolucao-aula-06.c)
     * [Lista de Exercício Operadores e Estrutura de Repetição](https://drive.google.com/file/d/1eVgW4Z00-sM-ZSZTeualOM4axZlIkJ4P/view?usp=sharing)
+* Aula 07 - Estrutura de Repetição FOR
+    * [Vídeo - Aula 07](https://www.youtube.com/watch?v=0TycBkuqIqc) <br/>
+    <a href="https://youtu.be/0TycBkuqIqc"> <img src="https://img.youtube.com/vi/0TycBkuqIqc/maxresdefault.jpg" width="200"></a>
+    * [Resoluções propostas - Aula 07](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/resolucoes/resolucao-aula-07.c)
+    * [Lista de Exercício Operadores e Estrutura de Repetição](https://drive.google.com/file/d/1eVgW4Z00-sM-ZSZTeualOM4axZlIkJ4P/view?usp=sharing)
