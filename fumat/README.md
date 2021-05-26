@@ -89,7 +89,10 @@
     <a href="https://youtu.be/nZdK6N1M5mY"> <img src="https://img.youtube.com/vi/nZdK6N1M5mY/maxresdefault.jpg" width="200"></a>
 * **Aula 13 - Resolução - Regras de Inferência**
     * [Resumo dos conectivos](https://hackmd.io/@fumat2021/H1k7E95YO/edit)
-
+    * [Código HTML](https://www.toptal.com/designers/htmlarrows/)
+    * [Vídeo - Aula 13 - Resolução - Regras de Inferência](https://www.youtube.com/watch?v=5UYGO1lFh50) <br/>
+    <a href="https://youtu.be/5UYGO1lFh50"> <img src="https://img.youtube.com/vi/5UYGO1lFh50/maxresdefault.jpg" width="200"></a>
+    * [Slides e Notas de Aula](https://github.com/kennedyaraujo/ifc/blob/main/fumat/slides/aula13-correcao-equivalencia.pdf)
 
 ---
 
