@@ -109,6 +109,6 @@
     F | V | F
 
 De forma geral é feita, antepondo o adverbio não antes do verbo
-  p: Eduardo é estudioso
-  &#8275;p: Eduardo **não** é estudioso
-  &#8275;&#8275;p: **É falso que** Eduardo é estudioso
+p: Eduardo é estudioso
+&#8275;p: Eduardo **não** é estudioso
+&#8275;&#8275;p: **É falso que** Eduardo é estudioso
