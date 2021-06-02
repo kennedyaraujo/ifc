@@ -93,7 +93,23 @@
     * [Vídeo - Aula 13 - Resolução - Regras de Inferência](https://www.youtube.com/watch?v=5UYGO1lFh50) <br/>
     <a href="https://youtu.be/5UYGO1lFh50"> <img src="https://img.youtube.com/vi/5UYGO1lFh50/maxresdefault.jpg" width="200"></a>
     * [Slides e Notas de Aula](https://github.com/kennedyaraujo/ifc/blob/main/fumat/slides/aula13-correcao-equivalencia.pdf)
-
+* **Aula 14 - Revisão - Montagem de Resumo Colaborativo**
+    * Descritivo
+        * Acessando o [arquivo]((https://hackmd.io/@fumat2021/H1k7E95YO/edit)) base você deverá com a construção de nosso resumo colaborativo
+        * Cada aluno irá colaborar escolhendo um título de nível quatro para falar
+        * Coloque o seu nome ao lado do título assim que escolhe-lo, isso informará aos demais alunos que aquele assunto não está mais disponível
+        * Um exemplo foi feito com o conectivo da negação para você se basear
+        * Você pode utilizar os slides da disciplina como base mas também deve pesquisar novos conteúdos, só não esqueça de citar a fonte
+        * O resumo está escrito em Markdown para poder ser disponibilizado aqui no github, é uma linguagem bem simples mas com muitos recusros, ao final deixei alguns links sobre essa se quiser saber mais
+        * Quando for escrever caracteres especiais como setas, acentos, dentre outros; peço que use o [código HTML](https://www.toptal.com/designers/htmlarrows/)) para evitar problemas de renderização
+        * Procure editar apenas o assunto que você escolheu, depois faremos um apanhado de todo o resumo durante a aula
+    *[Arquivo Resumo](https://hackmd.io/@fumat2021/H1k7E95YO/edit)
+    *[Tabela de Elementos HTML](https://www.toptal.com/designers/htmlarrows/)
+    * Sobre MarkDown
+        *[Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+        *[Aprenda Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
+        *[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+        *[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 ---
 
 ### RESUMO
