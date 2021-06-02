@@ -93,7 +93,7 @@
     * [Vídeo - Aula 13 - Resolução - Regras de Inferência](https://www.youtube.com/watch?v=5UYGO1lFh50) <br/>
     <a href="https://youtu.be/5UYGO1lFh50"> <img src="https://img.youtube.com/vi/5UYGO1lFh50/maxresdefault.jpg" width="200"></a>
     * [Slides e Notas de Aula](https://github.com/kennedyaraujo/ifc/blob/main/fumat/slides/aula13-correcao-equivalencia.pdf)
-* **Aula 14 - Revisão - Montagem de Resumo Colaborativo**
+* ##### **Aula 14 - Revisão - Montagem de Resumo Colaborativo**
     * Descritivo
         * Acessando o [arquivo]((https://hackmd.io/@fumat2021/H1k7E95YO/edit)) base você deverá com a construção de nosso resumo colaborativo
         * Cada aluno irá colaborar escolhendo um título de nível quatro para falar
