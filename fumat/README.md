@@ -103,13 +103,13 @@
         * O resumo está escrito em Markdown para poder ser disponibilizado aqui no github, é uma linguagem bem simples mas com muitos recusros, ao final deixei alguns links sobre essa se quiser saber mais
         * Quando for escrever caracteres especiais como setas, acentos, dentre outros; peço que use o [código HTML](https://www.toptal.com/designers/htmlarrows/)) para evitar problemas de renderização
         * Procure editar apenas o assunto que você escolheu, depois faremos um apanhado de todo o resumo durante a aula
-    *[Arquivo Resumo](https://hackmd.io/@fumat2021/H1k7E95YO/edit)
-    *[Tabela de Elementos HTML](https://www.toptal.com/designers/htmlarrows/)
+    * [Arquivo Resumo](https://hackmd.io/@fumat2021/H1k7E95YO/edit)
+    * [Tabela de Elementos HTML](https://www.toptal.com/designers/htmlarrows/)
     * Sobre MarkDown
-        *[Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
-        *[Aprenda Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
-        *[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-        *[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+        * [Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+        * [Aprenda Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
+        * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+        * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 ---
 
 ### RESUMO
