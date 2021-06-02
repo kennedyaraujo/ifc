@@ -39,6 +39,12 @@ As palavras-chave irão refletir os pontos principais nos quais sua pesquisa foc
 
 ## Introdução
 
+>Contexto, problema, justificativa, solução (objetivos)
+
+Justificativa: Importância dos níveis de educação
+Problema: Os alunos que progridem sem realmente se apropriar do conteúdo daquela série
+
+
 #### Subseções
 1. **Definição do problema:** 
 1. **Justificativa / Importância da pesquisa:** Discorre a respeito das lacunas/problemas existente que a pesquisa deve resolver
@@ -69,16 +75,33 @@ Pode-se apresentar dados que embasem a relavância do tema
     Avaliar | Argumentar, avaliar, contrastar, decidir, escolher, estimar, julgar, medir e selecionar
 
 
-
-
-
-
-
-
-
-
 1. **Questões e hipóteses:**
 1. **Organização do trabalho:**
+
+
+#### Subseções - rascunho
+
+Sugere-se apresentar um texto que enuncie em que contexto a pesquisa foi, está sendo ou será realizada (i.e. qual o modelo conceitual do centro de pesquisa, quais as interrelações entre os setores ali desenvolvidos, etc.). Ademais, deve-se ressaltar os âmbitos (i.e. áreas de estudos) da pesquisa. 
+
+1. Definições do problema
+Nesta seção o problema é claramente identificado. Deve-se apresentar os argumentos que levam a identificação do problema que será trabalhado. Alguns autores podem ser citados com o propósito de explicitar a preocupação da comunidade científica ou de parte dela, em tentar resolver o problema dentro dos âmbitos estabelecidos. 
+1. Importância da pesquisa
+O pesquisador/estudante deve apresentar os aspectos mais relevantes da pesquisa ressaltando os impactos (e.g. cientifico, tecnológico, econômico, social e ambiental) que a pesquisa causará. Deve-se ter cuidado com a ingenuidade no momento em que os argumentos forem apresentados. 
+1. Motivação (opcional)
+Muito associada às seções Definição do problema e Importância da pesquisa, esta seção, apesar de ser opcional, pode ser relevante principalmente em se tratando de projetos de dissertações de mestrado e teses de doutorado. Pode-se apresentar motivações pessoais, baseadas em dados e em interesses do(s) 
+Centro (s) de pesquisa onde se está desenvolvendo o projeto.
+1.  Limites e limitações (opcional) 
+Nesta seção o pesquisador apresenta os limites e limitações definidas antes e durante o desenvolvimento da pesquisa. Assim, o trabalho fica resguardado de possíveis críticas. Os limites são aspectos que estabelecem o escopo da pesquisa e as limitações são os problemas enfrentados durante a pesquisa que levam a tomadas de decisão que podem, inclusive, mudar o direcionamento da pesquisa. 
+1. Questões e hipóteses (opcional) 
+Esta é uma seção importante, pois nela as questões feitas a partir da definição do problema (comentada na Seção 1.1) são explicitamente expressadas, conduzindo à não menos explícita, hipótese (ou hipóteses) que será investigada, aceita ou rejeitada. 
+É importante ressaltar que as pesquisas de base qualitativa não apresentam hipóteses, já que não tem a intenção de ir para o campo de investigação com aprioris.
+1. Aspectos metodológicos (opcional)
+Aqui devem ser apresentadas as assunções do pesquisador com relação às perspectivas filosóficas, aos métodos de pesquisa utilizados e aos modos de análise. Assim, ainda que apresente resultados ou achados polêmicos, a pesquisa poderá ser validada, pois estará consistente e apresentará uma coerência com as assunções do pesquisador. 
+Quando para a pesquisa é muito importante ressaltar os fundamentos metodológicos, sugere-se escrever ou transformar esta seção em um capítulo específico.
+1. Organização da Dissertação de mestrado
+
+
+
 
 
 ## Fundamentação Teórica
@@ -123,6 +146,24 @@ Deve-se revisitar os objetivos do trabalho fazendo comentários sobre cada um de
 1. Limites e Limitações da pesquisa
 1. Trabalhos Futuros
 1. Considerações Finais
+
+
+####  Rascunho
+
+
+CONSIDERAÇÕES FINAIS
+Chegou a hora de apresentar o apanhado geral sobre o trabalho de pesquisa feito, no qual são sintetizadas uma série de reflexões sobre a metodologia usada, sobre os achados e resultados obtidos, sobre a confirmação ou rechaço da hipótese estabelecida e sobre outros aspectos da pesquisa que são importantes para validar o trabalho. Recomenda-se não citar outros autores, pois a conclusão é do pesquisador. Porém, caso necessário,  convém citá-lo(s) 
+
+Nesta parte e não na seção seguinte chamada Conclusões. 
+
+1.Conclusões
+Brevemente comentadas no texto acima, nesta seção o pesquisador ( i.e. autor principal do trabalho científico) deve apresentar sua opinião com respeito à pesquisa e suas implicações. Descrever os impactos ( i.e. tecnológicos, sociais, econômicos, culturais, ambientais, políticos, etc.) que a pesquisa causa. Não se recomenda citar outros autores. 
+1.Contribuições
+Apresentar as contribuições teóricas e práticas que a pesquisa e o(s) seu(s) resultado(s) trazem. 
+1.Impactos da pesquisa
+Avaliar potencial contribuição tecnológica e impactos social e econômico, quando da aplicação dos resultados desta proposta em atividades associadas à indústria e/ou setores correlatos. Também quando couber, fazer uma avaliação preliminar dos potenciais impactos ambientais positivos e negativos do objeto de estudo, discutindo como a proposta poderá contribuir com a sustentabilidade ambiental. 
+1.Atividades Futuras de Pesquisa 
+Esta é uma seção breve, uma vez que o pesquisador apresenta as idéias que serão desenvolvidas e /ou as atividades que já estão em andamento, de maneira que a pesquisa realizada seja complementada ou ampliada. Com esta seção, o pesquisador indica implicitamente que o trabalho não acabou e que seu interesse continua ativo. 
 
 
 ## Referências
