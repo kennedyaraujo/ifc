@@ -47,4 +47,5 @@
     * [Resoluções Desktop](https://gs.statcounter.com/screen-resolution-stats/desktop/worldwide)
     * [Fonts Google](https://fonts.google.com/)
     * [FontIcon - Fontawesome](https://fontawesome.com/cheatsheet/free/regular)
+    * [Figma - Font types](https://www.figma.com/font-types/)
     * [Paleta - Adrift in Dreams](https://www.colourlovers.com/palette/580974/Adrift_in_Dreams)
