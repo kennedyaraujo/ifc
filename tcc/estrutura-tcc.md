@@ -44,6 +44,9 @@ As palavras-chave irão refletir os pontos principais nos quais sua pesquisa foc
 Justificativa: Importância dos níveis de educação
 Problema: Os alunos que progridem sem realmente se apropriar do conteúdo daquela série
 
+Por que é importante estudar isso?
+Quais os problemas que a pesquisa resolve/pretende resolver
+
 
 #### Subseções
 1. **Definição do problema:** 

@@ -19,6 +19,15 @@
     * Revisar palavras-chaves
     * Definição do esboço de título
     * **ATV:** Leitura da metodologia de 5 TCCs
+1. Construa um esboço de um mapa mental para organizar as ideias
+    * Elementos
+        * Categorias Teoricas / RF
+        * Títulos
+        * Objetivo
+        * Metodologia
+        * Justificativa
+        * Problema
+        * Questões/Hipóteses
 1. Definição do itens a serem abordados na metodologia
     * 
 
