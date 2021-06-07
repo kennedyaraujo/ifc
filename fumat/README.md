@@ -110,6 +110,12 @@
         * [Aprenda Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
         * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
         * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* ##### **Aula 15 - Revisão - Questões**
+    * Descritivo
+        * Você deverá inserir na planilha 3 questões objetivas sobre os assuntos estudados e respondê-las. As questões devem ser incluídas na planilha e como resposta você pode fazer um upload de uma foto justificando a resolução ou mesmo um pdf de algo feito em um editor de texto.
+        * Uma das questões devem ser obrigatóriamente sobre prova de argumento em linguagem corrente como aquela que foi colocada no exemplo.
+        * As questões podem ser buscadas em sites de concurso ou elaboradas pelo próprio aluno.
+    * [Planilha para inserção das questões](https://docs.google.com/spreadsheets/d/1C3e3KjmgoyXHuWWBFWEs00Pi52E5TDRCv7U8kzPOjw4/edit?usp=sharing)
 ---
 
 ### RESUMO
