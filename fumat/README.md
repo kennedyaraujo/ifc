@@ -111,10 +111,19 @@
         * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
         * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * ##### **Aula 15 - Revisão - Questões**
-    * Descritivo
+    * Descritivo:
         * Você deverá inserir na planilha 3 questões objetivas sobre os assuntos estudados e respondê-las. As questões devem ser incluídas na planilha e como resposta você pode fazer um upload de uma foto justificando a resolução ou mesmo um pdf de algo feito em um editor de texto.
         * Uma das questões devem ser obrigatóriamente sobre prova de argumento em linguagem corrente como aquela que foi colocada no exemplo.
         * As questões podem ser buscadas em sites de concurso ou elaboradas pelo próprio aluno.
+    * Passo a passo:
+        1. Abrir planilha que tem o link na atividade
+        1. Observar questão colocada com exemplo que está na primeira linha
+        1. Procurar/criar questão com tema semelhante, prova de argumento em linguagem natural, sites de questões de concurso você deve encontrar
+        1. Inserir essa questão na planilha com suas respectivas alternativa e resposta certa, conforme exemplo
+        1. Repetir os passos 3 e 4 para mais duas questões só que agora de qualquer tema já abordado: tipo de proposição, cálculo proposicional, dedução de valor, precedência de operador...
+        1. Responder as 3 questões justificando a resposta e me enviar.
+    * **Resumo**:
+        * Em suma procurar ou criar 3 questões objetivoas e inserir na planilha onde tem seu nome, uma delas sobre prova em linguagem corrente como mostra o exemplo. Depois responder estas questões com justificativa e me mandar.
     * [Planilha para inserção das questões](https://docs.google.com/spreadsheets/d/1C3e3KjmgoyXHuWWBFWEs00Pi52E5TDRCv7U8kzPOjw4/edit?usp=sharing)
 ---
 
