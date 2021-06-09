@@ -24,3 +24,9 @@
 * **Aula 02 - Atividade Captura de Vídeo**
     * Criar código em JavaScript que faça a captura do vídeo da webcam do dispositivo. Deixe os movimentos  capturados condizentes com a ótica do usuário (realize um teste comparativo com o googleMeet).
 * **Aula 03 - Elaboração do código de captura em vídeo**
+    * [Vídeo - Aula 03](https://www.youtube.com/watch?v=mhQ5WInfM5w) <br/>
+    <a href="https://www.youtube.com/watch?v=mhQ5WInfM5w"> <img src="https://img.youtube.com/vi/mhQ5WInfM5w/maxresdefault.jpg" width="200"></a>
+* **Aula 04 - Atividade Criação de mapa de movimento**
+    * O aluno deverá fazer a subtração entre duas imagens e mostrar o resultado, chamado de mapa de movimento, para o usuário em tempo real.
+    * Recomendo partir do [código de captura do vídeo](https://github.com/kennedyaraujo/ifc/blob/main/tei2/code/aula02-captura-webcam.html) disponibilizado
+    * [Descritivo técnica de mapeamento de movimento](https://1drv.ms/b/s!Ak5zz-HWFx2ulLMX2KIXAnHqfmEFQA?e=3Fcx03)
