@@ -2,19 +2,30 @@
 
 ### RECURSOS
 #### Ferramentas
-* [Onlinegdb.com - Compilador Online de C](https://www.onlinegdb.com/online_c_compiler)
-* [Replit.com -Ferramenta para codificação colaborativa](https://replit.com/ )
-* [IDE CodeBlocks - Compilador em C](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe)
-#### Bibliografia
-* [Apostila - Profº Manassés](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/bibliografia/mini-apostila-c-manasses.pdf) 
+
 
 ---
 
 ### AULAS
-* **Aula 01 - Apresentação Personas**   
+* **Aula 01 - 13/04 - Introdução a IHC**   
     * [Slides - Aula 01](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/slides/aula01-algoritmo.pdf)
-    * [Vídeo - Aula 01](https://youtu.be/JAkcA0eMRFg) <br/>
-    <a href="https://youtu.be/JAkcA0eMRFg"> <img src="https://img.youtube.com/vi/JAkcA0eMRFg/maxresdefault.jpg" width="200"></a>  
+    * [Vídeo - Aula Síncrona 01](https://www.youtube.com/watch?v=xmRSrJSUJrM) <br/>
+    <a href="https://www.youtube.com/watch?v=xmRSrJSUJrM"> <img src="https://img.youtube.com/vi/xmRSrJSUJrM/maxresdefault.jpg" width="200"></a>  
     <!-- [![Vídeo - Aula 01](https://img.youtube.com/vi/JAkcA0eMRFg/maxresdefault.jpg)](https://youtu.be/JAkcA0eMRFg) -->
-* Aula 02
-    
+* **Aula 02 - 20/4 - Atividade apresentação de site**
+    * Aula Assíncrona
+* **Aula 03 - 27/04 - Apresentação de Atividade**
+    * [Vídeo - Aula Síncrona 02](https://www.youtube.com/watch?v=Iz-NAiDcWSU) <br/>
+    <a href="https://www.youtube.com/watch?v=Iz-NAiDcWSU"> <img src="https://img.youtube.com/vi/Iz-NAiDcWSU/maxresdefault.jpg" width="200"></a> 
+* **Aula 04 - 04/05 - Atividade apresentação de site**
+    * Aula Assíncrona - Verificar - Sábado letivo
+* **Aula 05 - 11/05 - Apresentação de Atividade / Personas**
+    * [Vídeo - Aula Síncrona 03](https://www.youtube.com/watch?v=J3KSFREwx1c) <br/>
+    <a href="https://www.youtube.com/watch?v=J3KSFREwx1c"> <img src="https://img.youtube.com/vi/J3KSFREwx1c/maxresdefault.jpg" width="200"></a> 
+* **Aula 06 - 18/05 - Atividades Personas**
+    * Aula Assíncrona - Criação de Persona
+* **Aula 07 - 25/05 - Apresentação de Personas + Sites**
+    * [Vídeo - Aula Síncrona 03](https://www.youtube.com/watch?v=J3KSFREwx1c) <br/>
+    <a href="https://www.youtube.com/watch?v=J3KSFREwx1c"> <img src="https://img.youtube.com/vi/J3KSFREwx1c/maxresdefault.jpg" width="200"></a>    
+* **Aula 08 - 01/06**
+    * Aula Cancelada - Antecipação do ponto facultativo - devido a problemas elétrico 
