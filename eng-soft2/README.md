@@ -25,7 +25,7 @@
 * **Aula 06 - 18/05 - Atividades Personas**
     * Aula Assíncrona - Criação de Persona
 * **Aula 07 - 25/05 - Apresentação de Personas + Sites**
-    * [Vídeo - Aula Síncrona 03](https://www.youtube.com/watch?v=J3KSFREwx1c) <br/>
-    <a href="https://www.youtube.com/watch?v=J3KSFREwx1c"> <img src="https://img.youtube.com/vi/J3KSFREwx1c/maxresdefault.jpg" width="200"></a>    
+    * [Vídeo - Aula Síncrona 04](https://www.youtube.com/watch?v=nGDoZCk9dJQ) <br/>
+    <a href="https://www.youtube.com/watch?v=nGDoZCk9dJQ"> <img src="https://img.youtube.com/vi/nGDoZCk9dJQ/maxresdefault.jpg" width="200"></a>    
 * **Aula 08 - 01/06**
     * Aula Cancelada - Antecipação do ponto facultativo - devido a problemas elétrico 
