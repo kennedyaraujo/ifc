@@ -123,8 +123,13 @@
         1. Repetir os passos 3 e 4 para mais duas questões só que agora de qualquer tema já abordado: tipo de proposição, cálculo proposicional, dedução de valor, precedência de operador...
         1. Responder as 3 questões justificando a resposta e me enviar.
     * **Resumo**:
-        * Em suma procurar ou criar 3 questões objetivoas e inserir na planilha onde tem seu nome, uma delas sobre prova em linguagem corrente como mostra o exemplo. Depois responder estas questões com justificativa e me mandar.
+        * Em suma procurar ou criar 3 questões objetivas e inserir na planilha onde tem seu nome, uma delas sobre prova em linguagem corrente como mostra o exemplo. Depois responder estas questões com justificativa e me mandar.
     * [Planilha para inserção das questões](https://docs.google.com/spreadsheets/d/1C3e3KjmgoyXHuWWBFWEs00Pi52E5TDRCv7U8kzPOjw4/edit?usp=sharing)
+
+* **Aula 16 - Acompanhamento das atividades - Revisão de Conteúdo**
+    * [Notas de aula - Aula 16 - Questões prova 2019](https://github.com/kennedyaraujo/ifc/blob/main/fumat/notas-de-aula/aula16.png)
+    * [Vídeo - Aula 16 - Acompanhamento das atividades - Revisão de Conteúdo](https://www.youtube.com/watch?v=SlbzjBnX8d0) <br/>
+    <a href="https://youtu.be/SlbzjBnX8d0"> <img src="https://img.youtube.com/vi/SlbzjBnX8d0/maxresdefault.jpg" width="200"></a>
 ---
 
 ### RESUMO
