@@ -35,6 +35,11 @@
     * [Formulário Login](https://forms.gle/zq1eeAqheorw6oar9)
     * [Captura de páginas - Fireshot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=pt-BR)
     * [Link para postagem da pesquisa de referência](https://drive.google.com/drive/folders/1txQ3kFiH2NUWFjNdG4Df2qOPZfdJl2H1?usp=sharing)
+    * Nome do arquivo
+        * turma-numero-primeiroNome-ultimoNome-atv-numero
+        * Ex:
+            * a-1-alessandra-konzler-pesquisa-1
+
     * [Formulário Wireframe](https://forms.gle/ugCP99CCsxDpjxXz6)
     * [Wireframe ShowCase](http://www.wireframeshowcase.com/)
     * Ferramentas para criação de wireframe
