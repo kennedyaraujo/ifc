@@ -142,15 +142,15 @@ Deve-se revisitar os objetivos do trabalho fazendo comentários sobre cada um de
 
 
 1. Conclusões
-    Brevemente comentadas no texto acima, nesta seção o pesquisador ( i.e. autor principal do trabalho científico) deve apresentar sua opinião com respeito à pesquisa e suas implicações. Descrever os impactos ( i.e. tecnológicos, sociais, econômicos, culturais, ambientais, políticos, etc.) que a pesquisa causa. Não se recomenda citar outros autores. 
+    * Brevemente comentadas no texto acima, nesta seção o pesquisador ( i.e. autor principal do trabalho científico) deve apresentar sua opinião com respeito à pesquisa e suas implicações. Descrever os impactos ( i.e. tecnológicos, sociais, econômicos, culturais, ambientais, políticos, etc.) que a pesquisa causa. Não se recomenda citar outros autores. 
 1. Contribuições
-    Apresentar as contribuições teóricas e práticas que a pesquisa e o(s) seu(s) resultado(s) trazem. 
+    * Apresentar as contribuições teóricas e práticas que a pesquisa e o(s) seu(s) resultado(s) trazem. 
 1. Impactos da pesquisa
-    Avaliar potencial contribuição tecnológica e impactos social e econômico, quando da aplicação dos resultados desta proposta em atividades associadas à indústria e/ou setores correlatos. Também quando couber, fazer uma avaliação preliminar dos potenciais impactos ambientais positivos e negativos do objeto de estudo, discutindo como a proposta poderá contribuir com a sustentabilidade ambiental. 
+    * Avaliar potencial contribuição tecnológica e impactos social e econômico, quando da aplicação dos resultados desta proposta em atividades associadas à indústria e/ou setores correlatos. Também quando couber, fazer uma avaliação preliminar dos potenciais impactos ambientais positivos e negativos do objeto de estudo, discutindo como a proposta poderá contribuir com a sustentabilidade ambiental. 
 1. Limites e Limitações da pesquisa
-    Explificite quais os cenários em que a pesquisa pode ser aplicada, quais as condições que podem interferir no resultado, qual público pode não ser impactado/alvo do projeto desenvolvido
+    * Explificite quais os cenários em que a pesquisa pode ser aplicada, quais as condições que podem interferir no resultado, qual público pode não ser impactado/alvo do projeto desenvolvido
 1. Atividades Futuras de Pesquisa / Trabalhos Futuros 
-    Esta é uma seção breve, uma vez que o pesquisador apresenta as idéias que serão desenvolvidas e /ou as atividades que já estão em andamento, de maneira que a pesquisa realizada seja complementada ou ampliada. Com esta seção, o pesquisador indica implicitamente que o trabalho não acabou e que seu interesse continua ativo. 
+    * Esta é uma seção breve, uma vez que o pesquisador apresenta as idéias que serão desenvolvidas e /ou as atividades que já estão em andamento, de maneira que a pesquisa realizada seja complementada ou ampliada. Com esta seção, o pesquisador indica implicitamente que o trabalho não acabou e que seu interesse continua ativo. 
 
 
 
