@@ -167,7 +167,7 @@ Esta é uma seção breve, uma vez que o pesquisador apresenta as idéias que se
 
 Recomendações:
 * 70% dos últimos 5 anos
-* 30% escritas em língua estrangeira
+* Pelo menos 30% escritas em língua estrangeira
 * Predominância de artigos e documentos científicos
 * Evite documentos em que não se tem autoria definida ou não se sabe o ano que foi publicado
 * Evite utilizar o mesmo autor em parágrafos seguidos
