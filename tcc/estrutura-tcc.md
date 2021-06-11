@@ -41,21 +41,8 @@ As palavras-chave irão refletir os pontos principais nos quais sua pesquisa foc
 
 >Contexto, justificativa, problema e solução (objetivos).
 
-
-
-
 Justificativa: Importância dos níveis de educação
 Problema: Os alunos que progridem sem realmente se apropriar do conteúdo daquela série
-
-Por que é importante estudar isso?
-Quais os problemas que a pesquisa resolve/pretende resolver
-
-melhorias/contribuições
-#### Exemplo
-1. Tíitulo: 
-1. Justificativa
-    1. 
-1. Problema
 
 #### Subseções
 1. **Justificativa / Importância da pesquisa:** 
