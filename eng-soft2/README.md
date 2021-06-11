@@ -34,6 +34,7 @@
     * [Formulário Dispositivo](https://forms.gle/Z7afxD5Qz6htJ9VD9)
     * [Formulário Login](https://forms.gle/zq1eeAqheorw6oar9)
     * [Captura de páginas - Fireshot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=pt-BR)
+    * [Link para postagem da pesquisa de referência](https://drive.google.com/drive/folders/1txQ3kFiH2NUWFjNdG4Df2qOPZfdJl2H1?usp=sharing)
     * [Formulário Wireframe](https://forms.gle/ugCP99CCsxDpjxXz6)
     * [Wireframe ShowCase](http://www.wireframeshowcase.com/)
     * Ferramentas para criação de wireframe
