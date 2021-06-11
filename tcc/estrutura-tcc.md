@@ -39,7 +39,10 @@ As palavras-chave irão refletir os pontos principais nos quais sua pesquisa foc
 
 ## Introdução
 
->Contexto, problema, justificativa, solução (objetivos)
+>Contexto, justificativa, problema e solução (objetivos).
+
+
+
 
 Justificativa: Importância dos níveis de educação
 Problema: Os alunos que progridem sem realmente se apropriar do conteúdo daquela série
@@ -47,25 +50,45 @@ Problema: Os alunos que progridem sem realmente se apropriar do conteúdo daquel
 Por que é importante estudar isso?
 Quais os problemas que a pesquisa resolve/pretende resolver
 
+melhorias/contribuições
+#### Exemplo
+1. Tíitulo: 
+1. Justificativa
+    1. 
+1. Problema
 
 #### Subseções
+1. **Justificativa / Importância da pesquisa:** 
+    * Qual a relevância (teórico e prática) do tema para grande área
+    * Por que é importante pesquisar sobre isso?
+    * No exemplo de um tema que explore a construção de uma aplicação web para o ensino de ciências com o uso de realidade aumentada poderiam ser explorados os pontos
+        * Metodologias de ensino tradicional e implicações no ensino
+        * Aplicação de tecnologias mediadas por computador e seus impactos no ensino
+        * Possibilidades de aprimoramento no processo de ensino e aprendizagem das TICs
+        * Utilização da Realidade Aumentada no ensino e quais os benecifícios trazidos por essa tecnologia
 1. **Definição do problema:** 
-1. **Justificativa / Importância da pesquisa:** Discorre a respeito das lacunas/problemas existente que a pesquisa deve resolver
-Pode-se apresentar dados que embasem a relavância do tema
-1. **Motivação:** Mais relacionado ao autor(a) da pesquisa, existe alguma motivação de cunho pessoal para o desenvimento da pesquisa?
+    - Saindo da grande área, mais especificamente quais as lacunas que sua pesquisa preenche?
+    - Quais as deficiências que a pesquisa intenciona realizar
+    - Quem serão os beneficiados?
+    - Tem-se na justificativa uma abordagem de pontos mais gerais e no problema algo mais especifico do trabalho em si
+    - No exemplo de um tema que explore a construção de uma aplicação web para o ensino de ciências com o uso de realidade aumentada poderiam ser explorados os pontos
+        - Baixa interatividade de recursos digitais usados no ensino
+        - Quais as fragilidades que a técnica a ser utilizada consegue solucionar em detrimento aquilo que foi ou é implementado?
+        - Existe um beneficio direto do tipo de realidade aumentada escolhida para o aluno, para o professor ou para o processo de ensino e aprendizagem?
+    - Finalizar explicitando a solução proposta/objetivo do trabalho especificando trazendo um detalhamento maior daquele presente na seção de objetivos, cabe destacar as características do trabalhar que intencionam solucionar ou amenizar os itens destacados como problema.
+1. **Motivação:** 
+    * Mais relacionado ao autor(a) da pesquisa, existe alguma motivação de cunho pessoal para o desenvimento da pesquisa?
 1. **Objetivos**
-    1. Objetivo Geral
-        * Define explicitamente o propósito do trabalho 
-        * 
-    1. Objetivo Específico
-        * Correspondem as etapas/fases para que se alcance o objetivo Geral
-        * Quantidade: entre 3 e 5.
-        * Tente apresentá-los em ordem de execução
-
     1. **Recomendações para contrução:**
         * Estrutura: VERBO + FINALIDADE DA PESQUISA + CONDIÇÕES DA PESQUISA
         * Sentenças claras, contendo apenas um único verbo que deve, preferencialmente, iniciar a frase e estar no infinitivo.
         * Insira nos objetivos aquilo de fato será realizado no trabalho
+    1. Objetivo Geral
+        * Define explicitamente o propósito do trabalho 
+    1. Objetivo Específico
+        * Correspondem as etapas/fases para que se alcance o objetivo Geral
+        * Quantidade: entre 3 e 5.
+        * Tente apresentá-los em ordem de execução
     1. **Tabela de sugestão de verbos por objetivos (PRODANOV; FREITAS, 2013):**
 
     Objetivo | Verbos
@@ -76,48 +99,28 @@ Pode-se apresentar dados que embasem a relavância do tema
     Analisar | Comparar, criticar, debater, diferenciar, discriminar, examinar, investigar, provar, ensaiar, medir, testar, monitorar e experimentar
     Sintetizar | Compor, construir, documentar, especificar, esquematizar, formular, produzir, propor, reunir e sintetizar
     Avaliar | Argumentar, avaliar, contrastar, decidir, escolher, estimar, julgar, medir e selecionar
-
-
 1. **Questões e hipóteses:**
-1. **Organização do trabalho:**
-
-
-#### Subseções - rascunho
-
-Sugere-se apresentar um texto que enuncie em que contexto a pesquisa foi, está sendo ou será realizada (i.e. qual o modelo conceitual do centro de pesquisa, quais as interrelações entre os setores ali desenvolvidos, etc.). Ademais, deve-se ressaltar os âmbitos (i.e. áreas de estudos) da pesquisa. 
-
-1. Definições do problema
-Nesta seção o problema é claramente identificado. Deve-se apresentar os argumentos que levam a identificação do problema que será trabalhado. Alguns autores podem ser citados com o propósito de explicitar a preocupação da comunidade científica ou de parte dela, em tentar resolver o problema dentro dos âmbitos estabelecidos. 
-1. Importância da pesquisa
-O pesquisador/estudante deve apresentar os aspectos mais relevantes da pesquisa ressaltando os impactos (e.g. cientifico, tecnológico, econômico, social e ambiental) que a pesquisa causará. Deve-se ter cuidado com a ingenuidade no momento em que os argumentos forem apresentados. 
-1. Motivação (opcional)
-Muito associada às seções Definição do problema e Importância da pesquisa, esta seção, apesar de ser opcional, pode ser relevante principalmente em se tratando de projetos de dissertações de mestrado e teses de doutorado. Pode-se apresentar motivações pessoais, baseadas em dados e em interesses do(s) 
-Centro (s) de pesquisa onde se está desenvolvendo o projeto.
-1.  Limites e limitações (opcional) 
-Nesta seção o pesquisador apresenta os limites e limitações definidas antes e durante o desenvolvimento da pesquisa. Assim, o trabalho fica resguardado de possíveis críticas. Os limites são aspectos que estabelecem o escopo da pesquisa e as limitações são os problemas enfrentados durante a pesquisa que levam a tomadas de decisão que podem, inclusive, mudar o direcionamento da pesquisa. 
-1. Questões e hipóteses (opcional) 
-Esta é uma seção importante, pois nela as questões feitas a partir da definição do problema (comentada na Seção 1.1) são explicitamente expressadas, conduzindo à não menos explícita, hipótese (ou hipóteses) que será investigada, aceita ou rejeitada. 
+    1. Esta é uma seção importante, pois nela as questões feitas a partir da definição do problema são explicitamente expressadas, conduzindo à não menos explícita, hipótese (ou hipóteses) que será investigada, aceita ou rejeitada. 
 É importante ressaltar que as pesquisas de base qualitativa não apresentam hipóteses, já que não tem a intenção de ir para o campo de investigação com aprioris.
-1. Aspectos metodológicos (opcional)
-Aqui devem ser apresentadas as assunções do pesquisador com relação às perspectivas filosóficas, aos métodos de pesquisa utilizados e aos modos de análise. Assim, ainda que apresente resultados ou achados polêmicos, a pesquisa poderá ser validada, pois estará consistente e apresentará uma coerência com as assunções do pesquisador. 
-Quando para a pesquisa é muito importante ressaltar os fundamentos metodológicos, sugere-se escrever ou transformar esta seção em um capítulo específico.
-1. Organização da Dissertação de mestrado
-
-
-
-
+    1. Para o caso, de um tema que explore a construção de uma aplicação web para o ensino de ciências com o uso de realidade aumentada, poriam ser propostas: 
+        1. Questão: Quais técnica de tracking podem contribuir para a construção de objetos de aprendizagem em ambiente web?
+        1. Hipóteses: Imagina-se que uma determinadada técnica é mais eficiente? que uma delas terá mais compatibilidade com esse ambiente?
+1. **Organização do trabalho:**
+    1. Apresenta cada um dos capítulos de forma sucinta
 
 ## Fundamentação Teórica
-Evite seções ou subseções que tenham como fonte um único autor.
-Deve-se construir um diálogo com os conceitos
+A partir das categorias teóricas defnidas, é possível já estabelecer as subções deste capítulo. Nele você deve conceituar os pontos principais e trazer o conteúdo pertinente para que o leitor possa compreender tudo que será desenvolvido dentro do trabalho.
 
-Expor conceitos de autores distintos, indicar qual será adotado no trabalho, ou partir do que foi exposto elaborar sua própria definição.
+Recomendações:
+- Evite seções ou subseções que tenham como fonte um único autor.
+- Deve-se construir um diálogo com os conceitos que estão sendo explorados.
+- Expor conceitos de autores distintos, indicar qual será adotado no trabalho, ou partir do que foi exposto elaborar sua própria definição.
 
 ## Trabalhos Relacionados
 
-Recomenda-se que você traga não só artigos mas também  trabalhos de mesmo tipo daquele que está sendo desenvolvido. Se está fazendo um TCC, inclua também algum trabalho de conclusão dentro dos trabalhos relacionados. Pode ocorrer de um TCC também ser transposto para forma de artigo e você ter contato com os dois tipos de documentos, é interessante citar isso quando for descrever o trabalho.
+Neste seção você deve expor trabalhos que tenham relação com a pesquisa deseja desenvolver, procure por trabalhos da mesma área, ou mesmo em área diferentes mas que se utilizaram  recursos/tecnicas/tecnologias que você também deseja aplicar/implementar.
 
-Além da leitura de todo trabalho, é interessante também ler o resumo, para verificar quais os pontos do trabalho o próprio autor(a) considerou como chave para inserir em seu resumo. Ao abordar cada trabalho apresente: 
+Ao abordar cada trabalho apresente: 
 * Título do trabalho
 * Contexto da pesquisa / De quais áreas trata
 * Problema de pesquisa 
@@ -126,9 +129,13 @@ Além da leitura de todo trabalho, é interessante também ler o resumo, para ve
 * Resultados obtidos
 * O porquê da escolha do trabalho, no que ele se aproxima da sua pesquisa e em quais pontos se distncia
 * Suas considerações sobre o trabalho: algum ponto que chamou atenção, um determinado conceito que desconhecia, métodos podem ser aplicados em outros contexto...
-
-
 **Obs**: Lembre de durante seu texto citar o nome dos autores do trabalho
+
+Recomenda-se que você traga não só artigos mas também  trabalhos de mesmo tipo daquele que está sendo desenvolvido. Se está fazendo um TCC, inclua também algum trabalho de conclusão dentro dos trabalhos relacionados. Pode ocorrer de um TCC também ser transposto para forma de artigo e você ter contato com os dois tipos de documentos, é interessante citar isso quando for descrever o trabalho.
+
+Além da leitura de todo trabalho, é interessante também ler o resumo, para verificar quais os pontos do trabalho o próprio autor(a) considerou como chave (por isso inseriu em seu resumo). 
+
+
 
 
 ## Metodologia
