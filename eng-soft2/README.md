@@ -28,4 +28,9 @@
     * [Vídeo - Aula Síncrona 04](https://www.youtube.com/watch?v=nGDoZCk9dJQ) <br/>
     <a href="https://www.youtube.com/watch?v=nGDoZCk9dJQ"> <img src="https://img.youtube.com/vi/nGDoZCk9dJQ/maxresdefault.jpg" width="200"></a>    
 * **Aula 08 - 01/06**
-    * Aula Cancelada - Antecipação do ponto facultativo - devido a problemas elétrico 
+    * Aula Cancelada - Antecipação do ponto facultativo - devido a problemas elétrico
+* **Aula 08 - 11/06 - Wireframe**
+    * [Lista de presença](https://docs.google.com/spreadsheets/d/1CiPEIcsYaQxuKma1n1iWttEesfuUUmJklBvxrpDEP0Q/edit?usp=sharing)
+    * [Formulário Dispositivo](https://forms.gle/Z7afxD5Qz6htJ9VD9)
+    * [Formulário Login](https://forms.gle/zq1eeAqheorw6oar9)
+    * [Formulário Wireframe](https://forms.gle/ugCP99CCsxDpjxXz6)
