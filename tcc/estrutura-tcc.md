@@ -126,41 +126,32 @@ Além da leitura de todo trabalho, é interessante também ler o resumo, para ve
 
 
 ## Metodologia
-Apresentar e justificar as ferramentas e tecnologias escolhidas
+Nesta seção serão descritas as etapas de desenvolvimento do projeto. Observe os objetivos especificos, veja quais as macro ações necessária e relate a forma como eles são serão desenvolvidas e os instrumentos/métodos/ferramentas que serão utilizados.
 
-Se possível construa um diagrama para exemplificar as etapas que serão seguidas para o desenvolvimento da pesquisa
+Cabe apresentar e justificar as ferramentas e tecnologias escolhidas. Para esta ação é de bom tom descrever as possibilidades existentes, suas características (potencialidades e fragilidades) e então explicitar o por que que instrumento/método/ferramenta/critério X foi escolhido.
+
+Se possível construa um diagrama para exemplificar as etapas que serão seguidas para o desenvolvimento da pesquisa.
 
 
 ## Capítulo de Desenvolvimento / Resultados
-
+Onde se descreve o processo de construção/desenvolvimento/elaboração daquilo que se colocou como propósito da pesquisa. Caso esteja construindo uma aplicação/aplicativo este capítulo pode receber o nome do software.
 
 ## Considerações Finais / Conclusão
-Deve-se revisitar os objetivos do trabalho fazendo comentários sobre cada um deles.
+Chegou a hora de apresentar o apanhado geral sobre o trabalho de pesquisa feito, no qual são sintetizadas uma série de reflexões sobre a metodologia usada, sobre os achados e resultados obtidos, sobre a confirmação ou rechaço da hipótese estabelecida e sobre outros aspectos da pesquisa que são importantes para validar o trabalho. Recomenda-se não citar outros autores, pois a conclusão é do pesquisador. Porém, caso necessário,  convém citá-lo(s) 
+Deve-se revisitar os objetivos do trabalho fazendo comentários sobre cada um deles, e de forma eles foram alcançados.
+
 
 1. Conclusões
+    Brevemente comentadas no texto acima, nesta seção o pesquisador ( i.e. autor principal do trabalho científico) deve apresentar sua opinião com respeito à pesquisa e suas implicações. Descrever os impactos ( i.e. tecnológicos, sociais, econômicos, culturais, ambientais, políticos, etc.) que a pesquisa causa. Não se recomenda citar outros autores. 
 1. Contribuições
+    Apresentar as contribuições teóricas e práticas que a pesquisa e o(s) seu(s) resultado(s) trazem. 
 1. Impactos da pesquisa
+    Avaliar potencial contribuição tecnológica e impactos social e econômico, quando da aplicação dos resultados desta proposta em atividades associadas à indústria e/ou setores correlatos. Também quando couber, fazer uma avaliação preliminar dos potenciais impactos ambientais positivos e negativos do objeto de estudo, discutindo como a proposta poderá contribuir com a sustentabilidade ambiental. 
 1. Limites e Limitações da pesquisa
-1. Trabalhos Futuros
-1. Considerações Finais
+    Explificite quais os cenários em que a pesquisa pode ser aplicada, quais as condições que podem interferir no resultado, qual público pode não ser impactado/alvo do projeto desenvolvido
+1. Atividades Futuras de Pesquisa / Trabalhos Futuros 
+    Esta é uma seção breve, uma vez que o pesquisador apresenta as idéias que serão desenvolvidas e /ou as atividades que já estão em andamento, de maneira que a pesquisa realizada seja complementada ou ampliada. Com esta seção, o pesquisador indica implicitamente que o trabalho não acabou e que seu interesse continua ativo. 
 
-
-####  Rascunho
-
-
-CONSIDERAÇÕES FINAIS
-Chegou a hora de apresentar o apanhado geral sobre o trabalho de pesquisa feito, no qual são sintetizadas uma série de reflexões sobre a metodologia usada, sobre os achados e resultados obtidos, sobre a confirmação ou rechaço da hipótese estabelecida e sobre outros aspectos da pesquisa que são importantes para validar o trabalho. Recomenda-se não citar outros autores, pois a conclusão é do pesquisador. Porém, caso necessário,  convém citá-lo(s) 
-
-Nesta parte e não na seção seguinte chamada Conclusões. 
-
-1.Conclusões
-Brevemente comentadas no texto acima, nesta seção o pesquisador ( i.e. autor principal do trabalho científico) deve apresentar sua opinião com respeito à pesquisa e suas implicações. Descrever os impactos ( i.e. tecnológicos, sociais, econômicos, culturais, ambientais, políticos, etc.) que a pesquisa causa. Não se recomenda citar outros autores. 
-1.Contribuições
-Apresentar as contribuições teóricas e práticas que a pesquisa e o(s) seu(s) resultado(s) trazem. 
-1.Impactos da pesquisa
-Avaliar potencial contribuição tecnológica e impactos social e econômico, quando da aplicação dos resultados desta proposta em atividades associadas à indústria e/ou setores correlatos. Também quando couber, fazer uma avaliação preliminar dos potenciais impactos ambientais positivos e negativos do objeto de estudo, discutindo como a proposta poderá contribuir com a sustentabilidade ambiental. 
-1.Atividades Futuras de Pesquisa 
-Esta é uma seção breve, uma vez que o pesquisador apresenta as idéias que serão desenvolvidas e /ou as atividades que já estão em andamento, de maneira que a pesquisa realizada seja complementada ou ampliada. Com esta seção, o pesquisador indica implicitamente que o trabalho não acabou e que seu interesse continua ativo. 
 
 
 ## Referências
@@ -175,6 +166,6 @@ Recomendações:
 
 
 
-Fonte:
+###### REFERÊNCIAS UTILIZADAS
 [PRODANOV, Cleber Cristiano; FREITAS, Ernani Cesar de. Metodologia do Trabalho Científico: Métodos e Técnicas de Pesquisa e do Trabalho Acadêmico. / Cleber Cristiano Prodanov, Ernani
 Cesar de Freitas. 2. ed. Novo Hamburgo, RS: Feevale, 2013.](https://books.google.com.br/books/about/Metodologia_do_Trabalho_Cient%C3%ADfico_M%C3%A9t.html?hl=pt-BR&id=zUDsAQAAQBAJ&redir_esc=y)
