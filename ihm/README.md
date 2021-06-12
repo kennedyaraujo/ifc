@@ -36,3 +36,8 @@
     * [Pasta Personas](https://drive.google.com/drive/folders/1ZTqI9M5uG9sxlUZgsLebZQjLXZQ9h4f-)
     * [Vídeo - Aula 02](https://www.youtube.com/watch?v=8_nTn3OYZOY) <br/>
     <a href="https://www.youtube.com/watch?v=8_nTn3OYZOY"> <img src="https://img.youtube.com/vi/8_nTn3OYZOY/maxresdefault.jpg" width="200"></a>
+* **Aula 07 - Introdução ao uso do Figma - Atividade Nature**
+* **Aula 08 - Cores**
+* **Aula 09 - Finalização Atv Nature**
+* **Aula 10 - Wireframe**
+* **Aula 11 - Atividade Akaza**

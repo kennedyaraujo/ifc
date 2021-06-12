@@ -46,5 +46,20 @@
         * [Wireframe.cc](https://wireframe.cc/)
         * [Figma](https://www.figma.com)
 * **Aula 10 - 12/06 - Atividade Nature**
-
+    * [Vídeo - Aula Síncrona 04](https://www.youtube.com/watch?v=skI5eHWeErg) <br/>
+    <a href="https://www.youtube.com/watch?v=skI5eHWeErg"> <img src="https://img.youtube.com/vi/skI5eHWeErg/maxresdefault.jpg" width="200"></a> 
+    * [Layout Nature](https://raw.githubusercontent.com/kennedyaraujo/ifc/main/prototipacao/atividades/atv-nature/home.jpg)
+    * [Fontes Google](https://fonts.google.com/)
+    * [Paleta de cores](https://www.colourlovers.com/palettes)
+    * [Ícones Fontawesome](https://fontawesome.com/v5/cheatsheet/free/regular)
+    * [Banco de Imagens: ](https://unsplash.com/)
+    * [Gerador de lero lero](https://lerolero.com/)
 * **Aula 11 - 15/06 - Atividade Akaza**
+    * [Vídeo - Aula Síncrona 04](https://www.youtube.com/watch?v=CL3pueM4Z5M) <br/>
+    <a href="https://www.youtube.com/watch?v=CL3pueM4Z5M"> <img src="https://img.youtube.com/vi/CL3pueM4Z5M/maxresdefault.jpg" width="200"></a> 
+    * [Layout Akaza](https://raw.githubusercontent.com/kennedyaraujo/ifc/main/prototipacao/atividades/atv-akaza/layout-akaza.png)
+    * [Ícones](https://endlessicons.com/)
+    * [Ilustrações](https://undraw.co/illustrations)
+    * [Banco de imagens](https://www.pexels.com/search/person/)
+    * [Flat color - Paleta de cor](https://flatuicolors.com/)
+    * [Gerador de lero lero](https://lerolero.com/)
