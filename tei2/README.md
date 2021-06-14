@@ -29,4 +29,6 @@
 * **Aula 04 - Atividade Criação de mapa de movimento**
     * O aluno deverá fazer a subtração entre duas imagens e mostrar o resultado, chamado de mapa de movimento, para o usuário em tempo real.
     * Recomendo partir do [código de captura do vídeo](https://github.com/kennedyaraujo/ifc/blob/main/tei2/code/aula02-captura-webcam.html) disponibilizado
-    * [Descritivo técnica de mapeamento de movimento](https://1drv.ms/b/s!Ak5zz-HWFx2ulLMX2KIXAnHqfmEFQA?e=3Fcx03)
+    * [Descritivo técnica de mapeamento de movimento](https://1drv.ms/b/s!Ak5zz-HWFx2ulLMX2KIXAnHqfmEFQA?e=3Fcx03) 
+**Aula 05 - Atividade SnapShot**
+    * Você deve construir com base no código da aula passada, um botão que ao ser clicado captura um snapshot da webcam do usuário, e salva no canvas ao lado. Deve ser criado também um botão de download que possibilite ao usuário baixar aquela imagem.
