@@ -130,6 +130,15 @@
     * [Notas de aula - Aula 16 - Questões prova 2019](https://github.com/kennedyaraujo/ifc/blob/main/fumat/notas-de-aula/aula16.png)
     * [Vídeo - Aula 16 - Acompanhamento das atividades - Revisão de Conteúdo](https://www.youtube.com/watch?v=SlbzjBnX8d0) <br/>
     <a href="https://youtu.be/SlbzjBnX8d0"> <img src="https://img.youtube.com/vi/SlbzjBnX8d0/maxresdefault.jpg" width="200"></a>
+
+* **Aula 17 - Teste de prova**
+* **Aula 18 - PROVA 1**
+* **Aula 19 - Prova do Condicional**
+    * [Slides e Notas de Aula](https://github.com/kennedyaraujo/ifc/blob/main/fumat/slides/aula19-prova-condicional)
+    * [Vídeo - Aula 12 - Resolução - Regras de Inferência](https://www.youtube.com/watch?v=lYfIMAfdfqo) <br/>
+    <a href="https://youtu.be/lYfIMAfdfqo"> <img src="https://img.youtube.com/vi/lYfIMAfdfqo/maxresdefault.jpg" width="200"></a>
+* **Aula 20 - Atividade - Prova do Condicional**
+    * Você deve responder a penultima questão da [prova de 2019](https://github.com/kennedyaraujo/ifc/blob/main/fumat/provas/2019-prova2.pdf) que trata sobre a aplicação da prova do condicional
 ---
 
 ### RESUMO
