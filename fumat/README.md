@@ -93,7 +93,7 @@
     * [Vídeo - Aula 13 - Resolução - Regras de Inferência](https://www.youtube.com/watch?v=5UYGO1lFh50) <br/>
     <a href="https://youtu.be/5UYGO1lFh50"> <img src="https://img.youtube.com/vi/5UYGO1lFh50/maxresdefault.jpg" width="200"></a>
     * [Slides e Notas de Aula](https://github.com/kennedyaraujo/ifc/blob/main/fumat/slides/aula13-correcao-equivalencia.pdf)
-* ##### **Aula 14 - Revisão - Montagem de Resumo Colaborativo**
+* **Aula 14 - Revisão - Montagem de Resumo Colaborativo**
     * Descritivo
         * Acessando o [arquivo]((https://hackmd.io/@fumat2021/H1k7E95YO/edit)) base você deverá colaborar com a construção do nosso resumo
         * Cada aluno irá contribuir escolhendo um título de nível quatro para falar
@@ -110,7 +110,7 @@
         * [Aprenda Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
         * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
         * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* ##### **Aula 15 - Revisão - Questões**
+* **Aula 15 - Revisão - Questões**
     * Descritivo:
         * Você deverá inserir na planilha 3 questões objetivas sobre os assuntos estudados e respondê-las. As questões devem ser incluídas na planilha e como resposta você pode fazer um upload de uma foto justificando a resolução ou mesmo um pdf de algo feito em um editor de texto.
         * Uma das questões devem ser obrigatóriamente sobre prova de argumento em linguagem corrente como aquela que foi colocada no exemplo.
