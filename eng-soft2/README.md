@@ -63,3 +63,6 @@
     * [Banco de imagens](https://www.pexels.com/search/person/)
     * [Flat color - Paleta de cor](https://flatuicolors.com/)
     * [Gerador de lero lero](https://lerolero.com/)
+* **Aula 12 - 25/06 - CORES**
+    * [Apresentação]()
+    * [Planilha para escolha das CORES](https://docs.google.com/spreadsheets/d/1DfC2VkSMkk8ilmPl8Oqeozk0i4P9j0FcUeAUaPCwNDc/edit?usp=sharing)
