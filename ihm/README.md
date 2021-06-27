@@ -44,3 +44,16 @@
     * [Formulário Wireframe](https://forms.gle/VxxZjtsmqd9RTCiv6)
     * [Envio Wireframes](https://drive.google.com/drive/folders/17P7qYmo1x9Bj1PU37aXMseHyfrVw4sVJ?usp=sharing)
 * **Aula 11 - Atividade Akaza**
+* **Aula 10 - Usabilidade**
+    * [Heurísticas de Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics/)
+    * Material complementar
+        * [As 10 heurísticas de Nielsen - Como elas podem melhorar seu site?](https://www.vrsys.com.br/blog/as-10-heuristicas-de-nielsen-como-elas-podem-melhorar-seu-site)
+        * [Heurísticas de Nielsen: 10 Dicas para melhorar a Usabilidade da Interface](https://medium.com/aela/10-heur%C3%ADsticas-de-nielsen-dicas-para-melhorar-a-usabilidade-de-sua-interface-35ef86a7fb41)
+
+
+* **Aula 10 - Atividade - Avaliação de Usabilidade**
+    * **Descrição:** O aluno deverá escolher um aplicativo para o qual tenha acesso (login) para realizar uma avaliação de usabilidade, antes dessa etapa o aluno deve ler o material disponibilizado e escolher entre as 13 heurísticas de Nielsen 6 para aplicar na sua avaliação. Além destas 6, o discente deverá também incorporar 4 heurísticas elaborando suas respectivas evidências conforme organização proposta no modelo de documento disponibilizado.
+    * **Entrega:** Relatório contendo um item para cada heurística avaliada onde se descreve o que foi observado no aplicativo (ilustre o relatório com prints) para heurística em questão e ao final elaborar tabela resumo com evidências conforme modelo disponibilizado. 
+    * **Material**
+        * [Modelo de relatório](https://docs.google.com/document/d/1hXqXuyZw3_zfaMBAaXOGfIW5rtVruuO5bqO6We9bB0I/edit?usp=sharing)
+        * [Planilha para escolha de aplicativos](https://docs.google.com/spreadsheets/d/1O3Mnhl7LV-NPS4gXewFPtuLP-syj3l_b8IC7GTCI7Vw/edit?usp=sharing) 
