@@ -49,6 +49,8 @@
     * Material complementar
         * [As 10 heurísticas de Nielsen - Como elas podem melhorar seu site?](https://www.vrsys.com.br/blog/as-10-heuristicas-de-nielsen-como-elas-podem-melhorar-seu-site)
         * [Heurísticas de Nielsen: 10 Dicas para melhorar a Usabilidade da Interface](https://medium.com/aela/10-heur%C3%ADsticas-de-nielsen-dicas-para-melhorar-a-usabilidade-de-sua-interface-35ef86a7fb41)
+        * Resumo Aela - [Parte 1](https://www.instagram.com/p/CB-66bAgHi5/) e [Parte 2](https://www.instagram.com/p/CCBYd_cgMfh/)
+        * [Quiz Heurísticas](https://juego-heureka.herokuapp.com/index.html)
 * **Aula 13 - Atividade - Avaliação de Usabilidade**
     * **Descrição:** O aluno deverá escolher um aplicativo para o qual tenha acesso (login) para realizar uma avaliação de usabilidade, antes dessa etapa o aluno deve ler o material disponibilizado e escolher entre as 13 heurísticas de Nielsen 6 para aplicar na sua avaliação. Além destas 6, o discente deverá também incorporar 4 heurísticas elaborando suas respectivas evidências conforme organização proposta no modelo de documento disponibilizado.
     * **Entrega:** Relatório contendo um item para cada heurística avaliada onde se descreve o que foi observado no aplicativo (ilustre o relatório com prints) para heurística em questão e ao final elaborar tabela resumo com evidências conforme modelo disponibilizado. 
