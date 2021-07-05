@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Mapa de Movimento - Colaborativo</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<video id="video" autoplay width="640" height="480"></video>
+
+<div id="container">
+  <canvas id="video-com-flip" width="640" height="480"></canvas>
+</div>
+
+<canvas id="mapa-movimento" width="640" height="480"></canvas>
+
+<style type="text/css">
+div#container{
+  position: absolute;
+  border: 2px;
+}
+canvas#video-com-flip{
+  position: relative;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+</style>
+<script>
+//alias document.querySelector();
+window.$ = (query, ctx = document) => ctx.querySelector(query);
+
+//o código que estará aqui dentro só será mostrado depois que página carregar
+document.addEventListener("DOMContentLoaded", function(){
+  
+//capturei o elemento de video
+const videoBase = $('#video');
+//não realizar captura de audio e apenas do video
+const constraints = { audio: false, video: true }; 
+  
+//responsável por solicitar a abertura da camera e capturar o stream de vídeo
+navigator.mediaDevices.getUserMedia(constraints)
+.then(function(stream) {
+  videoBase.srcObject = stream;
+  console.log(stream);
+  videoBase.onloadedmetadata = function(e) {
+    videoBase.play();
+  };//onloadedmetadata        
+})
+.catch(function(err) {
+  console.log(err.name + ": " + err.message);
+});
+
+//captura canvas
+const videoComFlip = $("#video-com-flip");
+//cria a base para edição do canvas com as imagens capturadas
+const contextoVideoComFlip = videoComFlip.getContext('2d');
+//flip horizontal para facilitar a usabilidade interação por gestos
+contextoVideoComFlip.translate(videoComFlip.width, 0);
+//contextoVideoComFlip.translate(150, 0);
+contextoVideoComFlip.scale(-1, 1);
+
+const mapaMovimento = $("#mapa-movimento");
+const mapaMovimentoContexto = mapaMovimento.getContext('2d');
+mapaMovimentoContexto.scale(-1, 1);
+mapaMovimentoContexto.translate(mapaMovimento.width, 0);
+
+const atualizacao =  setInterval(function(){
+  
+  if (typeof imagemAnterior === 'undefined')
+    var imagemAnterior = contextoVideoComFlip.getImageData(0, 0, videoComFlip.width, videoComFlip.height);
+
+  //ela pega o conteudo do video e joga no canvas invertido para melhorar a percepção do usuario
+  contextoVideoComFlip.drawImage(video, 0, 0, video.width, video.height);
+
+  const imagemAtual = contextoVideoComFlip.getImageData(0, 0, videoComFlip.width, videoComFlip.height);  
+  
+  const mapa = mapaMovimentoContexto.getImageData(0, 0, videoComFlip.width, videoComFlip.height);
+
+  for (let i = 0; i< mapa.data.length; i+=4) {
+    /*
+    //R
+    frame.data[i] = image.data[i] - imageData.data[i];
+    //G
+    frame.data[i+1] = image.data[i+1] - imageData.data[i+1];
+    //B
+    frame.data[i+2] = image.data[i+2] - imageData.data[i+2];
+    */
+
+  /*
+    media = Math.abs((image.data[i]+image.data[i+1]+image.data[i+2])-(imageData.data[i]+imageData.data[i+1]+imageData.data[i+2]))/3;
+    media = media > 21 ? 255 : 0;
+    frame.data[i] = media;
+    frame.data[i+1] = media;
+    frame.data[i+2] = media;
+    frame.data[i+3] = 255;
+  */
+
+    media = Math.abs((imagemAtual.data[i]+imagemAtual.data[i+1]+imagemAtual.data[i+2])-(imagemAnterior.data[i]+imagemAnterior.data[i+1]+imagemAnterior.data[i+2]))/3;
+    media = media > 21 ? 255 : 0;
+    mapa.data[i] = media;
+    mapa.data[i+1] = media;
+    mapa.data[i+2] = media;
+    mapa.data[i+3] = 255;
+   
+    /* EM ANÁLISE
+    media = Math.abs((image.data[i]+image.data[i+1]+image.data[i+2])-(imageData.data[i]+imageData.data[i+1]+imageData.data[i+2]))/3;
+    media = media > 21 ? 255 : 0;
+    result.push(media, media, media, 255);
+    */
+
+  }
+  
+  
+  //image.data = result;
+  //mapaMovimentoContexto.putImageData(frame, 0, 0);
+  mapaMovimentoContexto.putImageData(mapa, 0, 0);
+  imagemAnterior = imagemAtual;   
+ 
+},1000/40);// end setInterval atualizacao
+
+});//domcontent load
+</script>
+</body>
+</html>

@@ -32,3 +32,5 @@
     * [Descritivo técnica de mapeamento de movimento](https://1drv.ms/b/s!Ak5zz-HWFx2ulLMX2KIXAnHqfmEFQA?e=3Fcx03) 
 **Aula 05 - Atividade SnapShot**
     * Você deve construir com base no código da aula passada, um botão que ao ser clicado captura um snapshot da webcam do usuário, e salva no canvas ao lado. Deve ser criado também um botão de download que possibilite ao usuário baixar aquela imagem.
+* **Aula 06 - Atividade Criação de mapa de movimento**
+* **Aula 07 - Criação de mapa de movimento de forma colaborativa**

@@ -38,6 +38,10 @@
     <a href="https://www.youtube.com/watch?v=8_nTn3OYZOY"> <img src="https://img.youtube.com/vi/8_nTn3OYZOY/maxresdefault.jpg" width="200"></a>
 * **Aula 07 - Introdução ao uso do Figma - Atividade Nature**
 * **Aula 08 - Cores**
+    * Recursos
+        * [Colourlovers](https://www.colourlovers.com/)
+        * [Adobe Color](https://color.adobe.com/pt/create/color-wheel)
+        * [Color Tool - Material Design](https://material.io/resources/color/#!/?view.left=0&view.right=0)
 * **Aula 09 - Finalização Atv Nature**
 * **Aula 10 - Wireframe**
     * [Formulário LOGIN](https://forms.gle/tUZg6ufnvnGEEEUz6)

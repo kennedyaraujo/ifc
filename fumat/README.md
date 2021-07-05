@@ -134,11 +134,18 @@
 * **Aula 17 - Teste de prova**
 * **Aula 18 - PROVA 1**
 * **Aula 19 - Prova do Condicional**
-    * [Slides e Notas de Aula](https://github.com/kennedyaraujo/ifc/blob/main/fumat/slides/aula19-prova-condicional)
-    * [Vídeo - Aula 12 - Resolução - Regras de Inferência](https://www.youtube.com/watch?v=lYfIMAfdfqo) <br/>
+    * [Slides e Notas de Aula](https://github.com/kennedyaraujo/ifc/blob/main/fumat/slides/aula19-prova-condicional.pdf)
+    * [Vídeo - Aula 19 - Prova do Condicional](https://www.youtube.com/watch?v=lYfIMAfdfqo) <br/>
     <a href="https://youtu.be/lYfIMAfdfqo"> <img src="https://img.youtube.com/vi/lYfIMAfdfqo/maxresdefault.jpg" width="200"></a>
 * **Aula 20 - Atividade - Prova do Condicional**
     * Você deve responder a penultima questão da [prova de 2019](https://github.com/kennedyaraujo/ifc/blob/main/fumat/provas/2019-prova2.pdf) que trata sobre a aplicação da prova do condicional
+* **Aula 21 - Prova Indireta**
+    * [Slides e Notas de Aula](https://github.com/kennedyaraujo/ifc/blob/main/fumat/slides/aula19-prova-indireta.pdf)
+    * [Notas de aula - Aula 21 - Questões prova 2019 - Prova do Condicional](https://github.com/kennedyaraujo/ifc/blob/main/fumat/notas-de-aula/aula21.png)
+    * [Vídeo - Aula 21 - Prova Indireta](https://www.youtube.com/watch?v=PFllD1skmdI) <br/>
+    <a href="https://youtu.be/PFllD1skmdI"> <img src="https://img.youtube.com/vi/PFllD1skmdI/maxresdefault.jpg" width="200"></a>
+* **Aula 22 - Atividade - Prova Indireta**
+    * Você deve responder a ultima questão da [prova de 2019](https://github.com/kennedyaraujo/ifc/blob/main/fumat/provas/2019-prova2.pdf) que trata sobre a aplicação da prova indireta
 ---
 
 ### RESUMO
