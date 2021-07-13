@@ -26,7 +26,8 @@ Qualquer dúvida estou à disposição
 
 ### RECURSOS
 * Templates / Modelos
-    * [Modelo de Relatório - Estágio - OFFICIAL - INFO 2014]()
+    * [Modelo de Relatório - Estágio - OFFICIAL - INFO 2014 - DOCX](https://github.com/kennedyaraujo/ifc/blob/main/estagio/modelos/Modelo%20de%20Relat%C3%B3rio%20-%20Est%C3%A1gio%20-%20OFFICIAL%20-%202014%20(1).docx)
+    * [Modelo de Relatório - Estágio - OFFICIAL - INFO 2014 - DOC](https://github.com/kennedyaraujo/ifc/blob/main/estagio/modelos/Modelo%20de%20Relat%C3%B3rio%20-%20Est%C3%A1gio%20-%20OFFICIAL%20-%20INFO%202014.doc)
     * [Normalização de trabalhos acadêmicos - IFC](https://biblioteca.ifc.edu.br/normalizacao-de-trabalhos/)
     * [Normalização de trabalhos acadêmicos - UFSC](https://portal.bu.ufsc.br/normalizacao/)
 * Referências
@@ -59,8 +60,8 @@ Qualquer dúvida estou à disposição
 
 ### EXEMPLOS
 * **Relatórios de Estágio**   
-    * [Relatório de Estágio Curricular - ](https://github.com/kennedyaraujo/ifc/blob/main/tcc/examples/Desenvolvimento%20de%20uma%20aplica%C3%A7%C3%A3o%20mobile%20para%20apoio%20na%20aprendizagem%20de%20tarefas%20do%20cotidiano%20de%20crian%C3%A7as%20com%20Transtorno%20do%20Espectro%20Autista.pdf)
-    * [Relatório de Estágio Curricular - Taynara C. Dutra](https://github.com/kennedyaraujo/ifc/blob/main/tcc/examples/Modelagem%20Bifocal%20Aplicada%20%C3%A0%20Engenharia%20Mec%C3%A2nica.pdf)
+    * [Relatório de Estágio Curricular - Modelo 1](https://github.com/kennedyaraujo/ifc/blob/main/estagio/examples/relatorio-modelo-1.pdf)
+    * [Relatório de Estágio Curricular - Modelo 2](https://github.com/kennedyaraujo/ifc/blob/main/estagio/examples/relatorio-modelo-2.pdf)
     
 
 
