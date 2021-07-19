@@ -44,6 +44,9 @@ As palavras-chave irão refletir os pontos principais nos quais sua pesquisa foc
 Justificativa: Importância dos níveis de educação
 Problema: Os alunos que progridem sem realmente se apropriar do conteúdo daquela série
 
+Exemplos de Introdução:
+    * [A REALIDADE AUMENTADA COMO FERRAMENTA PARA ORIENTAÇÃO DE USO E DE SEGURANÇA EM EMBALAGENS]()
+
 #### Subseções
 1. **Justificativa / Importância da pesquisa:** 
     * Qual a relevância (teórico e prática) do tema para grande área
