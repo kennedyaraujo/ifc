@@ -45,7 +45,7 @@ Justificativa: Importância dos níveis de educação
 Problema: Os alunos que progridem sem realmente se apropriar do conteúdo daquela série
 
 Exemplos de Introdução:
-    * [A REALIDADE AUMENTADA COMO FERRAMENTA PARA ORIENTAÇÃO DE USO E DE SEGURANÇA EM EMBALAGENS]()
+    * [A REALIDADE AUMENTADA COMO FERRAMENTA PARA ORIENTAÇÃO DE USO E DE SEGURANÇA EM EMBALAGENS](https://github.com/kennedyaraujo/ifc/blob/main/tcc/examples/TESE%20-%20A%20REALIDADE%20AUMENTADA%20COMO%20FERRAMENTA%20PARA%20ORIENTA%C3%87%C3%83O%20DE%20USO%20E%20DE%20SEGURAN%C3%87A%20EM%20EMBALAGENS.pdf)
 
 #### Subseções
 1. **Justificativa / Importância da pesquisa:** 
