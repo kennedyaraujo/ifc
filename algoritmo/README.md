@@ -45,3 +45,19 @@
     <a href="https://youtu.be/0TycBkuqIqc"> <img src="https://img.youtube.com/vi/0TycBkuqIqc/maxresdefault.jpg" width="200"></a>
     * [Resoluções propostas - Aula 07](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/resolucoes/resolucao-aula-07.c)
     * [Lista de Exercício Operadores e Estrutura de Repetição](https://drive.google.com/file/d/1eVgW4Z00-sM-ZSZTeualOM4axZlIkJ4P/view?usp=sharing)
+* Aula 08 - Resolução das listas de exercícios
+    * [Resoluções propostas - Aula 08](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/resolucoes/resolucao-aula-08.c)
+* Aula 09 - Revisão para prova - Teste do questionário no moodle
+* Aula 10 - PROVA 1
+* Aula 11 - Correção da prova 1
+* AUla 12 - Elaboração de resumo colaborativo e questões
+    * [Resumo editável](https://hackmd.io/@fumat2021/B1TtVW-Td/edit)
+* Aula 13 - Revisão de conteúdo
+    * [Vídeo - Aula 13](https://www.youtube.com/watch?v=45SSEuYmaEc) <br/>
+        <a href="https://youtu.be/45SSEuYmaEc"> <img src="https://img.youtube.com/vi/45SSEuYmaEc/maxresdefault.jpg" width="200"></a>
+    * [Resoluções propostas - Aula 13](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/resolucoes/resolucao-aula-13.c)
+* Aula 14 - Vetores e Matrizes
+    * [Vídeo - Aula 14](https://www.youtube.com/watch?v=ZPmJFnbpIrg) <br/>
+    <a href="https://youtu.be/ZPmJFnbpIrg"> <img src="https://img.youtube.com/vi/ZPmJFnbpIrg/maxresdefault.jpg" width="200"></a>
+    * [Resoluções propostas - Aula 14](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/resolucoes/resolucao-aula-14.c)
+    * [Lista de Exercício Vetores e Matrizes](https://drive.google.com/file/d/17s94JWWUrYnnXPT_oUpSUKiUQpx0uemM/view?usp=sharing)
