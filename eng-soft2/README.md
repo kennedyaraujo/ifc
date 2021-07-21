@@ -66,3 +66,16 @@
 * **Aula 12 - 25/06 - CORES**
     * [Apresentação]()
     * [Planilha para escolha das CORES](https://docs.google.com/spreadsheets/d/1DfC2VkSMkk8ilmPl8Oqeozk0i4P9j0FcUeAUaPCwNDc/edit?usp=sharing)
+
+* **Aula 12 - 25/06 - Atividade Avaliação de Usabilidade**
+    * **Descrição:** O aluno deverá escolher um aplicativo para o qual tenha acesso (login) ou disponível no mobbin para realizar uma avaliação de usabilidade. Antes dessa etapa, o discente deve ler o material disponibilizado e escolher entre as 10 heurísticas de Nielsen pelo menos 4 para utilizar na sua avaliação. Além destas 4 heurísticas, o estudante deverá também incorporar mais 2 heurísticas, que podem ser criadas pelo mesmo ou fruto de pesquisa, a exemplo daquelas sugeridas por Vinícius Bastos. Uma vez definidas as heurísticas o aluno deverá criar para cada uma delas pelo menos, 2 evidências, respeitado a organização proposta no modelo de documento disponibilizado.
+    * **Entrega:** Relatório contendo um item para cada heurística avaliada onde se descreve o que foi observado no aplicativo (ilustre o relatório com prints) para heurística em questão e ao final elaborar tabela resumo com evidências conforme modelo disponibilizado.
+    * [Planilha para escolha da aplicação](https://docs.google.com/spreadsheets/d/1SqpNnoeODNjyLMOHNSGY5N3t0jET0FQASpdpQUhSmq8/edit?usp=sharing)
+    * [Heurísticas de Nielsen by Vinícius Bastos](https://github.com/kennedyaraujo/ifc/blob/main/eng-soft2/material-complementar/atv-usabilidade/heuristicas-de-nielsen-v2.pdf)
+    * [Heurísticas Mobile - Vinícius Bastos](https://github.com/kennedyaraujo/ifc/blob/main/eng-soft2/material-complementar/atv-usabilidade/heuristicas-mobile-vinicius-bastos.pdf)
+    * [Modelo de relatório](https://docs.google.com/document/d/1TsaYcAHTDCj4kW_YT9eRdEya4JRKhXopsw6mnYmDujE/edit?usp=sharing)
+    * [Site com galeria de aplicações e telas](https://mobbin.design)
+
+
+
+
