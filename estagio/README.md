@@ -6,19 +6,19 @@
 
 ### MENSAGEM
 
-De início, lembro ao orientando(a) que é preciso se atentar ao fato do prazo e não deixar a escrita do relatório para última hora. Recomendo que você separe um tempo para já ir construindo as partes como apresentação, introdução e preenchimento das informações no modelo deixando o mínimo de trabalho possível para a fase final.
+De início, lembro ao orientando(a) que é preciso se atentar ao fato do prazo e não deixar a escrita do relatório para última hora. Recomendo que você separe um tempo já no período de estágio para ir construindo as partes como apresentação, introdução, atividades e preenchimento das informações no modelo; deixando o mínimo de trabalho possível para a fase final.
 
-Saliento ainda que ao terminar cada atividade você já pode escrever sobre ela, fazer isso quando se tem uma lembrança vívida ajuda que o texto flua de forma mais fácil.
+Saliento ainda que durante ou ao terminar cada atividade você já pode escrever sobre ela, fazer isso quando se tem uma lembrança vívida ajuda que o texto flua de forma mais fácil.
 
-É importante descrever em cada atividade o porque daquilo que foi feito, como foi feito e quais ferramentas foram utilizadas.
+É importante descrever em cada atividade o porque daquilo que foi feito, como foi feito e quais ferramentas foram utilizadas. Assim como os conceitos relacionados que dão suporte a atividade.
 
-Na introdução podem falar a respeito do estágio no geral, qual seu objetivo para o curso e depois trazer para sua realidade, especifica qual foi a área que estava relacionado, qual setor que trabalhou, por que escolheu fazer estágio nessa área/lugar, e quais discorrer sobre a organização do documento.
+Na introdução você pode falar a respeito do estágio no geral, qual o objetivo do estágio para o estudante e depois trazer para sua realidade, especifica qual foi a área que estava relacionado, qual setor que trabalhou, por que escolheu fazer estágio nessa área/lugar.. e discorrer ao final sobre a organização do documento.
 
-Já na conclusão, ressaltem qual a sua percepção quanto ao estágio, quais seus pontos negativos e positivos, o que veio a contribuir para você como pessoa e profissionalmente, quais os conhecimentos das matérias foram aplicados, o que achou da dinâmica de trabalho, se o objetivo de cada atividade foi concluído, se aconteceu alguma situação que ainda não foi mencionada, e o que mais achar pertinente.
+Já na conclusão, ressalte qual a sua percepção quanto ao estágio, quais seus pontos negativos e positivos, o que veio a contribuir para você como pessoa e profissionalmente, quais os conhecimentos das matérias foram aplicados, o que achou da dinâmica de trabalho, se o objetivo de cada atividade foi concluído, se aconteceu alguma situação que ainda não foi mencionada, e o que mais achar pertinente.
 
-Por fim lembro que por ser um texto técnico vocês precisam trazer referências ao corpo do texto. Não é o ideal que a Wikipédia ou blogs sejam utilizados como fonte. Recomendo a vocês pesquisarem no google acadêmico (https://scholar.google.com.br/) que é um lugar fácil de achar bons conteúdos (artigos, tccs, livros...) e que já virão referenciados. Ao realizar a pesquisa na parte inferior de cada resultado tem uma aspa, se vocês clicarem nela ele já vai mostrar como citar aquele conteúdo conforme a NBR 6023, que é a adotada no momento pelo padrão ABNT.
+Por fim, lembro que por ser um texto técnico você precisa trazer referências ao corpo do texto. Não é o ideal que apenas sites da internet sejam utilizados como fonte. Recomendo a você pesquisare no google acadêmico (https://scholar.google.com.br/) que é um lugar fácil de achar bons conteúdos (artigos, tccs, livros...) e que já virão referenciados. Ao realizar a pesquisa na parte inferior de cada resultado tem duas aspas, se você clicar nela aparecerão opções de referenciar aquela obra, dentre elas a NBR 6023, que é a adotada no momento pelo padrão ABNT.
 
-Abaixo você encontrará alguns modelos de relatórios e links que lhe ajudarão
+Abaixo você encontrará alguns modelos de relatórios e links que lhe ajudarão.
 
 Qualquer dúvida estou à disposição
 
