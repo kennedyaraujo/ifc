@@ -21,5 +21,6 @@
     * [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
     <!-- [![Vídeo - Aula 01](https://img.youtube.com/vi/JAkcA0eMRFg/maxresdefault.jpg)](https://youtu.be/JAkcA0eMRFg) -->
 * **Aula 02 - DQL**
-* [Exercício](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dql-1.pdf)
-* [Banco - produtos](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dtabela-produto.sql)
+* [DQL I](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/slides/dql-1.pdf)
+* [Exercício](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dql-1/dql-1.pdf)
+* [Banco - produtos](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dql-1/dtabela-produto.sql)
