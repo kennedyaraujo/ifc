@@ -20,3 +20,6 @@
     * [Base de dados empresa](https://github.com/kennedyaraujo/ifc/blob/main/banco/base/empresa.sql)
     * [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
     <!-- [![Vídeo - Aula 01](https://img.youtube.com/vi/JAkcA0eMRFg/maxresdefault.jpg)](https://youtu.be/JAkcA0eMRFg) -->
+* **Aula 02 - DQL**
+* [Exercício](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dql-1.pdf)
+* [Banco - produtos](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dtabela-produto.sql)
