@@ -23,4 +23,4 @@
 * **Aula 02 - DQL**
 * [DQL I](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/slides/dql-1.pdf)
 * [Exercício](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dql-1/dql-1.pdf)
-* [Banco - produtos](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dql-1/dtabela-produto.sql)
+* [Banco - produtos](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dql-1/tabela-produto.sql)
