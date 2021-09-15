@@ -17,15 +17,11 @@ CREATE TABLE IF NOT EXISTS  `produto` (
 ENGINE = InnoDB;
 
 
-SET SQL_MODE=@OLD_SQL_MODE;
-SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
-SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
 
 -- -----------------------------------------------------
 -- Data for table  `produto`
 -- -----------------------------------------------------
 START TRANSACTION;
-USE `mercado`;
 INSERT INTO  `produto` (`idproduto`, `nome`, `categoria`, `valor_compra`, `valor_venda`, `estoque`, `data_cadastro`, `data_vencimento`, `fabricante`) VALUES (1, 'Aveia em flocos', 'cereais', 2.67, 5, 0, '2018-03-17', '2018-03-17', 'Yoki');
 INSERT INTO  `produto` (`idproduto`, `nome`, `categoria`, `valor_compra`, `valor_venda`, `estoque`, `data_cadastro`, `data_vencimento`, `fabricante`) VALUES (2, 'Biscoito de chocolate', 'biscoitos', 1.49, 2, 6, '2018-03-27', '2019-12-17', 'Nestle');
 INSERT INTO  `produto` (`idproduto`, `nome`, `categoria`, `valor_compra`, `valor_venda`, `estoque`, `data_cadastro`, `data_vencimento`, `fabricante`) VALUES (3, 'Cookie de chocolate', 'biscoitos', 4.79, 5.60, 7, '2018-03-25', '2018-03-25', 'Bauduco');
