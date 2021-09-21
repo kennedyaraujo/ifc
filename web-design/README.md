@@ -18,4 +18,6 @@
     * [CodePen](https://codepen.io/trending)
     * [Visual Studio Code](https://code.visualstudio.com/)
     * [Código Aula 01](https://replit.com/join/fcebutoajf-kennedyarajo) 
-
+* **Aula 02 - Marcação - Projeto IFC**
+    * [Prova HTML 2020](https://github.com/kennedyaraujo/ifc/blob/main/web-design/prova-html-seuNome.zip)
+    * [Validador W3C](https://validator.w3.org/)
