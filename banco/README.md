@@ -32,3 +32,4 @@
             * mysql installter > mysql server > terá a opção reconfigure
     * [Resolução Exercício 01](https://hackmd.io/@banco/HJ990WuQK)
     * [Acompanhamento dos alunos](https://docs.google.com/spreadsheets/d/18EQvjKulbECG7cqap3fD5vD6lMjUPNbmosVXGjEAUho/edit?usp=sharing)
+    * [Estimativa de alunos](https://docs.google.com/spreadsheets/d/15mPCTW9YVCJZ7mFrfvaxd05_rP0lo10OmWI28RKNDHo/edit?usp=sharing)
