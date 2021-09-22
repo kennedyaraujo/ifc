@@ -24,3 +24,11 @@
     * [Slides - DQL Parte I](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/slides/dql-1.pdf)
     * [Exercício - DQL Parte I](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dql-1/dql-1.pdf)
     * [SQL - Tabela **produto**](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dql-1/tabela-produto.sql)
+* **Aula 03 - DQL - Parte II**
+    * Instalação Workbench
+        * [How to install MySQL 8.0.22 Server and Workbench latest version on Windows 10](https://www.youtube.com/watch?v=OM4aZJW_Ojs)
+        * [Ao final adicionar o MySQL nas variáveis de ambiente](https://programadorviking.com.br/como-instalar-o-mysql/)
+        * Caso não tenha aparecido a ultima tela de configuração de usuário vá até o mysql installer e vá até a opção reconfigure no mysql server
+            * mysql installter > mysql server > terá a opção reconfigure
+    * [Resolução Exercício 01](https://hackmd.io/@banco/HJ990WuQK)
+    * [Acompanhamento dos alunos](https://docs.google.com/spreadsheets/d/18EQvjKulbECG7cqap3fD5vD6lMjUPNbmosVXGjEAUho/edit?usp=sharing)
