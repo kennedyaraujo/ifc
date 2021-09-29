@@ -38,3 +38,4 @@
 * **Aula 03 - DML - Parte I**
     * [Resolução Exercício 02](https://hackmd.io/@banco/HJ990WuQK)
     * [Exercício - DML Parte I](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dml-1.pdf)
+    * [Slides - DML Parte I](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/slides/dml-1.pdf)
