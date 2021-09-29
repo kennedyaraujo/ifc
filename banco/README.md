@@ -35,3 +35,6 @@
     * [Estimativa de alunos](https://docs.google.com/spreadsheets/d/15mPCTW9YVCJZ7mFrfvaxd05_rP0lo10OmWI28RKNDHo/edit?usp=sharing)
     * [Exercício - DQL Parte II](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dql-2.pdf)
     * [Slides - DQL Parte II](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/slides/dql-2.pdf)
+* **Aula 03 - DML - Parte I**
+    * [Resolução Exercício 02](https://hackmd.io/@banco/HJ990WuQK)
+    * [Exercício - DML Parte I](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dml-1.pdf)
