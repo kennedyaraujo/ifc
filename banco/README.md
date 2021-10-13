@@ -44,6 +44,6 @@
     * [Exercício - Sala - DQL III](https://github.com/kennedyaraujo/ifc/blob/main/banco/codigos/dql-3-sala.sql)
 * **Aula 05 - DQL Parte III**
     * [Exercício - DQL Parte III](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dql-3/dql-3.pdf)
-    * [Base de dados - Amigos - PNH](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dql-3/banco-amigos.png)
+    * [Base de dados - Amigos - PNG](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dql-3/banco-amigos.png)
     * [Base de dados - Amigos - SQL](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dql-3/banco-amigos.sql)
     * [Slides - DQL Parte III](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/slides/dql-3.pdf)
