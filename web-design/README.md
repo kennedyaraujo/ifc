@@ -23,5 +23,7 @@
     * [Validador W3C](https://validator.w3.org/)
 * **Aula 03 - Marcação - Projeto IFC**
 * **Aula 04 - Marcação - Atividade Mitra**
-
+    * [Descritivo](https://github.com/kennedyaraujo/ifc/blob/main/web-design/atividades/mitra/descricao.pdf)
+    * [Layout](https://github.com/kennedyaraujo/ifc/blob/main/web-design/atividades/mitra/layout-mitra.pdf)
+    * [Recursos](https://github.com/kennedyaraujo/ifc/tree/main/web-design/atividades/mitra)
 * **Aula 05 - Marcação - PROVA DE PROJETO**
