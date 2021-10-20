@@ -47,5 +47,5 @@
     * [Base de dados - Amigos - PNG](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dql-3/banco-amigos.png)
     * [Base de dados - Amigos - SQL](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/dql-3/banco-amigos.sql)
     * [Slides - DQL Parte III](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/slides/dql-3.pdf)
-* **Aula 05 - DQL Parte III - Correção**
+* **Aula 06 - DQL Parte III - Correção**
     * [Questões revisão](https://docs.google.com/spreadsheets/d/1inxtY6PqwHmX7utL9bONTrNDQsPrIu4KEpfTnG76XVc/edit?usp=sharing)
