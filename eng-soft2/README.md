@@ -77,5 +77,7 @@
     * [Site com galeria de aplicações e telas](https://mobbin.design)
 
 * **Aula 22 - Qualidade de código**
+    * [Layout Insight](https://github.com/kennedyaraujo/ifc/tree/main/eng-soft2/material-complementar/layouts/insight)
+    * [Layout Organic](https://github.com/kennedyaraujo/ifc/tree/main/eng-soft2/material-complementar/layouts/organic)
 
 
