@@ -76,6 +76,6 @@
     * [Modelo de relatório](https://docs.google.com/document/d/1TsaYcAHTDCj4kW_YT9eRdEya4JRKhXopsw6mnYmDujE/edit?usp=sharing)
     * [Site com galeria de aplicações e telas](https://mobbin.design)
 
-
+* **Aula 22 - Qualidade de código**
 
 

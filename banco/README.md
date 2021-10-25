@@ -49,3 +49,5 @@
     * [Slides - DQL Parte III](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/slides/dql-3.pdf)
 * **Aula 06 - DQL Parte III - Correção**
     * [Questões revisão](https://docs.google.com/spreadsheets/d/1inxtY6PqwHmX7utL9bONTrNDQsPrIu4KEpfTnG76XVc/edit?usp=sharing)
+    * [FUNÇÃO DATADIFF()](https://www.w3schools.com/sql/func_mysql_datediff.asp)
+    * [FUNÇÃO TIMESTAMPDIFF()](https://www.w3resource.com/mysql/date-and-time-functions/mysql-timestampdiff-function.php)
