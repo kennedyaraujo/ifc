@@ -52,5 +52,5 @@
     * [FUNÇÃO DATADIFF()](https://www.w3schools.com/sql/func_mysql_datediff.asp)
     * [FUNÇÃO TIMESTAMPDIFF()](https://www.w3resource.com/mysql/date-and-time-functions/mysql-timestampdiff-function.php)
 * **Aula 07 - Prova 2021**
-    * [Descritivo](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/provas/prova-banco-i.pdf) 
+    * [Descritivo](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/provas/prova-projeto-sql/prova-banco-i.pdf) 
     * [Diretório](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/provas/) 
