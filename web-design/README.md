@@ -1,6 +1,10 @@
 # Web Design -  Ciência da Computação - 2021.2
 
 ### RECURSOS
+* [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+
+#### CSS
+* [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 
 ### Layouts
 * [W3.CSS Templates](https://www.w3schools.com/w3css/w3css_templates.asp)
