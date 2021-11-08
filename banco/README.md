@@ -54,7 +54,6 @@
 * **Aula 07 - Prova 2020**
     * [Descritivo](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/provas/prova-projeto-sql/prova-banco-i.pdf) 
     * [Diretório](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/provas/) 
-php)
 * **Aula 08 - Correção - Prova 2020**
     * [UPDATE COM JOIN](https://www.mysqltutorial.org/mysql-update-join/) 
     * [DELETE COM JOIN](https://www.mysqltutorial.org/mysql-delete-join/)

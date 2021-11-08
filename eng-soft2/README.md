@@ -80,4 +80,25 @@
     * [Layout Insight](https://github.com/kennedyaraujo/ifc/tree/main/eng-soft2/material-complementar/layouts/insight)
     * [Layout Organic](https://github.com/kennedyaraujo/ifc/tree/main/eng-soft2/material-complementar/layouts/organic)
 
+* **Aula 25 - Atividade IFC**
+    * Realize os ajustes no código para conseguir o resultado desejado
+    * [Envio do projeto ajustado](https://forms.gle/XRzmXAVdMSKkTwt66)
 
+
+* **Aula 26 - Projeto Individual**
+    * Criação de uma landding page
+        * Venda de um produto
+        * Elaborar layout no Figma e implementá-lo utilizando HTML e CSS
+            * Página única
+            * Mínimo de 6 seções
+            * Código deve ser postado no github do aluno (recurso githubpages)
+        * Itens a serem avaliados
+            * Originalidade
+            * Interface apelativa
+                * Cores
+                * Recursos (Imagens, ícones, vídeo, tabelas, gráficos)
+            * Qualidade do código
+                * Limpeza
+                * Semântica
+                * Sintaxe
+                    * Validação tanto do HTML quanto do CSS
