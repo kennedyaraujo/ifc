@@ -83,8 +83,8 @@
 * **Aula 25 - Atividade IFC**
     * Realize os ajustes no código para conseguir o resultado desejado
     * [Envio do projeto ajustado](https://forms.gle/XRzmXAVdMSKkTwt66)
-
-
+    * [Arquivos para a atividade](https://github.com/kennedyaraujo/ifc/tree/main/eng-soft2/material-complementar/atv-site-ifc)
+    * [Validador W3C](https://validator.w3.org/)
 * **Aula 26 - Projeto Individual**
     * Criação de uma landding page
         * Venda de um produto
