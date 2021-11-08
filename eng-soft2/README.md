@@ -82,18 +82,20 @@
 
 * **Aula 25 - Atividade IFC**
     * Realize os ajustes no código para conseguir o resultado desejado
-    * [Envio do projeto ajustado](https://forms.gle/XRzmXAVdMSKkTwt66)
+    * [Envio do projeto ajustado](https://forms.gle/MFEKdzAbqxmFyBZn6)
     * [Arquivos para a atividade](https://github.com/kennedyaraujo/ifc/tree/main/eng-soft2/material-complementar/atv-site-ifc)
     * [Validador W3C](https://validator.w3.org/)
 * **Aula 26 - Projeto Individual**
-    * Criação de uma landding page
+    * Criação de uma landing page
         * Venda de um produto
+            * [Escolha do produto](https://docs.google.com/spreadsheets/d/1AuiREsw-3R5MOYbtQ3n86sXFs7RivoOVn3R1zPDbL1M/edit?usp=sharing)
         * Elaborar layout no Figma e implementá-lo utilizando HTML e CSS
             * Página única
             * Mínimo de 6 seções
             * Código deve ser postado no github do aluno (recurso githubpages)
         * Itens a serem avaliados
             * Originalidade
+                * Devem ser apresentados 5 sites de referência
             * Interface apelativa
                 * Cores
                 * Recursos (Imagens, ícones, vídeo, tabelas, gráficos)
