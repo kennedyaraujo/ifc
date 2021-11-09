@@ -34,5 +34,5 @@
 * **Aula 05 - Marcação - PROVA DE PROJETO**
 * **Aula 06 - Atividade Debug IFC**
     * Realize os ajustes no código para conseguir o resultado desejado
-    * [Arquivos para a atividade](https://github.com/kennedyaraujo/ifc/tree/main/eng-soft2/material-complementar/atv-site-ifc)
+    * [Arquivos para a atividade](https://github.com/kennedyaraujo/ifc/tree/main/web-design/atividades/atv-debug-site-ifc)
     * [Validador W3C](https://validator.w3.org/)
