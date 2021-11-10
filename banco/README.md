@@ -59,3 +59,6 @@
     * [DELETE COM JOIN](https://www.mysqltutorial.org/mysql-delete-join/)
     * [Link aula sincrona](https://meet.google.com/cfx-mrkj-wex)     
     * [Base com alguns dados](https://github.com/kennedyaraujo/ifc/blob/main/banco/base/base-evernote.sql)  
+* **Aula 07 - Prova 2de PROJETO**
+    * [Base de Dados](https://github.com/kennedyaraujo/ifc/tree/main/banco/material-complementar/provas/prova-projeto-i/sql) 
+    * [Descritivo PROVA](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/provas/prova-projeto-i/questoes-sql.pdf)
