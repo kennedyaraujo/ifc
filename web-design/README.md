@@ -23,7 +23,7 @@
     * [Visual Studio Code](https://code.visualstudio.com/)
     * [Código Aula 01](https://replit.com/join/fcebutoajf-kennedyarajo) 
 * **Aula 02 - Marcação - Projeto IFC**
-    * [Prova HTML 2020](https://github.com/kennedyaraujo/ifc/blob/main/web-design/source/prova-html-seuNome.zip)
+    * [Prova HTML 2020](https://github.com/kennedyaraujo/ifc/blob/main/web-design/atividades/atividades/html/prova-html-seuNome.zip)
     * [Validador W3C](https://validator.w3.org/)
 * **Aula 03 - Marcação - Projeto IFC**
     * [Link replit.it - PROVA HTML](https://replit.com/join/ghxebuznsn-kennedyarajo)
@@ -32,9 +32,9 @@
     * [Layout](https://github.com/kennedyaraujo/ifc/blob/main/web-design/atividades/mitra/layout-mitra.pdf)
     * [Recursos](https://github.com/kennedyaraujo/ifc/tree/main/web-design/atividades/mitra)
 * **Aula 05 - Marcação - PROVA DE PROJETO**
-* **Aula 06 - Atividade Debug IFC**
+* **Aula 06 - Marcação - Atividade Debug IFC**
     * Realize os ajustes no código para conseguir o resultado desejado
     * [Arquivos para a atividade](https://github.com/kennedyaraujo/ifc/tree/main/web-design/atividades/atv-debug-site-ifc)
     * [Validador W3C](https://validator.w3.org/)
-* **Aula 07 - Atividade Organic**
+* **Aula 07 - Formatação - Atividade Organic**
     * [Arquivos para a atividade](https://github.com/kennedyaraujo/ifc/tree/main/web-design/atividades/atividades/css/organic)
