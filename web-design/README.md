@@ -36,5 +36,6 @@
     * Realize os ajustes no código para conseguir o resultado desejado
     * [Arquivos para a atividade](https://github.com/kennedyaraujo/ifc/tree/main/web-design/atividades/atv-debug-site-ifc)
     * [Validador W3C](https://validator.w3.org/)
-* **Aula 07 - Formatação - Atividade Organic**
-    * [Arquivos para a atividade](https://github.com/kennedyaraujo/ifc/tree/main/web-design/atividades/atividades/css/organic)
+* **Aula 07 - Formatação - Layout 1**
+    * [Layout Organic](https://github.com/kennedyaraujo/ifc/tree/main/web-design/atividades/atividades/css/organic)
+    * [Layout Insight](https://github.com/kennedyaraujo/ifc/tree/main/web-design/atividades/atividades/css/insight)
