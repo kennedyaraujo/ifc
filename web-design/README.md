@@ -39,3 +39,4 @@
 * **Aula 07 - Formatação - Layout 1**
     * [Layout Organic](https://github.com/kennedyaraujo/ifc/tree/main/web-design/atividades/atividades/css/organic)
     * [Layout Insight](https://github.com/kennedyaraujo/ifc/tree/main/web-design/atividades/atividades/css/insight)
+    * [Replit](https://replit.com/join/rsnmsqczro-kennedyarajo)
