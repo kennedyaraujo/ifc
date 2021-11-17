@@ -67,3 +67,5 @@
     * [br Modelo](http://www.sis4.com/brModelo/download.html)
     * [Slides modelo conceitual](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/slides/modelo-conceitual.pdf)
     * [Atividade eu banqueiro](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/modelo-conceitual/ATIVIDADE-EUBANQUEIRO.pdf)
+    * [Link Avaliação CPA](https://forms.gle/HKaaeSQLMjreFMJdA)
+    * [Envio Atividade EU Banqueiro](https://forms.gle/qGPjtm7bZjiv7JS3A)
