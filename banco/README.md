@@ -65,4 +65,5 @@
     * [Correção PROVA DE PROJETO](https://hackmd.io/@banco/SJarjmtDY/edit)
 * **Aula 10 - MODELO CONCEITUAL**
     * [br Modelo](http://www.sis4.com/brModelo/download.html)
-    
+    * [Slides modelo conceitual](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/slides/modelo-conceitual.pdf)
+    * [Atividade eu banqueiro](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/modelo-conceitual/ATIVIDADE-EUBANQUEIRO.pdf)
