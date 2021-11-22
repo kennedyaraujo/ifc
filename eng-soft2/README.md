@@ -104,3 +104,5 @@
                 * Semântica
                 * Sintaxe
                     * Validação tanto do HTML quanto do CSS
+* **Aula 27 - Projeto Individual - Etapa I**
+    * [Entrega I - Projeto Individual](https://forms.gle/QLWKsZQA9Uug9KFJ9)
