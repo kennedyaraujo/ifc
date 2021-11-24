@@ -4,11 +4,13 @@
 * Modelo Logico
     * Wordpress
         * [Banco de Dados Wordpress](https://codex.wordpress.org/Database_Description)
-        * 
+        * [Imagem - Wordpress](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/imagens/banco-de-dados-wordpress.png)
     * Magento
         * [Banco Magento](https://anna.voelkl.at/magento-ce-2-1-3-database-diagram/)
+        * [Imagem - Magento](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/imagens/banco-de-dados-magento-comparacao.png)
     * Wikipédia (Wikimedia)
-        * []
+        * [Imagem Wikimedia](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/imagens/database-wikimedia.svg)
+        
 #### Provas
 
 
@@ -78,4 +80,6 @@
     * [Link Avaliação CPA](https://forms.gle/HKaaeSQLMjreFMJdA)
     * [Envio Atividade EU Banqueiro](https://forms.gle/qGPjtm7bZjiv7JS3A)
 * **Aula 10 - MODELO CONCEITUAL**
-    * [Slides modelo lógico](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/slides/modelo-conceitual.pdf)
+    * [Slides Modelo Lógico](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/slides/modelo-logico.pdf)
+    * [Conversão de Relacionamentos - Heuser 1998](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/imagens/relacionamentos-heuser-1998.jpg)
+    * [Atividade - Vamos Cozinhar](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/modelo-conceitual/atv-vamos-cozinhar.pdf)
