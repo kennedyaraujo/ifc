@@ -1,6 +1,14 @@
 # BANCO I - Ciência da Computação - 2021.2
 
 ### RECURSOS
+* Modelo Logico
+    * Wordpress
+        * [Banco de Dados Wordpress](https://codex.wordpress.org/Database_Description)
+        * 
+    * Magento
+        * [Banco Magento](https://anna.voelkl.at/magento-ce-2-1-3-database-diagram/)
+    * Wikipédia (Wikimedia)
+        * []
 #### Provas
 
 
@@ -69,3 +77,5 @@
     * [Atividade eu banqueiro](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/modelo-conceitual/ATIVIDADE-EUBANQUEIRO.pdf)
     * [Link Avaliação CPA](https://forms.gle/HKaaeSQLMjreFMJdA)
     * [Envio Atividade EU Banqueiro](https://forms.gle/qGPjtm7bZjiv7JS3A)
+* **Aula 10 - MODELO CONCEITUAL**
+    * [Slides modelo lógico](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/slides/modelo-conceitual.pdf)
