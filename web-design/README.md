@@ -40,3 +40,4 @@
     * [Layout Organic](https://github.com/kennedyaraujo/ifc/tree/main/web-design/atividades/atividades/css/organic)
     * [Layout Insight](https://github.com/kennedyaraujo/ifc/tree/main/web-design/atividades/atividades/css/insight)
     * [Replit](https://replit.com/join/rsnmsqczro-kennedyarajo)
+    * [Fluid Typography](https://css-tricks.com/snippets/css/fluid-typography/)

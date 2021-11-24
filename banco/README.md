@@ -79,7 +79,7 @@
     * [Atividade eu banqueiro](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/modelo-conceitual/ATIVIDADE-EUBANQUEIRO.pdf)
     * [Link Avaliação CPA](https://forms.gle/HKaaeSQLMjreFMJdA)
     * [Envio Atividade EU Banqueiro](https://forms.gle/qGPjtm7bZjiv7JS3A)
-* **Aula 10 - MODELO CONCEITUAL**
+* **Aula 10 - MODELO LÓGICO**
     * [Slides Modelo Lógico](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/slides/modelo-logico.pdf)
     * [Conversão de Relacionamentos - Heuser 1998](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/imagens/relacionamentos-heuser-1998.jpg)
     * [Atividade - Vamos Cozinhar](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/modelo-conceitual/atv-vamos-cozinhar.pdf)
