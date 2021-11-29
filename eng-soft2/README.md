@@ -104,5 +104,8 @@
                 * Semântica
                 * Sintaxe
                     * Validação tanto do HTML quanto do CSS
-* **Aula 27 - Projeto Individual - Etapa I**
-    * [Entrega I - Projeto Individual](https://forms.gle/QLWKsZQA9Uug9KFJ9)
+                        * [Validador W3C](https://validator.w3.org/#validate_by_input)
+                        * [Validador CSS](https://jigsaw.w3.org/css-validator/)
+* **Aula 27 - Projeto Individual - Etapa I** 
+    * [Entrega I - Projeto Individual](https://docs.google.com/spreadsheets/d/1AuiREsw-3R5MOYbtQ3n86sXFs7RivoOVn3R1zPDbL1M/edit?usp=sharing)
+    <!-- * [Entrega I - Projeto Individual](https://forms.gle/QLWKsZQA9Uug9KFJ9) -->
