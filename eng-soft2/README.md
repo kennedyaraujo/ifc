@@ -94,6 +94,7 @@
             * Mínimo de 6 seções
             * Código deve ser postado no github do aluno (recurso githubpages)
                 * [Github](https://github.com/)
+                * [Ativar GitHubPages](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site)
         * Itens a serem avaliados
             * Originalidade
                 * Devem ser apresentados 5 sites de referência
