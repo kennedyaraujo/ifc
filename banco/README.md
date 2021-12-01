@@ -81,9 +81,9 @@
     * [Envio Atividade EU Banqueiro](https://forms.gle/qGPjtm7bZjiv7JS3A)
 * **Aula 10 - MODELO CONCEITUAL - LÓGICO**
     * Atividade Vamos Cozinhar
-            * [Descritivo - Atividade - Vamos Cozinhar](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/modelo-conceitual/atv-vamos-cozinhar.pdf)
-            * [Formulário Envio da Atividade](https://docs.google.com/forms/d/e/1FAIpQLScjjIMz_gX58UxgID9UXrvEntXdTK1BmcpfIngdlOCx6caRWA/viewform?usp=sf_link)
-            * [Resolução eu cozinho](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/modelo-conceitual/resolucao-vamos-cozinhar)
+        * [Descritivo - Atividade - Vamos Cozinhar](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/modelo-conceitual/atv-vamos-cozinhar.pdf)
+        * [Formulário Envio da Atividade](https://docs.google.com/forms/d/e/1FAIpQLScjjIMz_gX58UxgID9UXrvEntXdTK1BmcpfIngdlOCx6caRWA/viewform?usp=sf_link)
+        * [Resolução eu cozinho](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/modelo-conceitual/resolucao-vamos-cozinhar)
     * [Slides Modelo Lógico](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/slides/modelo-logico.pdf)
     * [Conversão de Relacionamentos - Heuser 1998](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/imagens/relacionamentos-heuser-1998.jpg)
     
