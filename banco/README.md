@@ -86,4 +86,8 @@
         * [Resolução eu cozinho](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/modelo-conceitual/resolucao-vamos-cozinhar)
     * [Slides Modelo Lógico](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/slides/modelo-logico.pdf)
     * [Conversão de Relacionamentos - Heuser 1998](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/imagens/relacionamentos-heuser-1998.jpg)
+* **Aula 11 - MODELO CONCEITUAL - LÓGICO**
+    * Modelo Lógico - Vamos Cozinhar
+        * [Arquivo MWB](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/modelo-logico/vamos-cozinhar/ml-vamos-cozinhar.mwb)
+        * [Imagem do banco](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/modelo-logico/vamos-cozinhar/ml-vamos-cozinhar.png)
     
