@@ -41,3 +41,6 @@
     * [Layout Insight](https://github.com/kennedyaraujo/ifc/tree/main/web-design/atividades/atividades/css/insight)
     * [Replit](https://replit.com/join/rsnmsqczro-kennedyarajo)
     * [Fluid Typography](https://css-tricks.com/snippets/css/fluid-typography/)
+* **Aula 08 - Formatação - Layout Design Portfolio**
+    * [Descobertas e dúvidas - Web Design](https://hackmd.io/@pvhbu7pkRQWb0jhWB0TdEQ/rJpFTZI9t/edit)
+    * [Layout Design Portfolio](https://www.figma.com/file/GKm6011TE7SjFuR6GFEkgr/Portfolio-design?node-id=0%3A1)
