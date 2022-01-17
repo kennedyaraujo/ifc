@@ -38,6 +38,8 @@
 * Verificadores de Plágio
     * [CopySpider](https://copyspider.com.br/main/)
     * [DOCxWEB](https://www.docxweb.com/pages/home.jsf)
+    * [Plagium](https://www.plagium.com/)
+    * [Turnitin](https://www.turnitin.com/pt)
 * Bases de dados
     * [Scopus - Necessita de permissão para busca](https://www.scopus.com/search/form.uri)
     * [IEE - Busca aberta com artigos de acesso privado](https://ieeexplore.ieee.org/)
