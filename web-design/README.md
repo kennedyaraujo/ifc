@@ -44,3 +44,5 @@
 * **Aula 08 - Formatação - Layout Design Portfolio**
     * [Descobertas e dúvidas - Web Design](https://hackmd.io/@pvhbu7pkRQWb0jhWB0TdEQ/rJpFTZI9t/edit)
     * [Layout Design Portfolio](https://www.figma.com/file/GKm6011TE7SjFuR6GFEkgr/Portfolio-design?node-id=0%3A1)
+    * [Exemplo Layout Grid](https://replit.com/@KennedyArajo/layoutgrid#style.css)
+    * [Formulário para entrega da atividade](https://forms.gle/nyg7J58L9q3kdozo6)
