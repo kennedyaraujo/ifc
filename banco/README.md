@@ -90,4 +90,8 @@
     * Modelo Lógico - Vamos Cozinhar
         * [Arquivo MWB](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/modelo-logico/vamos-cozinhar/ml-vamos-cozinhar.mwb)
         * [Imagem do banco](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/exercicios/modelo-logico/vamos-cozinhar/ml-vamos-cozinhar.png)
+* **Aula 11 - MODELO CONCEITUAL - LÓGICO**
+    * Modelo Lógico - Booking
+        * [Arquivo MWB](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/provas/prova-de-projeto-modelo-logico/correcao-prova-booking/banco-booking.mwb)
+        * [Imagem do banco](https://github.com/kennedyaraujo/ifc/blob/main/banco/material-complementar/provas/prova-de-projeto-modelo-logico/correcao-prova-booking/banco-booking.png)
     
