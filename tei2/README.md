@@ -23,6 +23,7 @@
     * [Artigo - Augmented Reality: An Application of Heads-Up Display Technology to Manual Manufacturing Processes](https://github.com/kennedyaraujo/ifc/blob/main/tei2/bibliografia-realidade-aumentada/Augmented%20Reality%20-%20An%20Application%20of%20Heads-Up%20Display%20Technology%20to%20Manual%20-%20Thomas%20C%20David%20M.pdf)
     <!-- * [Vídeo - Aula 01](https://www.youtube.com/watch?v=qjKx1nFbmZ8) <br/>
     <a href="https://youtu.be/qjKx1nFbmZ8"> <img src="https://img.youtube.com/vi/qjKx1nFbmZ8/maxresdefault.jpg" width="200"></a> -->
+    * [Link Slides - Aplicações que utilizam RA](https://docs.google.com/presentation/d/1fG9N3bgZgoDFOhSkXbd8hPK4YS2DgpjF/edit?usp=sharing&ouid=100855511090148956984&rtpof=true&sd=true)
 * **Aula 02 - Atividade Captura de Vídeo**
     * Criar código em JavaScript que faça a captura do vídeo da webcam do dispositivo. Deixe os movimentos  capturados condizentes com a ótica do usuário (realize um teste comparativo com o googleMeet).
 * **Aula 03 - Elaboração do código de captura em vídeo**
