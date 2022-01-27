@@ -10,7 +10,9 @@
 
 ### AULAS
 * **Aula 01 - Introdução à Realidade Aumentada**
-    * [Slides Aula 01](https://github.com/kennedyaraujo/ifc/blob/main/tei2/slides/aula01-introducao-ra.pdf)    
+    * [Slides Aula 01](https://github.com/kennedyaraujo/ifc/blob/main/tei2/slides/aula01-introducao-ra.pdf)
+    * [Link para o formulário de email](https://forms.gle/aYcPWFtXARxzftyz6)
+    * [Link para formulário de questões](https://forms.gle/D6zWXdYWBpPkYUPT9)    
     * [Vídeo 01 - Sensorama - Morton Heilig's](https://www.youtube.com/watch?v=vSINEBZNCks)
         * 0:10 - Imagens mostradas no sensorama
         * 1:23 - Imagens da máquina sendo utilizada 
@@ -19,18 +21,18 @@
         * 3:10 - Display sendo usado
     * [Artigo - The Ultimate Display -  Ivan E. Sutherland](https://github.com/kennedyaraujo/ifc/blob/main/tei2/bibliografia-realidade-aumentada/The%20ultimate%20display%20-%20Ivan%20E%20Sutherland.pdf)
     * [Artigo - Augmented Reality: An Application of Heads-Up Display Technology to Manual Manufacturing Processes](https://github.com/kennedyaraujo/ifc/blob/main/tei2/bibliografia-realidade-aumentada/Augmented%20Reality%20-%20An%20Application%20of%20Heads-Up%20Display%20Technology%20to%20Manual%20-%20Thomas%20C%20David%20M.pdf)
-    * [Vídeo - Aula 01](https://www.youtube.com/watch?v=qjKx1nFbmZ8) <br/>
-    <a href="https://youtu.be/qjKx1nFbmZ8"> <img src="https://img.youtube.com/vi/qjKx1nFbmZ8/maxresdefault.jpg" width="200"></a>
+    <!-- * [Vídeo - Aula 01](https://www.youtube.com/watch?v=qjKx1nFbmZ8) <br/>
+    <a href="https://youtu.be/qjKx1nFbmZ8"> <img src="https://img.youtube.com/vi/qjKx1nFbmZ8/maxresdefault.jpg" width="200"></a> -->
 * **Aula 02 - Atividade Captura de Vídeo**
     * Criar código em JavaScript que faça a captura do vídeo da webcam do dispositivo. Deixe os movimentos  capturados condizentes com a ótica do usuário (realize um teste comparativo com o googleMeet).
 * **Aula 03 - Elaboração do código de captura em vídeo**
-    * [Vídeo - Aula 03](https://www.youtube.com/watch?v=mhQ5WInfM5w) <br/>
-    <a href="https://www.youtube.com/watch?v=mhQ5WInfM5w"> <img src="https://img.youtube.com/vi/mhQ5WInfM5w/maxresdefault.jpg" width="200"></a>
-* **Aula 04 - Atividade Criação de mapa de movimento**
+    <!-- * [Vídeo - Aula 03](https://www.youtube.com/watch?v=mhQ5WInfM5w) <br/>
+    <a href="https://www.youtube.com/watch?v=mhQ5WInfM5w"> <img src="https://img.youtube.com/vi/mhQ5WInfM5w/maxresdefault.jpg" width="200"></a> -->
+<!-- * **Aula 04 - Atividade Criação de mapa de movimento**
     * O aluno deverá fazer a subtração entre duas imagens e mostrar o resultado, chamado de mapa de movimento, para o usuário em tempo real.
     * Recomendo partir do [código de captura do vídeo](https://github.com/kennedyaraujo/ifc/blob/main/tei2/code/aula02-captura-webcam.html) disponibilizado
     * [Descritivo técnica de mapeamento de movimento](https://1drv.ms/b/s!Ak5zz-HWFx2ulLMX2KIXAnHqfmEFQA?e=3Fcx03) 
 **Aula 05 - Atividade SnapShot**
     * Você deve construir com base no código da aula passada, um botão que ao ser clicado captura um snapshot da webcam do usuário, e salva no canvas ao lado. Deve ser criado também um botão de download que possibilite ao usuário baixar aquela imagem.
 * **Aula 06 - Atividade Criação de mapa de movimento**
-* **Aula 07 - Criação de mapa de movimento de forma colaborativa**
+* **Aula 07 - Criação de mapa de movimento de forma colaborativa** -->
