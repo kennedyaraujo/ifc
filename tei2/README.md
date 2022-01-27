@@ -10,7 +10,7 @@
 
 ### AULAS
 * **Aula 01 - Introdução à Realidade Aumentada**
-    * [Slides Aula 01](https://github.com/kennedyaraujo/ifc/blob/main/tei2/slides/aula01-introducao-ra.pdf)
+    * [Slides Aula 01](https://github.com/kennedyaraujo/ifc/blob/main/tei2/slides/aula-01-introducao-ra.pdf)
     * [Link para o formulário de email](https://forms.gle/aYcPWFtXARxzftyz6)
     * [Link para formulário de questões](https://forms.gle/D6zWXdYWBpPkYUPT9)    
     * [Vídeo 01 - Sensorama - Morton Heilig's](https://www.youtube.com/watch?v=vSINEBZNCks)
