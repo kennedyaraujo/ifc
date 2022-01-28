@@ -26,7 +26,9 @@
     * [Link Slides - Aplicações que utilizam RA](https://docs.google.com/presentation/d/1fG9N3bgZgoDFOhSkXbd8hPK4YS2DgpjF/edit?usp=sharing&ouid=100855511090148956984&rtpof=true&sd=true)
 * **Aula 02 - Conhecendo a Biblioteca Media Pipe**
     * [MediaPipe com JavaScript](https://google.github.io/mediapipe/getting_started/javascript.html)
+    * [MediaPipe no Github](https://github.com/google/mediapipe)
     * [MediaPipeHands](https://google.github.io/mediapipe/solutions/hands.html)
+    * [Base MediaPipe Hands](https://github.com/kennedyaraujo/ifc/blob/main/tei2/code/base-mediapipe-hands.html)
 * **Aula 03 - Elaboração do código de captura em vídeo**
     <!-- * [Vídeo - Aula 03](https://www.youtube.com/watch?v=mhQ5WInfM5w) <br/>
     <a href="https://www.youtube.com/watch?v=mhQ5WInfM5w"> <img src="https://img.youtube.com/vi/mhQ5WInfM5w/maxresdefault.jpg" width="200"></a> -->
