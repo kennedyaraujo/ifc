@@ -24,8 +24,9 @@
     <!-- * [Vídeo - Aula 01](https://www.youtube.com/watch?v=qjKx1nFbmZ8) <br/>
     <a href="https://youtu.be/qjKx1nFbmZ8"> <img src="https://img.youtube.com/vi/qjKx1nFbmZ8/maxresdefault.jpg" width="200"></a> -->
     * [Link Slides - Aplicações que utilizam RA](https://docs.google.com/presentation/d/1fG9N3bgZgoDFOhSkXbd8hPK4YS2DgpjF/edit?usp=sharing&ouid=100855511090148956984&rtpof=true&sd=true)
-* **Aula 02 - Atividade Captura de Vídeo**
-    * Criar código em JavaScript que faça a captura do vídeo da webcam do dispositivo. Deixe os movimentos  capturados condizentes com a ótica do usuário (realize um teste comparativo com o googleMeet).
+* **Aula 02 - Conhecendo a Biblioteca Media Pipe**
+    * [MediaPipe com JavaScript](https://google.github.io/mediapipe/getting_started/javascript.html)
+    * [MediaPipeHands](https://google.github.io/mediapipe/solutions/hands.html)
 * **Aula 03 - Elaboração do código de captura em vídeo**
     <!-- * [Vídeo - Aula 03](https://www.youtube.com/watch?v=mhQ5WInfM5w) <br/>
     <a href="https://www.youtube.com/watch?v=mhQ5WInfM5w"> <img src="https://img.youtube.com/vi/mhQ5WInfM5w/maxresdefault.jpg" width="200"></a> -->
