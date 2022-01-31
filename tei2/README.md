@@ -29,7 +29,11 @@
     * [MediaPipe no Github](https://github.com/google/mediapipe)
     * [MediaPipeHands](https://google.github.io/mediapipe/solutions/hands.html)
     * [Base MediaPipe Hands](https://github.com/kennedyaraujo/ifc/blob/main/tei2/code/base-mediapipe-hands.html)
-* **Aula 03 - Elaboração do código de captura em vídeo**
+* **Aula 03 - Contador de dedos**
+* **Aula 04 - Reconhecendo toque em botões**
+* **Aula 05 - Posicionamento de objetos na face**
+    * [Documentação FaceMesh](https://google.github.io/mediapipe/solutions/face_mesh)
+    * [Pontos da face](https://raw.githubusercontent.com/google/mediapipe/a908d668c730da128dfa8d9f6bd25d519d006692/mediapipe/modules/face_geometry/data/canonical_face_model_uv_visualization.png)
     <!-- * [Vídeo - Aula 03](https://www.youtube.com/watch?v=mhQ5WInfM5w) <br/>
     <a href="https://www.youtube.com/watch?v=mhQ5WInfM5w"> <img src="https://img.youtube.com/vi/mhQ5WInfM5w/maxresdefault.jpg" width="200"></a> -->
 <!-- * **Aula 04 - Atividade Criação de mapa de movimento**
