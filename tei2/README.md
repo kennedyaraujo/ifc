@@ -30,7 +30,8 @@
     * [MediaPipeHands](https://google.github.io/mediapipe/solutions/hands.html)
     * [Base MediaPipe Hands](https://github.com/kennedyaraujo/ifc/blob/main/tei2/code/base-mediapipe-hands.html)
 * **Aula 03 - Contador de dedos**
-* **Aula 04 - Reconhecendo toque em botões**
+* **Aula 04 - Posição da mão**
+    * [Arquivo para codificação](https://position-hand.kennedyarajo.repl.co/)
 * **Aula 05 - Posicionamento de objetos na face**
     * FaceMesh
         * [Documentação FaceMesh](https://google.github.io/mediapipe/solutions/face_mesh)
