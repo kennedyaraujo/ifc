@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <script
+      src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/@mediapipe/control_utils/control_utils.js"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/@mediapipe/holistic/holistic.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <div>
+        <video class="input_video"></video>
+      </div>
+      <div class="output_video">
+        <div class="images">
+          <div id="0"></div>
+          <img id="1" class="isWearing" src="./img/sunglasses.png" />
+          <div id="2"></div>
+          <img id="3" src="./img/sunglasses5.png" />
+          <div id="4"></div>
+          <img id="5" src="./img/sunglasses2.png" />
+        </div>
+        <canvas class="output_canvas" width="1280px" height="720px"></canvas>
+      </div>
+    </div>
+  </body>
+</html>
+
+<script type="module">
+  const videoElement = document.getElementsByClassName("input_video")[0];
+  const canvasElement = document.getElementsByClassName("output_canvas")[0];
+  const canvasCtx = canvasElement.getContext("2d");
+  const turn_down_for_what = document.getElementsByClassName("turndownforwhat");
+
+  let index_finger = null;
+  let point = null;
+  let stopSwitch = false;
+
+  function onResults(results) {
+    canvasCtx.save();
+    canvasCtx.clearRect(0, 0, canvasElement.width, canvasElement.height);
+
+    canvasCtx.drawImage(
+      results.image,
+      0,
+      0,
+      canvasElement.width,
+      canvasElement.height
+    );
+
+    if (results.faceLandmarks) {
+      let width = canvasElement.width;
+      let height = canvasElement.height;
+
+      //Definir os pontos da face
+      let beginX = results.faceLandmarks[162].x * canvasElement.width;
+      let endX = results.faceLandmarks[389].x * canvasElement.width;
+
+      let beginY = results.faceLandmarks[10].y * height;
+      let endY = results.faceLandmarks[2].y * height;
+
+      //O canvas foi dividio em 6 porém apenas 3 imagens utilizadas
+      if (results.rightHandLandmarks) {
+        index_finger = results.rightHandLandmarks[8];
+        point = Math.floor((index_finger.y * canvasElement.height) / 120); //720 / 6
+      } else if (results.leftHandLandmarks) {
+        index_finger = results.leftHandLandmarks[8];
+        point = Math.floor((index_finger.y * canvasElement.height) / 120);
+      }
+
+      //Recebe o id da imagem que deve ser mostrada e remove o isWearing caso exista uma imagem anterior
+      //Se houver uma imagem anterior, remove a imagem anterior e adiciona a classe isWearing na nova imagem
+      //Se não apenas remove a imagem
+      const switchGlasses = (point) => {
+        if (document.getElementById(point).className !== "isWearing") {
+          if (document.querySelector(".isWearing") !== null) {
+            document.querySelector(".isWearing").classList.remove("isWearing");
+          }
+          document.getElementById(point).classList.add("isWearing");
+        } else {
+          document.querySelector(".isWearing").classList.remove("isWearing");
+        }
+      };
+
+      const containsGlasses = [1, 3, 5]; //Contém os ids dos óculos
+      const entered = 1030; //Entrou na região do óculos (index_finger.x * canvasElement.width)
+
+      //Verifica se o ponto está dentro dos índices dos óculos
+      if (index_finger !== null && point !== null) {
+        console.log("entered", index_finger.x * canvasElement.width);
+        if (
+          index_finger.x * canvasElement.width > 1030 &&
+          stopSwitch === false &&
+          containsGlasses.includes(point)
+        ) {
+          switchGlasses(point);
+          stopSwitch = true;
+          console.log("Switched");
+
+          //Se o dedo não estiver na posição de um óculos,permite que o switch seja feito
+        } else if (index_finger.x * canvasElement.width < 1030) {
+          stopSwitch = false;
+        }
+      }
+
+      //Pega qual é o óculos que está sendo usado e desenha
+      let isWearing = document.querySelector(".isWearing");
+
+      if (isWearing) {
+        canvasCtx.drawImage(
+          isWearing,
+          beginX,
+          beginY,
+          endX - beginX,
+          endY - beginY
+        );
+      }
+    }
+
+    /*
+                canvasCtx.drawImage(results.segmentationMask, 0, 0,
+                    canvasElement.width, canvasElement.height);
+
+                // Only overwrite existing pixels.
+                // canvasCtx.globalCompositeOperation = 'source-in';
+                // canvasCtx.fillStyle = '#00FF00';
+                // canvasCtx.fillRect(0, 0, canvasElement.width, canvasElement.height);
+
+                // Only overwrite missing pixels.
+                // canvasCtx.globalCompositeOperation = 'destination-atop';
+
+
+                canvasCtx.globalCompositeOperation = 'source-over';
+                // drawConnectors(canvasCtx, results.poseLandmarks, POSE_CONNECTIONS,
+                //     { color: '#00FF00', lineWidth: 4 });
+                // drawLandmarks(canvasCtx, results.poseLandmarks,
+                //     { color: '#FF0000', lineWidth: 2 });
+                // drawConnectors(canvasCtx, results.faceLandmarks, FACEMESH_TESSELATION,
+                //     { color: '#C0C0C070', lineWidth: 1 });
+                // drawConnectors(canvasCtx, results.leftHandLandmarks, HAND_CONNECTIONS,
+                //     { color: '#CC0000', lineWidth: 5 });
+                // drawLandmarks(canvasCtx, results.leftHandLandmarks,
+                //     { color: '#00FF00', lineWidth: 2 });
+                // drawConnectors(canvasCtx, results.rightHandLandmarks, HAND_CONNECTIONS,
+                //     { color: '#00CC00', lineWidth: 5 });
+                // drawLandmarks(canvasCtx, results.rightHandLandmarks,
+                //     { color: '#FF0000', lineWidth: 2 });*/
+    canvasCtx.restore();
+  }
+
+  const holistic = new Holistic({
+    locateFile: (file) => {
+      return `https://cdn.jsdelivr.net/npm/@mediapipe/holistic/${file}`;
+    },
+  });
+  holistic.setOptions({
+    modelComplexity: 1,
+    smoothLandmarks: true,
+    enableSegmentation: true,
+    smoothSegmentation: true,
+    refineFaceLandmarks: true,
+    minDetectionConfidence: 0.5,
+    minTrackingConfidence: 0.5,
+  });
+  holistic.onResults(onResults);
+
+  const camera = new Camera(videoElement, {
+    onFrame: async () => {
+      await holistic.send({ image: videoElement });
+    },
+    width: 1280,
+    height: 720,
+  });
+  camera.start();
+</script>

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/control_utils/control_utils.js"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js" crossorigin="anonymous"></script>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        .input_video {
+            display: none;
+        }
+
+        .output_canvas {
+            transform: scaleX(-1);
+        }
+
+        .container {
+            display: flex;
+        }
+
+        .output_canvas {
+            position: relative;
+            z-index: 1;
+        }
+
+        .output_video .images {
+            width: 1280px;
+            display: flex;
+            position: absolute;
+            z-index: 2;
+            justify-content: space-around;
+        }
+
+        .output_video .images img {
+            width: 120px;
+        }
+
+        .desligado-lamp1 {
+            content: url(./assets/lamp-1-apagada.png);
+        }
+
+        .ligado-lamp1 {
+            content: url(./assets/lamp-1.png);
+        }
+
+        .desligado-lamp2 {
+            content: url(./assets/lamp-2-apagada.png);
+        }
+
+        .ligado-lamp2 {
+            content: url(./assets/lamp-2.png);
+        }
+
+        .desligado-lamp3 {
+            content: url(./assets/lamp-3-apagada.png);
+        }
+
+        .ligado-lamp3 {
+            content: url(./assets/lamp-3.png);
+        }
+
+        .desligado-lamp4 {
+            content: url(./assets/lamp-3-apagada.png);
+        }
+
+        .ligado-lamp4 {
+            content: url(./assets/lamp-3.png);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div>
+            <video class="input_video"></video>
+        </div>
+        <div class="output_video">
+            <div class="images">
+                <img id="lamp-4" class="desligado-lamp4" />
+                <img id="lamp-3" class="desligado-lamp3" />
+                <img id="lamp-2" class="desligado-lamp2" />
+                <img id="lamp-1" class="desligado-lamp1" />
+            </div>
+            <canvas class="output_canvas" width="1280px" height="720px"></canvas>
+        </div>
+    </div>
+
+
+    <script type="module">
+        const videoElement = document.getElementsByClassName('input_video')[0];
+        const canvasElement = document.getElementsByClassName('output_canvas')[0];
+        const canvasCtx = canvasElement.getContext('2d');
+        const alturaLampada = 220;
+
+        let lampadasLigadas = [];
+        const lampadaManipulada = {
+            mao1: null,
+            mao2: null,
+        }
+
+        function ligarDesligarLampada(quarteto) {
+            const classeDaLampada = document.getElementById(`lamp-${quarteto}`)?.className;
+            const classeLigado = `ligado-lamp${quarteto}`;
+            const classeDesigado = `desligado-lamp${quarteto}`;
+
+            if (lampadasLigadas.includes(quarteto)) {
+                const lamp = document.getElementById(`lamp-${quarteto}`);
+                if (lamp) {
+                    lamp.className = classeDesigado;
+                }
+                lampadasLigadas = lampadasLigadas.filter(lamp => lamp !== quarteto);
+
+            } else {
+                const lamp = document.getElementById(`lamp-${quarteto}`);
+                if (lamp) {
+
+                    lamp.className = classeLigado;
+                }
+                lampadasLigadas.push(quarteto);
+            }
+
+
+        }
+
+        function onResults(results) {
+            canvasCtx.save();
+            canvasCtx.clearRect(0, 0, canvasElement.width, canvasElement.height);
+            canvasCtx.drawImage(results.image, 0, 0, canvasElement.width, canvasElement.height);
+
+            if (results.multiHandLandmarks && results.multiHandLandmarks.length != 0) {
+
+                for (let i in results.multiHandLandmarks) {
+                    console.log('i', i)
+                    let pontaDoDedoIndicador = results.multiHandLandmarks[i][8];
+                    let quarteto = Math.floor((pontaDoDedoIndicador.x * canvasElement.width) / 320);
+
+                    let ondeEstaODedoNaTela = canvasElement.height * pontaDoDedoIndicador.y;
+                    console.log('\lampadasLigadas: ', lampadasLigadas,)
+
+                    if (ondeEstaODedoNaTela <= alturaLampada && ondeEstaODedoNaTela > 0) {
+                        if (lampadaManipulada[`mao${i}`] != quarteto) {
+                            ligarDesligarLampada(quarteto + 1);
+                        }
+                        lampadaManipulada[`mao${i}`] = quarteto;
+                    } else {
+                        lampadaManipulada[`mao${i}`] = null;
+                    }
+                }
+            }
+            canvasCtx.restore();
+        }
+
+        const hands = new Hands({
+            locateFile: (file) => {
+                return `https://cdn.jsdelivr.net/npm/@mediapipe/hands/${file}`;
+            }
+        });
+        hands.setOptions({
+            maxNumHands: 2,
+            modelComplexity: 1,
+            minDetectionConfidence: 0.5,
+            minTrackingConfidence: 0.5
+        });
+        hands.onResults(onResults);
+
+        const camera = new Camera(videoElement, {
+            onFrame: async () => {
+                await hands.send({ image: videoElement });
+            },
+            width: 1280,
+            height: 720
+        });
+        camera.start();
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/control_utils/control_utils.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js" crossorigin="anonymous"></script>
+  <style>
+    .input_video,.output_canvas{
+       transform: rotateY(180deg);
+    }
+    div.container > div{
+      position:relative;
+    }
+    div.container div.rect{
+      position:absolute;
+      top:0;
+      left:0;
+      width:320px;
+      height:720px;
+      background: rgba(0,0,0,0.5);
+    }
+    
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <video class="input_video"></video>
+    <div>
+    <canvas class="output_canvas" width="1280px" height="720px"></canvas>
+      <div class="rect"></div>
+    </div>
+  </div>
+
+
+  <script type="module">
+    const videoElement = document.getElementsByClassName('input_video')[0];
+    const canvasElement = document.getElementsByClassName('output_canvas')[0];
+    const canvasCtx = canvasElement.getContext('2d');
+    
+    function onResults(results) {
+      //https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/save  
+      canvasCtx.save();
+      canvasCtx.clearRect(0, 0, canvasElement.width, canvasElement.height);
+      canvasCtx.drawImage(results.image, 0, 0, canvasElement.width, canvasElement.height);
+      if (results.multiHandLandmarks && typeof results.multiHandLandmarks[0] != 'undefined') {
+        console.log(results);
+
+        let point = Math.floor((results.multiHandLandmarks[0][9].x * canvasElement.width)/320);
+        console.log(point);
+
+
+        document.querySelector(".rect").style.left = Math.abs(3-point)*320 + "px";
+
+        canvasCtx.fillStyle = 'rgba(255, 221, 0, 0.5)';
+        canvasCtx.fillRect(point*320,0,320,720);
+        
+        /*for (const landmarks of results.multiHandLandmarks) {
+          drawConnectors(canvasCtx, landmarks, HAND_CONNECTIONS,
+                         {color: '#00FF00', lineWidth: 5});
+          drawLandmarks(canvasCtx, landmarks, {color: '#FF0000', lineWidth: 2});
+        }*/
+      }
+      canvasCtx.restore();
+    }
+    
+    const hands = new Hands({locateFile: (file) => {
+      return `https://cdn.jsdelivr.net/npm/@mediapipe/hands/${file}`;
+    }});
+    hands.setOptions({
+      maxNumHands: 2,
+      modelComplexity: 1,
+      minDetectionConfidence: 0.5,
+      minTrackingConfidence: 0.5
+    });
+    hands.onResults(onResults);
+    
+    const camera = new Camera(videoElement, {
+      onFrame: async () => {
+        await hands.send({image: videoElement});
+      },
+      width: 1280,
+      height: 720
+    });
+    camera.start();
+    </script>
+</body>
+</html>

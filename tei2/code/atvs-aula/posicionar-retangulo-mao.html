@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/control_utils/control_utils.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js" crossorigin="anonymous"></script>
+  <style>
+     .input_video {
+            transform: rotateY(180deg);
+        }
+
+        .output_canvas {
+            transform: rotateY(180deg);
+            position: relative;
+            z-index: 1;
+        }
+        .container{
+          position: relative;
+        }
+        .rect{
+          width:320px;
+          height: 720px;
+          background-color: rgba(0,0,0,0.5);
+          position: absolute;
+          top: 0;
+          left:0;
+          z-index: 10;
+        }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <video class="input_video"></video>
+    <div class="container">
+      <canvas class="output_canvas" width="1280px" height="720px"></canvas>
+      <div class="rect"></div>
+    </div>
+    
+  </div>
+
+
+  <script type="module">
+    const videoElement = document.getElementsByClassName('input_video')[0];
+    const canvasElement = document.getElementsByClassName('output_canvas')[0];
+    const canvasCtx = canvasElement.getContext('2d');
+    
+
+
+    const sizeRect = canvasElement.width/4;
+    const widthCanvas = canvasElement.width;
+    const heightCanvas = canvasElement.height;
+    function onResults(results) {
+      //https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/save  
+      canvasCtx.save();
+      canvasCtx.clearRect(0, 0, canvasElement.width, canvasElement.height);
+      canvasCtx.drawImage(results.image, 0, 0, canvasElement.width, canvasElement.height);
+      
+      if (results.multiHandLandmarks && typeof results.multiHandLandmarks[0] != 'undefined') {
+   // esse código é executado
+
+        console.log(results.multiHandLandmarks[0][9]);
+        console.log(canvasElement.height);
+        //let ponto = results.multiHandLandmarks[0][9];
+        //console.log(ponto.x);
+        let area = Math.floor((results.multiHandLandmarks[0][9].x * widthCanvas)/sizeRect);
+         canvasCtx.fillStyle = 'rgba(255, 221, 0, 0.5)';
+         document.querySelector(".rect").style.left = Math.abs(3-area)*320 + "px" ;
+      console.log(area);
+       canvasCtx.fillRect((sizeRect*area), 0, sizeRect, heightCanvas); 
+      }
+      
+      /*if (results.multiHandLandmarks) {
+        console.log(results);
+        for (const landmarks of results.multiHandLandmarks) {
+          drawConnectors(canvasCtx, landmarks, HAND_CONNECTIONS,
+                         {color: '#00FF00', lineWidth: 5});
+          drawLandmarks(canvasCtx, landmarks, {color: '#FF0000', lineWidth: 2});
+        }
+      }*/
+      canvasCtx.restore();
+    }
+    
+    const hands = new Hands({locateFile: (file) => {
+      return `https://cdn.jsdelivr.net/npm/@mediapipe/hands/${file}`;
+    }});
+    hands.setOptions({
+      maxNumHands: 2,
+      modelComplexity: 1,
+      minDetectionConfidence: 0.5,
+      minTrackingConfidence: 0.5
+    });
+    hands.onResults(onResults);
+    
+    const camera = new Camera(videoElement, {
+      onFrame: async () => {
+        await hands.send({image: videoElement});
+      },
+      width: 1280,
+      height: 720
+    });
+    camera.start();
+    </script>
+</body>
+</html>

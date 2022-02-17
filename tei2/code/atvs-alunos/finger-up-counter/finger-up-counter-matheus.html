@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/control_utils/control_utils.js"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js" crossorigin="anonymous"></script>
+</head>
+
+<style>
+    body {
+        background-color: #000
+    }
+
+    .canvas-wrapper {
+        position: relative;
+    }
+
+    .contador-maos {
+        background: #fff;
+        padding: 12px 20px;
+        left: 20%;
+        top: 10px;
+        position: absolute;
+        font-weight: bold;
+        display: flex;
+        align-items: center;
+    }
+
+    .contador-dedos {
+        background: #fff;
+        padding: 12px 20px;
+        left: 50%;
+        top: 10px;
+        position: absolute;
+        font-weight: bold;
+        display: flex;
+        align-items: center;
+    }
+
+    #contador {
+        margin-left: 16px;
+        color: #000;
+        font-weight: bold;
+    }
+
+    #mao {
+        margin-left: 16px;
+        color: #000;
+        font-weight: bold;
+    }
+</style>
+
+<body>
+    <div class="container">
+        <video class="input_video"></video>
+        <div class="canvas-wrapper">
+            <canvas in class="output_canvas" width="1280px" height="720px"></canvas>
+            <div class="contador-maos">
+                Mão:
+                <div id="mao"></div>
+            </div>
+            <div class="contador-dedos">
+                Levantados:
+                <div id="contador">0</div>
+            </div>
+
+        </div>
+    </div>
+</body>
+
+</html>
+<script type="module">
+    let arrDedosLevantados = [];
+    let mao;
+    const videoElement = document.getElementsByClassName('input_video')[0];
+    const canvasElement = document.getElementsByClassName('output_canvas')[0];
+    const canvasCtx = canvasElement.getContext('2d');
+
+
+    function setLevantado(top, bottom, dedo, polegar, multiHandedness) {
+        if (multiHandedness[0]?.label && multiHandedness[1]?.label) {
+            mao = 'As Duas Mãos'
+        } else if (multiHandedness[0]?.label === 'Left') {
+            mao = 'Direita'
+        } else if (multiHandedness[0]?.label === 'Right') {
+            mao = 'Esquerda'
+        } else {
+            mao = 'Nenhuma'
+        }
+
+        if (top <= bottom) {
+            if (!arrDedosLevantados.includes(dedo)) {
+                arrDedosLevantados.push(dedo)
+            }
+        } else {
+            if (arrDedosLevantados.includes(dedo)) {
+                arrDedosLevantados = arrDedosLevantados.filter(num => num !== dedo)
+            }
+        }
+
+    }
+
+    function onResults(results) {
+        const dedos = [
+            {
+                top: results.multiHandLandmarks[0]?.[4],
+                bottom: results.multiHandLandmarks[0]?.[3],
+                dedo: 1,
+                polegar: true,
+            },
+            {
+                top: results.multiHandLandmarks[0]?.[8],
+                bottom: results.multiHandLandmarks[0]?.[6],
+                dedo: 2,
+                polegar: false,
+            },
+            {
+                top: results.multiHandLandmarks[0]?.[12],
+                bottom: results.multiHandLandmarks[0]?.[10],
+                dedo: 3,
+                polegar: false,
+            },
+            {
+                top: results.multiHandLandmarks[0]?.[16],
+                bottom: results.multiHandLandmarks[0]?.[14],
+                dedo: 4,
+                polegar: false,
+            },
+            {
+                top: results.multiHandLandmarks[0]?.[20],
+                bottom: results.multiHandLandmarks[0]?.[18],
+                dedo: 5,
+                polegar: false,
+            },
+            {
+                top: results.multiHandLandmarks[1]?.[4],
+                bottom: results.multiHandLandmarks[1]?.[3],
+                dedo: 6,
+                polegar: true,
+            },
+            {
+                top: results.multiHandLandmarks[1]?.[8],
+                bottom: results.multiHandLandmarks[1]?.[6],
+                dedo: 7,
+                polegar: false,
+            },
+            {
+                top: results.multiHandLandmarks[1]?.[12],
+                bottom: results.multiHandLandmarks[1]?.[10],
+                dedo: 8,
+                polegar: false,
+            },
+            {
+                top: results.multiHandLandmarks[1]?.[16],
+                bottom: results.multiHandLandmarks[1]?.[14],
+                dedo: 9,
+                polegar: false,
+            },
+            {
+                top: results.multiHandLandmarks[1]?.[20],
+                bottom: results.multiHandLandmarks[1]?.[18],
+                dedo: 10,
+                polegar: false,
+            },
+        ]
+        canvasCtx.save();
+        canvasCtx.clearRect(0, 0, canvasElement.width, canvasElement.height);
+        canvasCtx.drawImage(
+            results.image, 0, 0, canvasElement.width, canvasElement.height);
+        if (results.multiHandLandmarks) {
+
+            for (const dedo of dedos) {
+                if (dedo.polegar) {
+                    setLevantado(dedo?.top?.x, dedo?.bottom?.x, dedo.dedo, dedo.polegar, results.multiHandedness)
+                } else {
+                    setLevantado(dedo?.top?.y, dedo?.bottom?.y, dedo.dedo, dedo.polegar, results.multiHandedness)
+                }
+            }
+
+            document.getElementById('contador').textContent = arrDedosLevantados.length;
+            document.getElementById('mao').textContent = mao;
+            for (const landmarks of results.multiHandLandmarks) {
+                drawConnectors(canvasCtx, landmarks, HAND_CONNECTIONS,
+                    { color: '#00FF00', lineWidth: 10 });
+                drawLandmarks(canvasCtx, landmarks, { color: '#FF0000', lineWidth: 4 });
+            }
+        }
+        canvasCtx.restore();
+    }
+
+    const hands = new Hands({
+        locateFile: (file) => {
+            return `https://cdn.jsdelivr.net/npm/@mediapipe/hands/${file}`;
+        }
+    });
+    hands.setOptions({
+        maxNumHands: 2,
+        modelComplexity: 1,
+        minDetectionConfidence: 0.5,
+        minTrackingConfidence: 0.5
+    });
+    hands.onResults(onResults);
+
+    const camera = new Camera(videoElement, {
+        onFrame: async () => {
+            await hands.send({ image: videoElement });
+        },
+        width: 1280,
+        height: 720
+    });
+    camera.start();
+</script>

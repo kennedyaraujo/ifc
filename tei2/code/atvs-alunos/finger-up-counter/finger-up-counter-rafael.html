@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/control_utils/control_utils.js"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js" crossorigin="anonymous"></script>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .container div {
+            margin: 20px;
+            border-radius: 4px;
+        }
+
+        .input_video {
+            transform: rotateY(180deg);
+            border-radius: 10px;
+        }
+
+        .output_canvas {
+            transform: rotateY(180deg);
+            position: relative;
+            z-index: 1;
+            border-radius: 10px;
+        }
+
+        h1 {
+            position: absolute;
+            z-index: 2;
+            font-size: 50px;
+            font-family: Arial;
+            font-weight: 1000;
+            margin-top: 15px;
+            margin-left: 15px;
+            padding: 7px;
+            background-color: rgba(255, 255, 255, 0.7);
+            border-radius: 4px;
+            box-shadow: 0px 0px 24px 7px rgba(0,0,0,0.36);
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div>
+            <video class="input_video"></video>
+        </div>
+        <div class="output_video">
+            <h1 id="counter"></h1>
+            <canvas class="output_canvas" width="1280px" height="720px"></canvas>
+        </div>
+    </div>
+    </div>
+</body>
+
+</html>
+<script type="module">
+    const videoElement = document.getElementsByClassName('input_video')[0];
+    const canvasElement = document.getElementsByClassName('output_canvas')[0];
+    var counterElement = document.getElementById('counter');
+    const canvasCtx = canvasElement.getContext('2d');
+
+/***********************************************************************************************/
+    function thumbDownDetector(hand, inverted_camera){
+        let side = hand[hand.length - 1].label
+
+        if (inverted_camera){
+            if (side === 'Left') {
+                side = 'Right'
+            } else if (side === 'Right') {
+                side = 'Left'
+            }
+        }
+        
+        let thumb_tip = hand[4]
+        let thumb_ip = hand[3]
+
+         if (side === 'Left') {
+            if (thumb_tip.x <= thumb_ip.x) return true
+        } else if (side === 'Right') {
+            if (thumb_tip.x >= thumb_ip.x) return true
+        }
+
+        return false
+    }
+
+    function onResults(results) {
+        canvasCtx.save();
+        canvasCtx.clearRect(0, 0, canvasElement.width, canvasElement.height);
+        canvasCtx.drawImage(
+            results.image, 0, 0, canvasElement.width, canvasElement.height);
+
+        var counter = 0
+        let data = []
+        if (results.multiHandLandmarks) {
+            
+            for (let i in results.multiHandLandmarks) {
+                data.push(results.multiHandLandmarks[i].concat(results.multiHandedness[i]))
+            }
+
+            for (let hand of data) {
+                if (thumbDownDetector(hand, true)) counter += 1
+                if (hand[8].y <= hand[7].y) counter += 1
+                if (hand[12].y <= hand[11].y) counter += 1
+                if (hand[16].y <= hand[15].y) counter += 1
+                if (hand[20].y <= hand[19].y) counter += 1
+            }
+
+            counterElement.innerHTML = `Dedos levantados: ${counter}`
+            
+
+            for (const landmarks of results.multiHandLandmarks) {
+                drawConnectors(canvasCtx, landmarks, HAND_CONNECTIONS,
+                    { color: '#00FF00', lineWidth: 5 });
+                drawLandmarks(canvasCtx, landmarks, { color: '#FF0000', lineWidth: 2 });
+            }
+        } else {
+            counterElement.innerText = `Dedos levantados: 0`
+        }
+        canvasCtx.restore();
+    }
+/***********************************************************************************************/
+
+    const hands = new Hands({
+        locateFile: (file) => {
+            return `https://cdn.jsdelivr.net/npm/@mediapipe/hands/${file}`;
+        }
+    });
+    hands.setOptions({
+        maxNumHands: 2,
+        modelComplexity: 1,
+        minDetectionConfidence: 0.5,
+        minTrackingConfidence: 0.5
+    });
+    hands.onResults(onResults);
+
+    const camera = new Camera(videoElement, {
+        onFrame: async () => {
+            await hands.send({ image: videoElement });
+        },
+        width: 1280,
+        height: 720
+    });
+    camera.start();
+</script>

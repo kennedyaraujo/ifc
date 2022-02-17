@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <script
+      src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/@mediapipe/control_utils/control_utils.js"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <div>
+        <video class="input_video"></video>
+      </div>
+      <div class="output_video">
+        <div class="images">
+          <img id="3" class="off" src="./img/lamp-3-off.png" />
+          <img id="2" class="off" src="./img/lamp-3-off.png" />
+          <img id="1" class="off" src="./img/lamp-3-off.png" />
+          <img id="0" class="off" src="./img/lamp-3-off.png" />
+        </div>
+        <canvas class="output_canvas" width="1280px" height="720px"></canvas>
+      </div>
+    </div>
+
+    <script type="module">
+      const videoElement = document.getElementsByClassName("input_video")[0];
+      const canvasElement = document.getElementsByClassName("output_canvas")[0];
+      const lampada = document.getElementById("0");
+      const canvasCtx = canvasElement.getContext("2d");
+
+      let isOn = false;
+
+      function onResults(results) {
+        canvasCtx.save();
+        canvasCtx.clearRect(0, 0, canvasElement.width, canvasElement.height);
+        canvasCtx.drawImage(
+          results.image,
+          0,
+          0,
+          canvasElement.width,
+          canvasElement.height
+        );
+
+        if (
+          results.multiHandLandmarks &&
+          results.multiHandLandmarks.length != 0
+        ) {
+          for (let hand of results.multiHandLandmarks) {
+            
+            // Define em qual das 4 partes do canvas a ponta do indicador está
+            let point = Math.floor((hand[8].x * canvasElement.width) / 320);
+            console.log(point);
+
+            //Pegando a ponta do dedo indicador
+            let index_finger = hand[8].y;
+
+            //Verifica se a ponta do dedo indicador está dentro da área da lampada
+            //E se a variável isOn é falsa
+            if (
+              index_finger * canvasElement.height < lampada.height &&
+              isOn === false
+            ) {
+              //Se a lampada estiver desligada, altera para ligada e troca a imagem
+              if (document.getElementById(point).className == "off") {
+                document.getElementById(point).className = "on";
+                document.getElementById(point).src = "./img/lamp-3-on.png";
+              }
+              //Se não,altera para desligada e troca a imagem
+              else {
+                document.getElementById(point).className = "off";
+                document.getElementById(point).src = "./img/lamp-3-off.png";
+              }
+              isOn = true;
+              //Seta a variabel isOn para true
+            }
+            //Se a ponta do indicador está fora da área da lampada
+            //E seta a variável isOn para falso novamente
+            else if (index_finger * canvasElement.height >= lampada.height) {
+              isOn = false;
+            }
+          }
+        }
+
+        canvasCtx.restore();
+      }
+
+      const hands = new Hands({
+        locateFile: (file) => {
+          return `https://cdn.jsdelivr.net/npm/@mediapipe/hands/${file}`;
+        },
+      });
+      hands.setOptions({
+        maxNumHands: 2,
+        modelComplexity: 1,
+        minDetectionConfidence: 0.5,
+        minTrackingConfidence: 0.5,
+      });
+      hands.onResults(onResults);
+
+      const camera = new Camera(videoElement, {
+        onFrame: async () => {
+          await hands.send({ image: videoElement });
+        },
+        width: 1280,
+        height: 720,
+      });
+      camera.start();
+    </script>
+  </body>
+</html>

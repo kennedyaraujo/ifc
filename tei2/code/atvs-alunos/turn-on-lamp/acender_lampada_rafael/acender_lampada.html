@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/control_utils/control_utils.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js" crossorigin="anonymous"></script>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    .input_video, .output_canvas{
+      transform: rotateY(180deg);
+      border-radius: 10px;
+    }
+    
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .container > div {
+      margin: 20px;
+    }
+
+    .output_canvas {
+      position: relative;
+      z-index: 1;
+    }
+
+    .output_video .images {
+      width: 1280px;
+      display: flex;
+      position: absolute;
+      z-index: 2;
+      justify-content: space-around;
+    }
+
+    .output_video .images img {
+      width: 120px;
+    }
+    
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div>
+      <video class="input_video"></video>
+    </div>
+    <div class="output_video">
+      <div class="images">
+        <img id="3" class="off" src="./assets/lamp-1-apagada.png">
+        <img id="2" class="off" src="./assets/lamp-1-apagada.png">
+        <img id="1" class="off" src="./assets/lamp-1-apagada.png">
+        <img id="0" class="off" src="./assets/lamp-1-apagada.png">
+      </div>
+      <canvas class="output_canvas" width="1280px" height="720px"></canvas>
+    </div>
+  </div>
+
+
+  <script type="module">
+    const videoElement = document.getElementsByClassName('input_video')[0];
+    const canvasElement = document.getElementsByClassName('output_canvas')[0];
+    const lampElement = document.getElementById('0')
+    const canvasCtx = canvasElement.getContext('2d');
+    
+    // array de boolean pra não ficar ligando e desligando varias vezes a 
+    // lampada, cada posição indica se a mão está dentro da area das lampadas,
+    // olhe o console
+    let breakLoopingSwitch = []
+    
+    // Função que acende ou apaga a lampada, recebe como parametro o ponto na qual o dedo indicador está presente
+    // Observe nas imagens no HTML que eu defini o CLASS que indica se a lampada esta off/on e o ID representa o point
+    function lampSwitch(point) {
+      if (document.getElementById(point).className == 'off') {
+        document.getElementById(point).className = 'on';
+        document.getElementById(point).src= "./assets/lamp-1.png";
+      } else {
+        document.getElementById(point).className = 'off';
+        document.getElementById(point).src= "./assets/lamp-1-apagada.png";
+      }
+    }
+
+    function onResults(results) {
+      canvasCtx.save();
+      canvasCtx.clearRect(0, 0, canvasElement.width, canvasElement.height);
+      canvasCtx.drawImage(results.image, 0, 0, canvasElement.width, canvasElement.height);
+      
+      if (results.multiHandLandmarks && results.multiHandLandmarks.length != 0) {
+        
+        //Loop pegando os indices de cada mão
+        for (let i in results.multiHandLandmarks) {
+  
+          //Para cada mão, eu pego a ponta do dedo indicador (ponto 8)
+          let index_finger_tip = results.multiHandLandmarks[i][8];
+
+          // Define em qual das 4 partes do canvas a ponta do indicador está presente (0, 1, 2, 3), 
+          // importante para saber qual lampada acender/apagar
+          let point = Math.floor((index_finger_tip.x * canvasElement.width)/320);
+          
+          // Se a ponta do indicador entrar na area das lampadas, aquela definida pelo point vai acender/apagar.
+          // Primeiro eu converti o valor y do dedo indicador que retorna entre 0.0 - 1.0 para pixeis multiplicando 
+          // pela altura do canvasElement, passando a retornar entre 0 e 720, lembrando que esse valor é de cima 
+          // pra baixo. Depois comparo esse valor com a altura da <div> de lampadas, então se a altura das lampadas é 
+          // 240px, quando o dedo atingir menos de 240px quer dizer que o dedo encostou na lampada. Se achou confuso, basta dar um
+          // console.log(index_finger_tip.y * canvasElement.height, lampElement.height);
+
+          // Aquela outra condição é o breakLoopingSwitch, responsavel por autorizar o uso do switch, se o dedo estava fora 
+          // da area das lampadas e decidir encostar, ela vai usar o switch apenas uma vez, para usar novamente vai ter que 
+          // tirar o dedo (entrando naquele else if) e encostar novamente;
+          // Observe que estou usando o valor i pra navegar no array de boolean, a vantagem disso é que vai funcionar
+          // independente de quantas mãos aparecer na tela, pois o array vai ter o mesmo tamanho do results.multiHandLandmarks 
+          
+          console.log(breakLoopingSwitch)
+          if (((index_finger_tip.y * canvasElement.height) < lampElement.height) && breakLoopingSwitch[i] === false) {
+            lampSwitch(point)
+            breakLoopingSwitch[i] = true;
+          } else if ((index_finger_tip.y * canvasElement.height) >= lampElement.height) {
+            breakLoopingSwitch[i] = false;
+          }
+        
+        }
+      }
+      canvasCtx.restore();
+    }
+    
+    const hands = new Hands({locateFile: (file) => {
+      return `https://cdn.jsdelivr.net/npm/@mediapipe/hands/${file}`;
+    }});
+    hands.setOptions({
+      maxNumHands: 2,
+      modelComplexity: 1,
+      minDetectionConfidence: 0.5,
+      minTrackingConfidence: 0.5
+    });
+    hands.onResults(onResults);
+    
+    const camera = new Camera(videoElement, {
+      onFrame: async () => {
+        await hands.send({image: videoElement});
+      },
+      width: 1280,
+      height: 720
+    });
+    camera.start();
+    </script>
+</body>
+</html>

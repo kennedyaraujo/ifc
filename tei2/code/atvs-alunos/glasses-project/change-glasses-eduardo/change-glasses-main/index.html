@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/control_utils/control_utils.js"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/holistic/holistic.js" crossorigin="anonymous"></script>
+</head>
+<style>
+    .oculos {
+        position: absolute;
+        width: 300px;
+        height: 720px;
+        display: flex;
+        flex-direction: column;
+        z-index: 3;
+    }
+
+    .oc {
+        height: 100px;
+        width: 200px;
+        border: 10px solid transparent;
+
+    }
+
+    .oc+img {
+        margin-top: 12px;
+    }
+
+    .wrapper {
+        width: 1280px;
+        height: 720px;
+        position: relative;
+    }
+
+    .atual {
+        border: 10px solid #fff;
+        padding: 12px;
+    }
+
+    .input_video {
+        display: none;
+    }
+
+    .output_canvas {
+        transform: scaleX(-1);
+    }
+
+    .remover {
+        height: 100%;
+        width: 200px;
+        border: 10px solid red;
+        color: red;
+        font-weight: bold;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 100px;
+    }
+</style>
+
+<body>
+    <div class="container">
+
+        <video class="input_video"></video>
+        <div class="wrapper">
+            <div class="oculos">
+                <img id="oculos1" class="oc atual" src="./1.png">
+                <img id="oculos2" class="oc" src="./2.png">
+                <img id="oculos3" class="oc" src="./3.png">
+                <div class="remover">
+                    X
+                </div>
+            </div>
+            <canvas class="output_canvas" width="1280px" height="720px"></canvas>
+        </div>
+    </div>
+</body>
+
+</html>
+
+<script type="module">
+    const videoElement = document.getElementsByClassName('input_video')[0];
+    const canvasElement = document.getElementsByClassName('output_canvas')[0];
+    const canvasCtx = canvasElement.getContext('2d');
+    let oculosSelecionado = '1';
+
+
+    const oculos1El = document.getElementById(`oculos1`)
+    const oculos2El = document.getElementById(`oculos2`)
+    const oculos3El = document.getElementById(`oculos3`)
+
+    let oculos1 = {
+        xEnd: 1280 - oculos1El.getBoundingClientRect().x,
+        xStart: 1280 - oculos1El.getBoundingClientRect().x - oculos1El.offsetWidth,
+        yStart: oculos1El.getBoundingClientRect().y,
+        yEnd: oculos1El.getBoundingClientRect().y + oculos1El.offsetHeight,
+    }
+    let oculos2 = {
+        yStart: oculos2El.getBoundingClientRect().y,
+        yEnd: oculos2El.getBoundingClientRect().y + oculos2El.offsetHeight
+
+    }
+    let oculos3 = {
+        yStart: oculos3El.getBoundingClientRect().y,
+        yEnd: oculos3El.getBoundingClientRect().y + oculos3El.offsetHeight
+    }
+
+
+
+    function onResults(results) {
+        canvasCtx.save();
+        canvasCtx.clearRect(0, 0, canvasElement.width, canvasElement.height);
+
+
+        canvasCtx.drawImage(
+            results.image, 0, 0, canvasElement.width, canvasElement.height);
+
+
+
+
+        if (results.faceLandmarks) {
+            let width = canvasElement.width;
+            let height = canvasElement.height;
+
+            let beginX = results.faceLandmarks[162].x * width;
+            let endX = results.faceLandmarks[389].x * width;
+
+            let beginY = results.faceLandmarks[10].y * height;
+            let endY = results.faceLandmarks[0].y * height;
+
+
+
+            if (results.rightHandLandmarks) {
+
+                let pontaDoDedoX = (results.rightHandLandmarks[8].x * width)
+                let pontaDoDedoY = (results.rightHandLandmarks[8].y * height)
+
+                if (pontaDoDedoX >= oculos1.xStart) {
+                    if (pontaDoDedoY >= oculos1.yStart && pontaDoDedoY <= oculos1.yEnd) {
+                        oculosSelecionado = '1';
+                    }
+                    if (pontaDoDedoY >= oculos2.yStart && pontaDoDedoY <= oculos2.yEnd) {
+                        oculosSelecionado = '2';
+                    }
+                    if (pontaDoDedoY >= oculos3.yStart && pontaDoDedoY <= oculos3.yEnd) {
+                        oculosSelecionado = '3';
+                    }
+
+                    if (pontaDoDedoY > oculos3.yEnd) {
+                        oculosSelecionado = null;
+                    }
+                }
+
+                if (oculosSelecionado == '1') {
+                    oculos1El.classList.add('atual');
+                    oculos2El.classList.remove('atual');
+                    oculos3El.classList.remove('atual');
+                }
+
+                if (oculosSelecionado == '2') {
+                    oculos1El.classList.remove('atual');
+                    oculos2El.classList.add('atual');
+                    oculos3El.classList.remove('atual');
+                }
+
+                if (oculosSelecionado == '3') {
+                    oculos1El.classList.remove('atual');
+                    oculos2El.classList.remove('atual');
+                    oculos3El.classList.add('atual');
+                }
+
+                if (!oculosSelecionado ){
+                    oculos1El.classList.remove('atual');
+                    oculos2El.classList.remove('atual');
+                    oculos3El.classList.remove('atual');
+                }
+            }
+
+
+            const oculos = document.querySelector('.atual');
+            if (oculos){
+                canvasCtx.drawImage(oculos, beginX, beginY, endX - beginX, endY - beginY)
+            }
+        }
+
+        canvasCtx.restore();
+    }
+
+    const holistic = new Holistic({
+        locateFile: (file) => {
+            return `https://cdn.jsdelivr.net/npm/@mediapipe/holistic/${file}`;
+        }
+    });
+    holistic.setOptions({
+        // modelComplexity: 1,
+        // smoothLandmarks: true,
+        // enableSegmentation: true,
+        // smoothSegmentation: true,
+        // refineFaceLandmarks: true,
+        // minDetectionConfidence: 0.5,
+        // minTrackingConfidence: 0.5
+    });
+    holistic.onResults(onResults);
+
+    const camera = new Camera(videoElement, {
+        onFrame: async () => {
+            await holistic.send({ image: videoElement });
+        },
+        width: 1280,
+        height: 720
+    });
+    camera.start();
+</script>

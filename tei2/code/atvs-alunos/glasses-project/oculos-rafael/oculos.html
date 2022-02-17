@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/control_utils/control_utils.js"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/holistic/holistic.js" crossorigin="anonymous"></script>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        .input_video,
+        .output_canvas {
+            transform: rotateY(180deg);
+            border-radius: 10px;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .container>div {
+            margin: 20px;
+        }
+
+        .output_canvas {
+            position: relative;
+            z-index: 1;
+        }
+
+        .output_video .glasses {
+            height: 720px;
+            width: 240px;
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            position: absolute;
+            z-index: 2;
+            justify-content: space-between;
+            background-color: rgba(255, 255, 255, 0.426);
+        }
+
+        .output_video .glasses img {
+            height: 100px;
+            width: 200px;
+            padding: 14px;
+            border-radius: 7px;
+            background-color: rgb(226, 242, 255);
+        }
+
+        .output_video .glasses div {
+            height: 100px;
+        }
+
+        .output_video .glasses img.selected {
+            background-color: lawngreen;
+            outline: 7px solid firebrick;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div>
+            <video class="input_video"></video>
+        </div>
+        <div class="output_video">
+            <div class="glasses">
+                <div id="0"></div>
+                <img id="1" class="selected" src="./assets/glasses0.png">
+                <div id="2"></div>
+                <img id="3" src="./assets/glasses1.png">
+                <div id="4"></div>
+                <img id="5" src="./assets/glasses2.png">
+                <div id="6"></div>            
+            </div>
+            <canvas class="output_canvas" width="1280px" height="720px"></canvas>
+        </div>
+    </div>
+</body>
+
+</html>
+
+<script type="module">
+    const videoElement = document.getElementsByClassName('input_video')[0];
+    const canvasElement = document.getElementsByClassName('output_canvas')[0];
+    const canvasCtx = canvasElement.getContext('2d');
+
+    const pointsWithGlasses = [1,3,5] //IDs que contém imagem de oculos
+    let point = null    //ponto no canvas
+    let index_finger_tip = null //ponta do dedo indicador
+    let breakLoop = false   //quebrador de loop pra não ficar piscando
+
+    // função que recebe um ponto (id do oculos), remove a classe selected se 
+    // existir em alguma imagem e insere a classe com o mesmo nome no oculos desejado 
+    function glassesSwitch(point) {
+        if (document.getElementById(point).className != 'selected') {
+            if (document.querySelector(".selected") != null) {
+                document.querySelector(".selected").classList.remove('selected');
+            }
+            document.getElementById(point).classList.add('selected')
+        } else {
+            document.querySelector(".selected").classList.remove('selected');
+        }
+    }
+
+    function onResults(results) {
+        canvasCtx.save();
+        canvasCtx.clearRect(0, 0, canvasElement.width, canvasElement.height);
+        canvasCtx.drawImage(results.image, 0, 0, canvasElement.width, canvasElement.height);
+
+        if (results.faceLandmarks) {
+            
+            //definir pontos da face para o desenho
+            let beginX = results.faceLandmarks[162].x * canvasElement.width;
+            let endX = results.faceLandmarks[389].x * canvasElement.width;
+            let beginY = results.faceLandmarks[9].y * canvasElement.height;
+            let endY = results.faceLandmarks[5].y * canvasElement.height;
+
+            // coletar o ponto em que o dedo indicador se localiza
+            // funciona com as duas mãos, porém a mão direita é prioritaria
+
+            // Para ativar/desativar o óculos apontando exatamente para a imagem,
+            // eu inseri <div> entre as imagens, totalizando 7 elementos na barra lateral, 
+            // então basta dividir a altura do canvas por 7 e trabalhar apenas com os pontos 
+            // com imagem, por isso existe aquele array no inicio do código.
+            if (results.rightHandLandmarks) {
+                index_finger_tip = results.rightHandLandmarks[8]
+                point = Math.floor((index_finger_tip.y * canvasElement.height) / 102.8);
+            } else if (results.leftHandLandmarks) {
+                index_finger_tip = results.leftHandLandmarks[8]
+                point = Math.floor((index_finger_tip.y * canvasElement.height) / 102.8);
+            }
+
+            // Defini como area dos oculos aquela acima dos 1030px (averiguei com console.log), 
+            // então se a ponta do dedo indicador ter um valor maior que 1030, breakLoop === false 
+            // e o ponto calculado anteriormente pertence à um óculos, então pode usar o switch e quebrar o looping
+
+            // Se o dedo sair da area dos óculos, então é permitido apontar para algum oculos novamente 
+            if ((index_finger_tip != null) && (point != null)) {
+                if (((index_finger_tip.x * canvasElement.width) > 1030) && breakLoop === false && pointsWithGlasses.includes(point)) {
+                    glassesSwitch(point)
+                    breakLoop = true
+                } else if ((index_finger_tip.x * canvasElement.width) <= 1030) {
+                    breakLoop = false
+                }
+            }
+
+            //desenhar caso existir algum óculos selecionado
+            let glassesSelected = document.querySelector(".selected")
+            if (glassesSelected != null) {
+                canvasCtx.drawImage(glassesSelected, beginX, beginY, endX - beginX, endY - beginY)
+            }
+        }
+        canvasCtx.restore();
+    }
+
+    const holistic = new Holistic({
+        locateFile: (file) => {
+            return `https://cdn.jsdelivr.net/npm/@mediapipe/holistic/${file}`;
+        }
+    });
+    holistic.setOptions({
+        modelComplexity: 1,
+        smoothLandmarks: true,
+        enableSegmentation: true,
+        smoothSegmentation: true,
+        refineFaceLandmarks: true,
+        minDetectionConfidence: 0.5,
+        minTrackingConfidence: 0.5
+    });
+    holistic.onResults(onResults);
+
+    const camera = new Camera(videoElement, {
+        onFrame: async () => {
+            await holistic.send({ image: videoElement });
+        },
+        width: 1280,
+        height: 720
+    });
+    camera.start();
+</script>

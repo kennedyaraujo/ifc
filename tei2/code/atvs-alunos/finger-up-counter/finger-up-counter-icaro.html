@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="styles.css" />
+    <script
+      src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/@mediapipe/control_utils/control_utils.js"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js"
+      crossorigin="anonymous"
+    ></script>
+    <style>
+        .output_canvas {
+  transform: scaleX(-1);
+  position: relative;
+  z-index: -1;
+}
+
+.input_video {
+  transform: scaleX(-1);
+}
+
+.data {
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  padding: 15px;
+  color: rgb(0, 231, 0);
+}
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <video class="input_video"></video>
+      <div class="data">
+        <h1 id="counter"></h1>
+        <h1 id="handSide"></h1>
+      </div>
+      <canvas class="output_canvas" width="1280px" height="720px"></canvas>
+      <script type="module">
+        const videoElement = document.getElementsByClassName("input_video")[0];
+        const canvasElement =
+          document.getElementsByClassName("output_canvas")[0];
+        const canvasCtx = canvasElement.getContext("2d");
+        const counterElement = document.getElementById("counter");
+        const handSideElement = document.getElementById("handSide");
+        var handSide = "";
+        function onResults(results) {
+          canvasCtx.save();
+          canvasCtx.clearRect(0, 0, canvasElement.width, canvasElement.height);
+          canvasCtx.drawImage(
+            results.image,
+            0,
+            0,
+            canvasElement.width,
+            canvasElement.height
+          );
+          if (results.multiHandLandmarks) {
+            if (results.multiHandedness) {
+              if (results.multiHandedness.length === 2) {
+                console.log("As duas mãos estão levantadas");
+                handSide = "Duas mãos";
+              } else if (results.multiHandedness[0]?.label === "Right") {
+                console.log("Mão esquerda");
+                handSide = "Mão esquerda";
+              } else if (results.multiHandedness[0]?.label === "Left") {
+                console.log("Mão direita");
+                handSide = "Mão direita";
+              } else {
+                console.log("Nenhuma mão está levantada");
+                handSide = "Nenhuma mão";
+              }
+              handSideElement.innerHTML = `${handSide}`;
+            }
+          }
+
+          const thumbDown = (landmarks) => {
+            //Pegar se é direita ou esquerda
+            let hand_side = landmarks[landmarks.length - 1].label;
+
+            console.log("Len", landmarks[landmarks.length]);
+
+            //Como esta imagem está invertida, precisa inverter o lado
+            if (hand_side === "Left") {
+              hand_side = "Right";
+            } else if (hand_side === "Right") {
+              hand_side = "Left";
+            }
+
+            //Pontos dos desenhos para serem verificados
+            let thumb_tip = landmarks[4];
+            let thumb_ip = landmarks[3];
+
+            //Utilizar o eixo x para o dedão trouxe resultados mais precisos
+            if (hand_side === "Left") {
+              if (thumb_tip.x <= thumb_ip.x) {
+                return true;
+              }
+            } else if (hand_side === "Right") {
+              if (thumb_tip.x >= thumb_ip.x) {
+                return true;
+              }
+            }
+            return false;
+          };
+
+          var counter = 0;
+          let arr = [];
+
+          // Concatenar todos os pontos dos landmarks com a propriedade que contém o label
+          if (results.multiHandLandmarks) {
+            for (let i in results.multiHandLandmarks) {
+              arr.push(
+                results.multiHandLandmarks[i].concat(results.multiHandedness[i])
+              );
+              console.log(
+                "Results",
+                results.multiHandLandmarks[i].concat(results.multiHandedness[i])
+              );
+            }
+
+            for (let lendmarks of arr) {
+              if (thumbDown(lendmarks)) {
+                counter++;
+              }
+              if (lendmarks[8].y <= lendmarks[7].y) {
+                counter++;
+              }
+              if (lendmarks[12].y <= lendmarks[11].y) {
+                counter++;
+              }
+              if (lendmarks[16].y <= lendmarks[15].y) {
+                counter++;
+              }
+              if (lendmarks[20].y <= lendmarks[19].y) {
+                counter++;
+              }
+            }
+            counterElement.innerHTML = `Dedos levantados: ${counter}`;
+
+            for (const landmarks of results.multiHandLandmarks) {
+              console.log("Landmarks", landmarks);
+              drawConnectors(canvasCtx, landmarks, HAND_CONNECTIONS, {
+                color: "#00FF00",
+                lineWidth: 5,
+              });
+
+              drawLandmarks(canvasCtx, landmarks, {
+                color: "#FF0000",
+                lineWidth: 2,
+              });
+            }
+          }
+          canvasCtx.restore();
+        }
+
+        const hands = new Hands({
+          locateFile: (file) => {
+            return `https://cdn.jsdelivr.net/npm/@mediapipe/hands/${file}`;
+          },
+        });
+        hands.setOptions({
+          maxNumHands: 2,
+          modelComplexity: 1,
+          minDetectionConfidence: 0.5,
+          minTrackingConfidence: 0.5,
+        });
+        hands.onResults(onResults);
+
+        const camera = new Camera(videoElement, {
+          onFrame: async () => {
+            await hands.send({ image: videoElement });
+          },
+          width: 1280,
+          height: 720,
+        });
+        camera.start();
+      </script>
+    </div>
+  </body>
+</html>

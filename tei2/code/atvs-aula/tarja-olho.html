@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/control_utils/control_utils.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/holistic/holistic.js" crossorigin="anonymous"></script>
+  <style>
+    .input_video,.output_canvas{
+       transform: rotateY(180deg);
+    }
+    </style>
+</head>
+
+<body>
+  <div class="container">
+    <video class="input_video"></video>
+    <canvas class="output_canvas" width="1280px" height="720px"></canvas>
+  </div>
+
+
+
+
+
+  <script type="module">
+    const videoElement = document.getElementsByClassName('input_video')[0];
+    const canvasElement = document.getElementsByClassName('output_canvas')[0];
+    const canvasCtx = canvasElement.getContext('2d');
+    
+    function onResults(results) {
+      //https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/save  
+      canvasCtx.save();
+      canvasCtx.clearRect(0, 0, canvasElement.width, canvasElement.height);
+      canvasCtx.drawImage(results.image, 0, 0, canvasElement.width, canvasElement.height);
+      if (results.faceLandmarks) {
+        console.log(results);
+    
+      // Only overwrite existing pixels.
+      //canvasCtx.globalCompositeOperation = 'source-in';
+      //canvasCtx.fillStyle = '#00FF00';
+      //canvasCtx.fillRect(0, 0, canvasElement.width, canvasElement.height);
+      //canvasCtx.drawImage(results.image, 0, 0, canvasElement.width, canvasElement.height);
+
+        //113 - 342   |   225 - 229
+        let width = canvasElement.width;
+        let height = canvasElement.height;
+        let beginX = results.faceLandmarks[46].x * width;
+        let endX = results.faceLandmarks[276].x * width;
+        let beginY = results.faceLandmarks[8].y * height;
+        let endY = results.faceLandmarks[197].y * height;
+
+        canvasCtx.fillStyle = 'rgba(255, 221, 0, 0.5)';
+        canvasCtx.fillRect(beginX,beginY,endX-beginX,endY-beginY);
+      }
+     /*
+      // Only overwrite missing pixels.
+      canvasCtx.globalCompositeOperation = 'destination-atop';
+      
+   
+      canvasCtx.globalCompositeOperation = 'source-over';
+      drawConnectors(canvasCtx, results.poseLandmarks, POSE_CONNECTIONS,
+                     {color: '#00FF00', lineWidth: 4});
+      drawLandmarks(canvasCtx, results.poseLandmarks,
+                    {color: '#FF0000', lineWidth: 2});
+      drawConnectors(canvasCtx, results.faceLandmarks, FACEMESH_TESSELATION,
+                     {color: '#C0C0C070', lineWidth: 1});
+      drawConnectors(canvasCtx, results.leftHandLandmarks, HAND_CONNECTIONS,
+                     {color: '#CC0000', lineWidth: 5});
+      drawLandmarks(canvasCtx, results.leftHandLandmarks,
+                    {color: '#00FF00', lineWidth: 2});
+      drawConnectors(canvasCtx, results.rightHandLandmarks, HAND_CONNECTIONS,
+                     {color: '#00CC00', lineWidth: 5});
+      drawLandmarks(canvasCtx, results.rightHandLandmarks,
+                    {color: '#FF0000', lineWidth: 2});
+    */
+      canvasCtx.restore();
+    }
+    
+    const holistic = new Holistic({locateFile: (file) => {
+      return `https://cdn.jsdelivr.net/npm/@mediapipe/holistic/${file}`;
+    }});
+    holistic.setOptions({
+      modelComplexity: 1,
+      smoothLandmarks: true,
+      enableSegmentation: true,
+      smoothSegmentation: true,
+      refineFaceLandmarks: true,
+      minDetectionConfidence: 0.5,
+      minTrackingConfidence: 0.5
+    });
+    holistic.onResults(onResults);
+    
+    const camera = new Camera(videoElement, {
+      onFrame: async () => {
+        await holistic.send({image: videoElement});
+      },
+      width: 1280,
+      height: 720
+    });
+    camera.start();
+    </script>
+</body>
+</html>
