@@ -38,16 +38,11 @@
 * **Aula 05 - Acender lâmpadas**
     * Você deve posicionar três lâmpadas dentro da área do vídeo e quando o usuário tocá-las elas devem acender/apagar. Lembre que área da lampada em si é diferente da área da imagem e que dependendo da estratégia o posicionamento pode estar invertido, conforme abordado em aula. Como sugestão você pode utilizar as [images disponibilizadas](https://github.com/kennedyaraujo/ifc/tree/main/tei2/material-complementar/images-lamp), onde se tem tanto a lâmpada acesa quanto apaga, fique a vontade para fazer a composição que desejar para dispor 3 lâmpadas.
 * **Aula 06 - Posicionamento de objetos na face**
-<<<<<<< Updated upstream
     * FaceMesh
         * [Documentação FaceMesh](https://google.github.io/mediapipe/solutions/face_mesh)
         * [Pontos da face](https://raw.githubusercontent.com/google/mediapipe/a908d668c730da128dfa8d9f6bd25d519d006692/mediapipe/modules/face_geometry/data/canonical_face_model_uv_visualization.png)
     * [Documentação Holistic](https://google.github.io/mediapipe/solutions/holistic.html)
     * [Vetores óculos](https://www.flaticon.com/packs/sunglasses?word=glasses)
-=======
-    * [Documentação FaceMesh](https://google.github.io/mediapipe/solutions/face_mesh)
-    * [Pontos da face](https://raw.githubusercontent.com/google/mediapipe/a908d668c730da128dfa8d9f6bd25d519d006692/mediapipe/modules/face_geometry/data/canonical_face_model_uv_visualization.png)
->>>>>>> Stashed changes
 * **Aula 07 - Provador de óculos**
     * Com base no exercício do uso da distribuição holist você deve contruir uma aplicação que terá 3 modelos de óculos visiveis na lateral da aplicação (em coluna no lado esquerdo ou direito) e o usuário poderá selecioná-los, tocando neles, para visualizá-los em seu rosto. A aplicação deve contar com 3 óculos diferentes para teste, e o usário deve conseguir removê-los. Você pode criar um botão para quando tocado remova o óculos que esteja no rosto, ou memos implementar a opção de tocar no próprio óculos que estão dispostos na lateral para escolha e ele sumir do rosto do usuário. Lembro que o oculos deve respeitar o tamanho da face, para isso atribua larguras proporcionais ao tamano do rosto do usuário que usa a aplicação.
 * **Aula 08 - Exame**
@@ -58,18 +53,6 @@
         * Tela final - Feeback para o usuário informando como foi o desempenho do usuário, deve ser levado em consideração o tempo que levou para finalizar as duas fases, ou acertos e erros que obteve. Também deve constar um botão para que ela possa ser direcionado a fase 1 (tela 2) também acionado pelo toque.
     O código deve ser postado no github, e você deve configurar o githubpages para acesso por link próprio. Informe os dois links (link do diretório e github) aqui no SIGAA.
     A pontuação será atribuída de forma gradativa com relação a implementação de cada tela. Recomenda-se que o conteúdo seja gerado de forma aleatória para favorecer a rejogabilidade.
-<<<<<<< Updated upstream
-=======
-=======
-    * [Arquivo para codificação](https://position-hand.kennedyarajo.repl.co/)
-* **Aula 05 - Posicionamento de objetos na face**
-    * FaceMesh
-        * [Documentação FaceMesh](https://google.github.io/mediapipe/solutions/face_mesh)
-        * [Pontos da face](https://raw.githubusercontent.com/google/mediapipe/a908d668c730da128dfa8d9f6bd25d519d006692/mediapipe/modules/face_geometry/data/canonical_face_model_uv_visualization.png)
-    * [Documentação Holistic](https://google.github.io/mediapipe/solutions/holistic.html)
-    * [Vetores óculos](https://www.flaticon.com/packs/sunglasses?word=glasses)
->>>>>>> 4c04cad3d2f81260914b7c837974621ffa84f780
->>>>>>> Stashed changes
     <!-- * [Vídeo - Aula 03](https://www.youtube.com/watch?v=mhQ5WInfM5w) <br/>
     <a href="https://www.youtube.com/watch?v=mhQ5WInfM5w"> <img src="https://img.youtube.com/vi/mhQ5WInfM5w/maxresdefault.jpg" width="200"></a> -->
 <!-- * **Aula 04 - Atividade Criação de mapa de movimento**
