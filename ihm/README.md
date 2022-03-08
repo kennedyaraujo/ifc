@@ -12,15 +12,19 @@
 
 ### AULAS
 * **Aula 01 - Introdução à Interação Humano–computador**   
-    * [Slides - Aula 01](https://github.com/kennedyaraujo/ifc/blob/main/ihm/slides/aula01-introducao-a-ihc.pdf)
-    * [Vídeo - Aula 01](https://youtu.be/AYDYyCjbJtM) <br/>
-    <a href="https://youtu.be/AYDYyCjbJtM"> <img src="https://img.youtube.com/vi/AYDYyCjbJtM/maxresdefault.jpg" width="200"></a>  
+    <!-- * [Slides - Aula 01](https://github.com/kennedyaraujo/ifc/blob/main/ihm/slides/aula01-introducao-a-ihc.pdf) -->
+    * [Email dos alunos](https://forms.gle/j43dtmoRuYwzJi9H8)
+    <!-- * [Vídeo - Aula 01](https://youtu.be/AYDYyCjbJtM) <br/>
+    <a href="https://youtu.be/AYDYyCjbJtM"> <img src="https://img.youtube.com/vi/AYDYyCjbJtM/maxresdefault.jpg" width="200"></a>   -->
     <!-- [![Vídeo - Aula 01](https://img.youtube.com/vi/JAkcA0eMRFg/maxresdefault.jpg)](https://youtu.be/JAkcA0eMRFg) -->
-* **Aula 02 - Apresentação Análise de sites**
-* **Aula 03 - Personas**   
-    * [Slides - Aula 02](https://github.com/kennedyaraujo/ifc/blob/main/ihm/slides/aula-02-persona.pdf)    
-    * [Vídeo - Aula 02](https://www.youtube.com/watch?v=FbZTTTCdzHs) <br/>
-    <a href="https://www.youtube.com/watch?v=FbZTTTCdzHs"> <img src="https://img.youtube.com/vi/FbZTTTCdzHs/maxresdefault.jpg" width="200"></a>
+* **Aula 01 - Atv Apresentação Análise de sites**
+    * [Archive.org/](https://archive.org/)
+    * [Planilha escolha de sites](https://docs.google.com/spreadsheets/d/1OgGrP0Ju7KGD4bvYwrcIXcTaQWy7OWCA/edit?usp=sharing&ouid=100855511090148956984&rtpof=true&sd=true)
+    * [Apresentação Compartilhada](https://docs.google.com/presentation/d/1Owkqs33aZuh5s9SuGeCqJxQ89Rl_SfZR/edit?usp=sharing&ouid=100855511090148956984&rtpof=true&sd=true)
+* **Aula 01 - Personas**   
+    <!-- * [Slides - Aula 02](https://github.com/kennedyaraujo/ifc/blob/main/ihm/slides/aula-02-persona.pdf)     -->
+    <!-- * [Vídeo - Aula 02](https://www.youtube.com/watch?v=FbZTTTCdzHs) <br/>
+    <a href="https://www.youtube.com/watch?v=FbZTTTCdzHs"> <img src="https://img.youtube.com/vi/FbZTTTCdzHs/maxresdefault.jpg" width="200"></a> -->
     * Geradores de Personas e Templates
         * [Userforge.com - Free - 2 personas](https://userforge.com/join/)
         * [Hubspot.com - Free - Pouco personalizável](https://www.hubspot.com/make-my-persona?__hstc=64741936.4449c6352ad3956dde84aa635a9cd227.1584653280224.1584657920351.1584970032936.3&__hssc=64741936.1.1584970032936&__hsfp=1079729891&_ga=2.185901545.1728181288.1619390474-1053955073.1619390474&_conv_v=vi%3A1*sc%3A1*cs%3A1619390470*fs%3A1619390470*pv%3A1*seg%3A%7B10031564.1%7D*exp%3A%7B%7D&_conv_s=si%3A1*sh%3A1619390470440-0.6961043410009764*pv%3A1)
@@ -31,8 +35,10 @@
         * [O que é buyer persona?](https://www.tracto.com.br/buyer-persona/)
         * [Alan Cooper, O Alquimista de Software](http://duxcoworkers.com/article/alan-cooper-o-alquimista-desoftware)
          * [A Personas Guideline, From What They Are to How To Use](https://uxdesign.cc/while-we-are-talking-about-personas-what-exactly-are-we-talking-525a645eb61a)  
-* **Aula 04 - Criação das Personas**
-* **Aula 05 - Apresentação das Personas**
+* **Aula 01 - Atividade Persona**
+    * Entrar na planilha anterior para informar aplicações
+    * [Formulário de entrega](https://forms.gle/5mW6n6gqDXPLdojCA)   
+<!-- * **Aula 05 - Apresentação das Personas**
     * [Pasta Personas](https://drive.google.com/drive/folders/1ZTqI9M5uG9sxlUZgsLebZQjLXZQ9h4f-)
     * [Vídeo - Aula 02](https://www.youtube.com/watch?v=8_nTn3OYZOY) <br/>
     <a href="https://www.youtube.com/watch?v=8_nTn3OYZOY"> <img src="https://img.youtube.com/vi/8_nTn3OYZOY/maxresdefault.jpg" width="200"></a>
@@ -62,5 +68,5 @@
         * [Modelo de relatório](https://docs.google.com/document/d/1hXqXuyZw3_zfaMBAaXOGfIW5rtVruuO5bqO6We9bB0I/edit?usp=sharing)
         * [Planilha para escolha de aplicativos](https://docs.google.com/spreadsheets/d/1O3Mnhl7LV-NPS4gXewFPtuLP-syj3l_b8IC7GTCI7Vw/edit?usp=sharing)
         * [Heurísticas de Nielsen by Vinícius Bastos](https://github.com/kennedyaraujo/ifc/blob/main/ihm/atividades/avaliacao-de-usabilidade/heuristicas-de-nielsen-by-vinicius-bastos.pdf)
-        * [Heurísticas Mobile - Vinícius Bastos](https://github.com/kennedyaraujo/ifc/blob/main/ihm/atividades/avaliacao-de-usabilidade/heuristicas-mobile-vinicius-bastos.pdf)
+        * [Heurísticas Mobile - Vinícius Bastos](https://github.com/kennedyaraujo/ifc/blob/main/ihm/atividades/avaliacao-de-usabilidade/heuristicas-mobile-vinicius-bastos.pdf) -->
 
