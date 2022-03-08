@@ -29,6 +29,7 @@
         * [Userforge.com - Free - 2 personas](https://userforge.com/join/)
         * [Hubspot.com - Free - Pouco personalizável](https://www.hubspot.com/make-my-persona?__hstc=64741936.4449c6352ad3956dde84aa635a9cd227.1584653280224.1584657920351.1584970032936.3&__hssc=64741936.1.1584970032936&__hsfp=1079729891&_ga=2.185901545.1728181288.1619390474-1053955073.1619390474&_conv_v=vi%3A1*sc%3A1*cs%3A1619390470*fs%3A1619390470*pv%3A1*seg%3A%7B10031564.1%7D*exp%3A%7B%7D&_conv_s=si%3A1*sh%3A1619390470440-0.6961043410009764*pv%3A1)
         * [Template Persona - Usability.gov](https://www.usability.gov/how-to-and-tools/resources/templates/persona-development-discussion-guide.html)
+        * [fakecrow.com - terá 3h para montar](https://fakecrow.com/free-persona-template/)
     * Leitura complementar
         * [Personas - Usability.gov](https://www.usability.gov/how-to-and-tools/methods/personas.html)
         * [Por quê criar personas?](https://brasil.uxdesign.cc/por-que-criar-personas-bc796a1ffc7e) 
