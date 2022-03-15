@@ -38,7 +38,23 @@
          * [A Personas Guideline, From What They Are to How To Use](https://uxdesign.cc/while-we-are-talking-about-personas-what-exactly-are-we-talking-525a645eb61a)  
 * **Aula 01 - Atividade Persona**
     * Entrar na planilha anterior para informar aplicações
-    * [Formulário de entrega](https://forms.gle/5mW6n6gqDXPLdojCA)   
+    * [Formulário de entrega](https://forms.gle/5mW6n6gqDXPLdojCA) 
+* **Aula 02 - Projeto de Interface - Wireframe**
+    * [Captura de páginas - Fireshot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=pt-BR)
+    * [Link para postagem da pesquisa de referência](https://drive.google.com/drive/folders/1txQ3kFiH2NUWFjNdG4Df2qOPZfdJl2H1?usp=sharing)
+    * Nome do arquivo
+        * turma-numero-primeiroNome-ultimoNome-atv-numero
+        * Ex:
+            * a-1-alessandra-konzler-pesquisa-1
+    * [Wireframe ShowCase](http://www.wireframeshowcase.com/)
+    * Ferramentas para criação de wireframe
+        * [Wireframe.cc](https://wireframe.cc/)
+        * [Figma](https://www.figma.com)
+    * Atividade
+        * **Pesquisa de Mercado:** Você deve 3 Screenshots de telas de aplicações que servirão de inspiração para construção da sua. Serão 3 screen
+            * Nomenclatura dos arquivos:
+                * TUDO MINUSCULO – SEM ESPAÇO – SEM ACENTOS: primeiroNome-ultimoNome-atv-numero. Ex: kennedy-araujo-pesquisa-1
+        * **Elanoração de Wireframa:** Você deve construir o wireframe da tela de logine da homepage da sua aplicação
 <!-- * **Aula 05 - Apresentação das Personas**
     * [Pasta Personas](https://drive.google.com/drive/folders/1ZTqI9M5uG9sxlUZgsLebZQjLXZQ9h4f-)
     * [Vídeo - Aula 02](https://www.youtube.com/watch?v=8_nTn3OYZOY) <br/>
