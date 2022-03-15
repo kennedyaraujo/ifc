@@ -52,7 +52,7 @@
                 * TUDO MINUSCULO – SEM ESPAÇO – SEM ACENTOS: primeiroNome-ultimoNome-atv-numero. Ex: kennedy-araujo-pesquisa-1
         * **Elaboração de Wireframe:** Você deve construir o wireframe da tela de login e da homepage da sua aplicação.
         * [Formulário de entrega](https://forms.gle/grB5wupgdeeuWMXj6)
-* **Aula 10 - Atividade Nature**
+* **Aula 02 - Atividade Nature**
     * [Layout Nature](https://raw.githubusercontent.com/kennedyaraujo/ifc/main/prototipacao/atividades/atv-nature/home.jpg)
     * [Fontes Google](https://fonts.google.com/)
     * [Paleta de cores](https://www.colourlovers.com/palettes)
