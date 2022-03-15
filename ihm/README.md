@@ -51,6 +51,13 @@
             * Nomenclatura dos arquivos:
                 * TUDO MINUSCULO – SEM ESPAÇO – SEM ACENTOS: primeiroNome-ultimoNome-atv-numero. Ex: kennedy-araujo-pesquisa-1
         * **Elaboração de Wireframe:** Você deve construir o wireframe da tela de login e da homepage da sua aplicação.
+* **Aula 10 - Atividade Nature**
+    * [Layout Nature](https://raw.githubusercontent.com/kennedyaraujo/ifc/main/prototipacao/atividades/atv-nature/home.jpg)
+    * [Fontes Google](https://fonts.google.com/)
+    * [Paleta de cores](https://www.colourlovers.com/palettes)
+    * [Ícones Fontawesome](https://fontawesome.com/v5/cheatsheet/free/regular)
+    * [Banco de Imagens: ](https://unsplash.com/)
+    * [Gerador de lero lero](https://lerolero.com/)
 <!-- * **Aula 05 - Apresentação das Personas**
     * [Pasta Personas](https://drive.google.com/drive/folders/1ZTqI9M5uG9sxlUZgsLebZQjLXZQ9h4f-)
     * [Vídeo - Aula 02](https://www.youtube.com/watch?v=8_nTn3OYZOY) <br/>
