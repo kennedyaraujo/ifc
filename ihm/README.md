@@ -47,7 +47,7 @@
         * [Wireframe.cc](https://wireframe.cc/)
         * [Figma](https://www.figma.com)
     * Atividade
-        * **Pesquisa de Mercado:** Você deve 3 Screenshots de telas de aplicações que servirão de inspiração para construção da sua. Serão 3 screen
+        * **Pesquisa de Mercado:** Você deve 8 Screenshots de telas de aplicações que servirão de inspiração para construção da sua. Serão 4 screenshots relacionados a tela de login, e 4 para homepage da aplicação.
             * Nomenclatura dos arquivos:
                 * TUDO MINUSCULO – SEM ESPAÇO – SEM ACENTOS: primeiroNome-ultimoNome-atv-numero. Ex: kennedy-araujo-pesquisa-1
         * **Elanoração de Wireframa:** Você deve construir o wireframe da tela de logine da homepage da sua aplicação
