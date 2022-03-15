@@ -50,7 +50,7 @@
         * **Pesquisa de Mercado:** Você deve 8 Screenshots de telas de aplicações que servirão de inspiração para construção da sua. Serão 4 screenshots relacionados a tela de login, e 4 para homepage da aplicação.
             * Nomenclatura dos arquivos:
                 * TUDO MINUSCULO – SEM ESPAÇO – SEM ACENTOS: primeiroNome-ultimoNome-atv-numero. Ex: kennedy-araujo-pesquisa-1
-        * **Elanoração de Wireframa:** Você deve construir o wireframe da tela de logine da homepage da sua aplicação
+        * **Elaboração de Wireframa:** Você deve construir o wireframe da tela de login e da homepage da sua aplicação.
 <!-- * **Aula 05 - Apresentação das Personas**
     * [Pasta Personas](https://drive.google.com/drive/folders/1ZTqI9M5uG9sxlUZgsLebZQjLXZQ9h4f-)
     * [Vídeo - Aula 02](https://www.youtube.com/watch?v=8_nTn3OYZOY) <br/>
