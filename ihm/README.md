@@ -62,7 +62,7 @@
         * [Banco de Imagens: ](https://unsplash.com/)
         * [Gerador de lero lero](https://lerolero.com/)
     * [Envio Atividade Nature](https://forms.gle/9byonQu8m6sf3fsn6)
- * **Aula 03 - Links**
+ * **Aula 03 - Atividade Finalização Login**
     * [Pesquisa sobre interface](https://tinyurl.com/surveycores)
     * Atividade finalização interface de login e homepage
         * Requisitos
