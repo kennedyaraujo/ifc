@@ -71,6 +71,7 @@
                 * [Exemplos de gradientes](https://uigradients.com/)
             * Usar Fonte Icon
             * Usar imagens e textos realísticos
+    * [ENVIO ATV FINALIZAÇÃO LOGIN](https://forms.gle/G2CTmzmTbBtr7bKu7)
 * **Aula 03 - Usabilidade**
     * [Heurísticas de Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics/)
     * Material complementar
