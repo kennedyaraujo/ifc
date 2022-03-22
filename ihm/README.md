@@ -73,6 +73,7 @@
             * Usar imagens e textos realísticos
     * [ENVIO ATV FINALIZAÇÃO LOGIN](https://forms.gle/G2CTmzmTbBtr7bKu7)
 * **Aula 03 - Usabilidade**
+    * [Planilha escolha da aplicação](https://docs.google.com/spreadsheets/d/1eozar3SvewSY6v6MFtaqZR0eeb8s_d6X/edit?usp=sharing&ouid=100855511090148956984&rtpof=true&sd=true)
     * [Heurísticas de Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics/)
     * Material complementar
         * [As 10 heurísticas de Nielsen - Como elas podem melhorar seu site?](https://www.vrsys.com.br/blog/as-10-heuristicas-de-nielsen-como-elas-podem-melhorar-seu-site)
@@ -82,6 +83,8 @@
 * **Aula 03 - Atividade - Avaliação de Usabilidade**
     * **Descrição:** O aluno deverá escolher um aplicativo para o qual tenha acesso (login) para realizar uma avaliação de usabilidade. Antes dessa etapa, o discente deve ler o material disponibilizado e escolher entre as 10 heurísticas de Nielsen pelo menos 6 para utilizar na sua avaliação. Além destas 6 heurísticas, o estudante deverá também incorporar mais 4 heurísticas, que podem ser criadas pelo menos ou fruto de pesquisa, a exemplo daquelas sugeridas por Vinícius Bastos. Uma vez definidas as heurísticas o aluno deverá criar para cada uma delas pelo menos, 2 evidências, respeitado a organização proposta no modelo de documento disponibilizado.
     * **Entrega:** Relatório contendo um item para cada heurística avaliada onde se descreve o que foi observado no aplicativo (ilustre o relatório com prints) para heurística em questão e ao final elaborar tabela resumo com evidências conforme modelo disponibilizado. 
+    *  **Recursos**
+        * [Galeria de aplicações - Mobbin](https://mobbin.design/)
     * **Material**
         * [Modelo de relatório](https://docs.google.com/document/d/1hXqXuyZw3_zfaMBAaXOGfIW5rtVruuO5bqO6We9bB0I/edit?usp=sharing)
         <!-- * [Planilha para escolha de aplicativos](https://docs.google.com/spreadsheets/d/1O3Mnhl7LV-NPS4gXewFPtuLP-syj3l_b8IC7GTCI7Vw/edit?usp=sharing) -->
