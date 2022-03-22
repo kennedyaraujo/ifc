@@ -64,6 +64,7 @@
     * [Pesquisa sobre interface](https://tinyurl.com/surveycores)
     * Atividade finalização interface de login e homepage
         * Requisitos
+            * Criar mais duas telas
             * [Usar gradiente](https://designcode.io/figma-handbook-gradients)
                 * [Exemplos de gradientes](https://uigradients.com/)
             * Usar Fonte Icon
