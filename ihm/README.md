@@ -72,7 +72,10 @@
             * Usar Fonte Icon
             * Usar imagens e textos realísticos
     * [ENVIO ATV FINALIZAÇÃO LOGIN](https://forms.gle/G2CTmzmTbBtr7bKu7)
-* **Aula 03 - Usabilidade**
+* **Aula 04 - Cores**
+    * [Apresentação CORES](https://docs.google.com/presentation/d/17Ye4ROj2PE2Mu9LZfLWJj9llqCd522MV/edit?usp=sharing&ouid=100855511090148956984&rtpof=true&sd=true)
+    * [Planilha escolha de cores](https://docs.google.com/spreadsheets/d/1c0TvF3kIcB65DL0f9rpLUUQYCaMcDquiGSHS5nQYQ-Y/edit?usp=sharing)
+* **Aula 04 - Usabilidade**
     * [Planilha escolha da aplicação](https://docs.google.com/spreadsheets/d/1eozar3SvewSY6v6MFtaqZR0eeb8s_d6X/edit?usp=sharing&ouid=100855511090148956984&rtpof=true&sd=true)
     * [Heurísticas de Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics/)
     * Material complementar
@@ -80,7 +83,7 @@
         * [Heurísticas de Nielsen: 10 Dicas para melhorar a Usabilidade da Interface](https://medium.com/aela/10-heur%C3%ADsticas-de-nielsen-dicas-para-melhorar-a-usabilidade-de-sua-interface-35ef86a7fb41)
         * Resumo Aela - [Parte 1](https://www.instagram.com/p/CB-66bAgHi5/) e [Parte 2](https://www.instagram.com/p/CCBYd_cgMfh/)
         * [Quiz Heurísticas](https://juego-heureka.herokuapp.com/index.html)
-* **Aula 03 - Atividade - Avaliação de Usabilidade**
+* **Aula 04 - Atividade - Avaliação de Usabilidade**
     * **Descrição:** O aluno deverá escolher um aplicativo para o qual tenha acesso (login) para realizar uma avaliação de usabilidade. Antes dessa etapa, o discente deve ler o material disponibilizado e escolher entre as 10 heurísticas de Nielsen pelo menos 6 para utilizar na sua avaliação. Além destas 6 heurísticas, o estudante deverá também incorporar mais 4 heurísticas, que podem ser criadas pelo menos ou fruto de pesquisa, a exemplo daquelas sugeridas por Vinícius Bastos. Uma vez definidas as heurísticas o aluno deverá criar para cada uma delas pelo menos, 2 evidências, respeitado a organização proposta no modelo de documento disponibilizado.
     * **Entrega:** Relatório contendo um item para cada heurística avaliada onde se descreve o que foi observado no aplicativo (ilustre o relatório com prints) para heurística em questão e ao final elaborar tabela resumo com evidências conforme modelo disponibilizado. 
     *  **Recursos**
