@@ -90,11 +90,12 @@
 * **Aula 04 - Atividade - Avaliação de Usabilidade**
     * **Descrição:** O aluno deverá escolher um aplicativo para o qual tenha acesso (login) para realizar uma avaliação de usabilidade. Antes dessa etapa, o discente deve ler o material disponibilizado e escolher entre as 10 heurísticas de Nielsen pelo menos 6 para utilizar na sua avaliação. Além destas 6 heurísticas, o estudante deverá também incorporar mais 4 heurísticas, que podem ser criadas pelo menos ou fruto de pesquisa, a exemplo daquelas sugeridas por Vinícius Bastos. Uma vez definidas as heurísticas o aluno deverá criar para cada uma delas pelo menos, 2 evidências, respeitado a organização proposta no modelo de documento disponibilizado.
     * **Entrega:** Relatório contendo um item para cada heurística avaliada onde se descreve o que foi observado no aplicativo (ilustre o relatório com prints) para heurística em questão e ao final elaborar tabela resumo com evidências conforme modelo disponibilizado. 
+        * [Formulário para envio](https://forms.gle/5nn1A23X6YnDQsPZ7)
     *  **Recursos**
         * [Galeria de aplicações - Mobbin](https://mobbin.design/)
     * **Material**
         * [Modelo de relatório](https://docs.google.com/document/d/1hXqXuyZw3_zfaMBAaXOGfIW5rtVruuO5bqO6We9bB0I/edit?usp=sharing)
-        <!-- * [Planilha para escolha de aplicativos](https://docs.google.com/spreadsheets/d/1O3Mnhl7LV-NPS4gXewFPtuLP-syj3l_b8IC7GTCI7Vw/edit?usp=sharing) -->
+        * [Planilha para escolha de aplicativos](https://docs.google.com/spreadsheets/d/1mjfJeyUgmFuZRRgyP6bOHhtfzUUPeYVK/edit?usp=sharing&ouid=100855511090148956984&rtpof=true&sd=true)
         * [Heurísticas de Nielsen by Vinícius Bastos](https://github.com/kennedyaraujo/ifc/blob/main/ihm/atividades/avaliacao-de-usabilidade/heuristicas-de-nielsen-by-vinicius-bastos.pdf)
         * [Heurísticas Mobile - Vinícius Bastos](https://github.com/kennedyaraujo/ifc/blob/main/ihm/atividades/avaliacao-de-usabilidade/heuristicas-mobile-vinicius-bastos.pdf) -->
 <!-- * **Aula 05 - Apresentação das Personas**
