@@ -83,6 +83,10 @@
         * [Heurísticas de Nielsen: 10 Dicas para melhorar a Usabilidade da Interface](https://medium.com/aela/10-heur%C3%ADsticas-de-nielsen-dicas-para-melhorar-a-usabilidade-de-sua-interface-35ef86a7fb41)
         * Resumo Aela - [Parte 1](https://www.instagram.com/p/CB-66bAgHi5/) e [Parte 2](https://www.instagram.com/p/CCBYd_cgMfh/)
         * [Quiz Heurísticas](https://juego-heureka.herokuapp.com/index.html)
+        * [Cartilha de usabilidade do Governo Federal](http://epwg.governoeletronico.gov.br/cartilha-usabilidade)
+        * [Guia de Usabilidade - Governo de Portugal](https://usabilidade.gov.pt/guia-web)
+            * [Check list usabilidade](https://usabilidade.gov.pt/lista-de-verificacao)
+            * [Guia para aplicativos](https://usabilidade.gov.pt/guia-apps)
 * **Aula 04 - Atividade - Avaliação de Usabilidade**
     * **Descrição:** O aluno deverá escolher um aplicativo para o qual tenha acesso (login) para realizar uma avaliação de usabilidade. Antes dessa etapa, o discente deve ler o material disponibilizado e escolher entre as 10 heurísticas de Nielsen pelo menos 6 para utilizar na sua avaliação. Além destas 6 heurísticas, o estudante deverá também incorporar mais 4 heurísticas, que podem ser criadas pelo menos ou fruto de pesquisa, a exemplo daquelas sugeridas por Vinícius Bastos. Uma vez definidas as heurísticas o aluno deverá criar para cada uma delas pelo menos, 2 evidências, respeitado a organização proposta no modelo de documento disponibilizado.
     * **Entrega:** Relatório contendo um item para cada heurística avaliada onde se descreve o que foi observado no aplicativo (ilustre o relatório com prints) para heurística em questão e ao final elaborar tabela resumo com evidências conforme modelo disponibilizado. 
@@ -123,5 +127,10 @@
         * [Modelo de relatório](https://docs.google.com/document/d/1hXqXuyZw3_zfaMBAaXOGfIW5rtVruuO5bqO6We9bB0I/edit?usp=sharing)
         * [Planilha para escolha de aplicativos](https://docs.google.com/spreadsheets/d/1O3Mnhl7LV-NPS4gXewFPtuLP-syj3l_b8IC7GTCI7Vw/edit?usp=sharing)
         * [Heurísticas de Nielsen by Vinícius Bastos](https://github.com/kennedyaraujo/ifc/blob/main/ihm/atividades/avaliacao-de-usabilidade/heuristicas-de-nielsen-by-vinicius-bastos.pdf)
-        * [Heurísticas Mobile - Vinícius Bastos](https://github.com/kennedyaraujo/ifc/blob/main/ihm/atividades/avaliacao-de-usabilidade/heuristicas-mobile-vinicius-bastos.pdf) -->
+        * [Heurísticas Mobile - Vinícius Bastos](https://github.com/kennedyaraujo/ifc/blob/main/ihm/atividades/avaliacao-de-usabilidade/heuristicas-mobile-vinicius-bastos.pdf) 
+        Acessibilidade
+        https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html
+        
+        
+        -->
 
