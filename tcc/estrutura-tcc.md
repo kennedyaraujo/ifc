@@ -13,6 +13,7 @@
     1. [Capítulo de Desenvolvimento / Resultados](#capítulo-de-desenvolvimento--resultados)
     1. [Considerações Finais / Conclusão](#considerações-finais--conclusão)
     1. [Referências](#referências)
+    1. [Recomendações Gerais]()
 
 
 
@@ -167,7 +168,9 @@ Recomendações:
 * Evite utilizar o mesmo autor em parágrafos seguidos
 * Seções ou subseções que tenham como fonte um único autor
 
-
+## Recomendações Gerais
+* Ilustrações
+    * Conforme NBR 14724 e NBR 6022, as ilustrações devem ser citadas no texto e inseridas o mais próximo possível do trecho que a se referem.
 
 ###### REFERÊNCIAS UTILIZADAS
 [PRODANOV, Cleber Cristiano; FREITAS, Ernani Cesar de. Metodologia do Trabalho Científico: Métodos e Técnicas de Pesquisa e do Trabalho Acadêmico. / Cleber Cristiano Prodanov, Ernani
