@@ -141,15 +141,14 @@ Se possível construa um diagrama para exemplificar as etapas que serão seguida
 Onde se descreve o processo de construção/desenvolvimento/elaboração daquilo que se colocou como propósito da pesquisa. Caso esteja construindo uma aplicação/aplicativo este capítulo pode receber o nome do software.
 
 ## Considerações Finais / Conclusão
-Chegou a hora de apresentar o apanhado geral sobre o trabalho de pesquisa feito, no qual são sintetizadas uma série de reflexões sobre a metodologia usada, sobre os achados e resultados obtidos, sobre a confirmação ou rechaço da hipótese estabelecida e sobre outros aspectos da pesquisa que são importantes para validar o trabalho. Recomenda-se não citar outros autores, pois a conclusão é do pesquisador. Porém, caso necessário,  convém citá-lo(s) 
-Deve-se revisitar os objetivos do trabalho fazendo comentários sobre cada um deles, e de forma eles foram alcançados.
+Chegou a hora de apresentar o apanhado geral sobre o trabalho de pesquisa feito, no qual são sintetizadas uma série de reflexões sobre a metodologia usada, sobre os achados e resultados obtidos, sobre a confirmação ou rechaço da hipótese estabelecida e sobre outros aspectos da pesquisa que são importantes para validar o trabalho. Recomenda-se não citar outros autores, pois a conclusão é do pesquisador. Porém, caso necessário,  convém citá-lo(s). Deve-se revisitar os objetivos do trabalho fazendo comentários sobre cada um deles, e de forma eles foram alcançados.
 
 
-1. Conclusões
-    * Brevemente comentadas no texto acima, nesta seção o pesquisador ( i.e. autor principal do trabalho científico) deve apresentar sua opinião com respeito à pesquisa e suas implicações. Descrever os impactos ( i.e. tecnológicos, sociais, econômicos, culturais, ambientais, políticos, etc.) que a pesquisa causa. Não se recomenda citar outros autores. 
+1. Objetivos
+    * Retomar os objetivos (geral e específicos) e relacioná-los aos resultados obtidos durante a pesquisa especificando em que medida foram atingidos e explicitando a avaliação do autor da pesquisa com relação aquilo que foi alcançado ou não.
 1. Contribuições
     * Apresentar as contribuições teóricas e práticas que a pesquisa e o(s) seu(s) resultado(s) trazem. 
-1. Impactos da pesquisa
+1. Impactos da pesquisa ( i.e. tecnológicos, sociais, econômicos, culturais, ambientais, políticos, etc.)
     * Avaliar potencial contribuição tecnológica e impactos social e econômico, quando da aplicação dos resultados desta proposta em atividades associadas à indústria e/ou setores correlatos. Também quando couber, fazer uma avaliação preliminar dos potenciais impactos ambientais positivos e negativos do objeto de estudo, discutindo como a proposta poderá contribuir com a sustentabilidade ambiental. 
 1. Limites e Limitações da pesquisa
     * Explificite quais os cenários em que a pesquisa pode ser aplicada, quais as condições que podem interferir no resultado, qual público pode não ser impactado/alvo do projeto desenvolvido
