@@ -6,17 +6,20 @@
 * [Replit.com -Ferramenta para codificação colaborativa](https://replit.com/ )
 * [IDE CodeBlocks - Compilador em C](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe)
 #### Bibliografia
-* [Apostila - Profº Manassés](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/bibliografia/mini-apostila-c-manasses.pdf) 
+* [Documentação](https://docs.python.org/pt-br/3/tutorial/)
+* [Funções Python](https://docs.python.org/3/library/functions.html)
+<!-- * [Apostila - Profº Manassés](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/bibliografia/mini-apostila-c-manasses.pdf)  -->
 
 ---
 
 ### AULAS
-* **[NOTAS DE AULA](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/notas-de-aula.md)**
+* [Lista de Exercício Operadores e Estrutura de Decisão](https://drive.google.com/file/d/1styjLAxRdBwRE6aa-xtRyxXGKYvYjK3j/view?usp=sharing)
+<!-- * **[NOTAS DE AULA](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/notas-de-aula.md)**
 * **Aula 01 - Introdução à Lógica de Programação**   
     * [Slides - Aula 01](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/slides/aula01-algoritmo.pdf)
     * [Vídeo - Aula 01](https://youtu.be/JAkcA0eMRFg) <br/>
     <a href="https://youtu.be/JAkcA0eMRFg"> <img src="https://img.youtube.com/vi/JAkcA0eMRFg/maxresdefault.jpg" width="200"></a>  
-    <!-- [![Vídeo - Aula 01](https://img.youtube.com/vi/JAkcA0eMRFg/maxresdefault.jpg)](https://youtu.be/JAkcA0eMRFg) -->
+   
 * Aula 02 - Comandos de entrada e saída e operações aritméticas
     * [Planilha para inserção das questões](https://docs.google.com/spreadsheets/d/1owTPhGuBwUFKWh28IJnBClg6TOkNqQScMr8StXa4nco/edit?usp=sharing)
     * [Lista de Exercício Operadores e Estrutura de Decisão](https://drive.google.com/file/d/1styjLAxRdBwRE6aa-xtRyxXGKYvYjK3j/view?usp=sharing)
@@ -60,4 +63,4 @@
     * [Vídeo - Aula 14](https://www.youtube.com/watch?v=ZPmJFnbpIrg) <br/>
     <a href="https://youtu.be/ZPmJFnbpIrg"> <img src="https://img.youtube.com/vi/ZPmJFnbpIrg/maxresdefault.jpg" width="200"></a>
     * [Resoluções propostas - Aula 14](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/resolucoes/resolucao-aula-14.c)
-    * [Lista de Exercício Vetores e Matrizes](https://drive.google.com/file/d/17s94JWWUrYnnXPT_oUpSUKiUQpx0uemM/view?usp=sharing)
+    * [Lista de Exercício Vetores e Matrizes](https://drive.google.com/file/d/17s94JWWUrYnnXPT_oUpSUKiUQpx0uemM/view?usp=sharing) -->
