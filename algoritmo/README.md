@@ -19,9 +19,9 @@
 
 ### AULAS
 * **Aula - Operadores e estrutura de decisão**
-* [Link do Replit](https://replit.com/join/lmxwmtpfkp-kennedyarajo)
-* [Lista de Exercício Operadores](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#operadores)
-* [Lista de Exercício Estrutura de Decisão](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#estrutura-de-decis%C3%A3o)
+    * [Link do Replit](https://replit.com/join/lmxwmtpfkp-kennedyarajo)
+    * [Lista de Exercício Operadores](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#operadores)
+    * [Lista de Exercício Estrutura de Decisão](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#estrutura-de-decis%C3%A3o)
 <!-- * **[NOTAS DE AULA](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/notas-de-aula.md)**
 * **Aula 01 - Introdução à Lógica de Programação**   
     * [Slides - Aula 01](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/slides/aula01-algoritmo.pdf)
