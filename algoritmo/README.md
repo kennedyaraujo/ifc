@@ -12,13 +12,16 @@
 #### Listas
 * [Operadores](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#operadores)
 * [Estrutura de Decisão](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#estrutura-de-decis%C3%A3o)
+#### Metaconteúdo
+* [Informe aqui seu Email](https://docs.google.com/spreadsheets/d/1vlfKikx4nOPn7zbjXWGBBFbWDXQ5axpHroo3mLomows/edit?usp=sharing)
 
 ---
 
 ### AULAS
-* [Email](https://docs.google.com/spreadsheets/d/1vlfKikx4nOPn7zbjXWGBBFbWDXQ5axpHroo3mLomows/edit?usp=sharing)
-* [Link do Replit Aula 01](https://replit.com/join/lmxwmtpfkp-kennedyarajo)
-* [Lista de Exercício Operadores e Estrutura de Decisão](https://drive.google.com/file/d/1styjLAxRdBwRE6aa-xtRyxXGKYvYjK3j/view?usp=sharing)
+* **Aula - Operadores e estrutura de decisão**
+* [Link do Replit](https://replit.com/join/lmxwmtpfkp-kennedyarajo)
+* [Lista de Exercício Operadores](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#operadores)
+* [Lista de Exercício Estrutura de Decisão](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#estrutura-de-decis%C3%A3o)
 <!-- * **[NOTAS DE AULA](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/notas-de-aula.md)**
 * **Aula 01 - Introdução à Lógica de Programação**   
     * [Slides - Aula 01](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/slides/aula01-algoritmo.pdf)
@@ -70,6 +73,8 @@
     * [Resoluções propostas - Aula 14](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/resolucoes/resolucao-aula-14.c)
     * [Lista de Exercício Vetores e Matrizes](https://drive.google.com/file/d/17s94JWWUrYnnXPT_oUpSUKiUQpx0uemM/view?usp=sharing) -->
 
+
+---
 
 ### LISTA OPERADORES E COMANDO DE DECISÃO
 
