@@ -8,12 +8,14 @@
 #### Bibliografia
 * [Documentação](https://docs.python.org/pt-br/3/tutorial/)
 * [Funções Python](https://docs.python.org/3/library/functions.html)
+* [Notas de aula](https://hackmd.io/@pvhbu7pkRQWb0jhWB0TdEQ/B17i1odB5)
 <!-- * [Apostila - Profº Manassés](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/bibliografia/mini-apostila-c-manasses.pdf)  -->
 #### Listas
 * [Operadores](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#operadores)
 * [Estrutura de Decisão](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#estrutura-de-decis%C3%A3o)
 #### Metaconteúdo
 * [Informe aqui seu Email](https://docs.google.com/spreadsheets/d/1vlfKikx4nOPn7zbjXWGBBFbWDXQ5axpHroo3mLomows/edit?usp=sharing)
+* [Inserir notas de aula](https://hackmd.io/@pvhbu7pkRQWb0jhWB0TdEQ/B17i1odB5/edit)
 
 ---
 
