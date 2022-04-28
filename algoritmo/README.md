@@ -14,6 +14,7 @@
 
 ### AULAS
 * [Email](https://docs.google.com/spreadsheets/d/1vlfKikx4nOPn7zbjXWGBBFbWDXQ5axpHroo3mLomows/edit?usp=sharing)
+* [Link do Replit Aula 01](https://replit.com/join/lmxwmtpfkp-kennedyarajo)
 * [Lista de Exercício Operadores e Estrutura de Decisão](https://drive.google.com/file/d/1styjLAxRdBwRE6aa-xtRyxXGKYvYjK3j/view?usp=sharing)
 <!-- * **[NOTAS DE AULA](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/notas-de-aula.md)**
 * **Aula 01 - Introdução à Lógica de Programação**   
