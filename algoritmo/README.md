@@ -1,4 +1,4 @@
-# Algoritmo - Superior de Tecnologia em Redes de Computadores - 2022.2
+# Algoritmo - Redes de Computadores - 2022.2
 
 ### RECURSOS
 #### Ferramentas
@@ -10,8 +10,8 @@
 * [Funções Python](https://docs.python.org/3/library/functions.html)
 <!-- * [Apostila - Profº Manassés](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/bibliografia/mini-apostila-c-manasses.pdf)  -->
 #### Listas
-    * [Operadores]()
-    * []
+* [Operadores](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#operadores)
+* [Estrutura de Decisão](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#estrutura-de-decis%C3%A3o)
 
 ---
 
