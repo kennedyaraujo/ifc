@@ -97,7 +97,33 @@
         * [Modelo de relatório](https://docs.google.com/document/d/1hXqXuyZw3_zfaMBAaXOGfIW5rtVruuO5bqO6We9bB0I/edit?usp=sharing)
         * [Planilha para escolha de aplicativos](https://docs.google.com/spreadsheets/d/1mjfJeyUgmFuZRRgyP6bOHhtfzUUPeYVK/edit?usp=sharing&ouid=100855511090148956984&rtpof=true&sd=true)
         * [Heurísticas de Nielsen by Vinícius Bastos](https://github.com/kennedyaraujo/ifc/blob/main/ihm/atividades/avaliacao-de-usabilidade/heuristicas-de-nielsen-by-vinicius-bastos.pdf)
-        * [Heurísticas Mobile - Vinícius Bastos](https://github.com/kennedyaraujo/ifc/blob/main/ihm/atividades/avaliacao-de-usabilidade/heuristicas-mobile-vinicius-bastos.pdf) -->
+        * [Heurísticas Mobile - Vinícius Bastos](https://github.com/kennedyaraujo/ifc/blob/main/ihm/atividades/avaliacao-de-usabilidade/heuristicas-mobile-vinicius-bastos.pdf)
+* **Aula 04 - Atividade - Avaliação de Acessibilidade**
+    * **Familiarização com o leitor de voz:** para atividade não pode ser escolhido um cliente de email, recomenda-se para a familiarização com o sintetizador de voz o seguinte exercício.
+        1. Faça o logout da sua conta de email caso ela esteja aberta
+        1. Feche todos os programas abertos, e partir deste momento uso apenas o teclado
+        1. Abra o navegador
+        1. Acesse a url da sua aplicação de email
+        1. Faça login
+        1. Escreva um email para um colega, para o professor ou para si mesmo, com assunto, texto no corpo do email e um arquivo como anexo
+        1. Realize o envio do email
+        1. Faça o logout da aplicação
+    * **Descrição:** O aluno deverá realizar a avaliação de acessibilidade de uma aplicação a sua escolha definindo 5 ações/tarefas a sua escolha (realizar login, assistir um filme, editar seus dados, favoritar um item, realizar uma busca, fazer um pedido, compartilhar algo de dentro da plataforma...) e construindo um relatório conforme modelo disponibilizado. Esta avaliação será feita utilizando um leitor de tela com o monitor desligado e sem o uso do mouse (casos de exceção são colocados nas observações).
+    * **Entrega:** Relatório conforme modelo 
+        * [Formulário para envio]()
+    * **Observações:**
+        * Em cada ação/tarefa se fazem necessárias três tentativas com possibilidade inclusão de erro induzido;
+        * Se a primeira tentativa for bem sucedida, verifique se há um outro fluxo a ser realizado para acessar aquela funcionalidade ou forma/software para acessá-la;
+        * Mediante a falha na primeira tentativa, realize a segunda com o monitor ligado (mas sem utilizar o mouse) e volte a desligá-lo na terceira tentativa;
+        * Em pelo menos duas ações deve ser aplicado um erro induzido.
+    *  **Recursos**
+        * [Galeria de aplicações - Mobbin](https://mobbin.design/)
+    * **Material**
+        * [Modelo de relatório](https://docs.google.com/document/d/1-t2ERdDTZ7PC23gsVlJJEZCVv1EA3Q0N-amkzgkulwU/edit?usp=sharing)
+        * [Planilha para escolha de aplicativos]()
+        * [Download do Leitor NVDA](https://www.nvaccess.org/download/)
+        * [Heurísticas Mobile - Vinícius Bastos](https://github.com/kennedyaraujo/ifc/blob/main/ihm/atividades/avaliacao-de-usabilidade/heuristicas-mobile-vinicius-bastos.pdf)
+    
 <!-- * **Aula 05 - Apresentação das Personas**
     * [Pasta Personas](https://drive.google.com/drive/folders/1ZTqI9M5uG9sxlUZgsLebZQjLXZQ9h4f-)
     * [Vídeo - Aula 02](https://www.youtube.com/watch?v=8_nTn3OYZOY) <br/>
