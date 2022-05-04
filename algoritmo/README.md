@@ -14,16 +14,24 @@
 * [Operadores](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#operadores)
 * [Estrutura de Decisão](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#estrutura-de-decis%C3%A3o)
 #### Metaconteúdo
+* [Guia Básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 * [Informe aqui seu Email](https://docs.google.com/spreadsheets/d/1vlfKikx4nOPn7zbjXWGBBFbWDXQ5axpHroo3mLomows/edit?usp=sharing)
 * [Inserir notas de aula](https://hackmd.io/@pvhbu7pkRQWb0jhWB0TdEQ/B17i1odB5/edit)
 
 ---
 
 ### AULAS
-* **Aula - Operadores e estrutura de decisão**
+* **Aula 27/04 - Operadores e estrutura de decisão**
     * [Link do Replit](https://replit.com/join/lmxwmtpfkp-kennedyarajo)
     * [Lista de Exercício Operadores](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#operadores)
     * [Lista de Exercício Estrutura de Decisão](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#estrutura-de-decis%C3%A3o)
+* **Aula 04/05 - Operadores e estrutura de decisão**
+    * Referências
+        * [Documentação Python](https://wiki.python.org/moin/WhileLoop)
+        * [W3schools](https://www.w3schools.com/python/python_while_loops.asp)
+    * [Link do Replit](https://replit.com/join/hfppjnuxxx-kennedyarajo)
+    * [Exercícios While](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#operadores)
+    
 <!-- * **[NOTAS DE AULA](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/notas-de-aula.md)**
 * **Aula 01 - Introdução à Lógica de Programação**   
     * [Slides - Aula 01](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/slides/aula01-algoritmo.pdf)
@@ -116,3 +124,16 @@
 1. Elabore um algoritmo que irá receber uma série de valores representando a quantidade de minutos que cada alpinista do grupo 2564 de escala levou até chegar ao cume do Everest. O grupo tem 7 alpinistas, e ao final do programa você deve exibir qual o menor tempo de escalada que um alpinista do grupo levou, qual o maior tempo e a média do tempo de subida do grupo.
 1. Construa um algoritmo para trazer informações a empresa JTUR sobre as pessoas que estão frequentando seus passeios. Todas os passeios da empresa precisam ser feitos em grupo e cada grupo deve ter no mínimo 5 pessoas, no dia são feitos no máximo 6 passeios. No seu programa o usuário irá informar quantos adultos e quantas crianças tem em cada grupo, uma vez que ele informe os dados do primeiro grupo, o programa deve perguntar se ele deseja continuar inserindo dados, isto deve ser feito até o usuário escolher não informar mais dados. Ao final o programa deve exibir, a quantidade de pessoas que fizeram o passeio naquele dia, a porcentagem de crianças, a porcentagem de adultos e média de pessoas por grupo.
 1. Construa um algoritmo que irá ler a quantidade de meses que as garrafas de vinho que estão armazenadas na Cave 5 de uma determinada adega já tiveram de envelhecimento. Cada Cave armazena 10 garrafas. Ao final você deve informar, quantos vinhos estão prontos para o envase (aqueles que ficaram mais de 2 anos envelhecendo), quantos vinhos estão a 5 meses envelhecendo e qual a média de tempo que estes vinhos têm de envelhecimento. 
+
+#### Exercícios While
+1. Crie um programa que imprima 11 vezes a frase " Hello World!" utilizando uma estrutura sequencial e uma estrutura de repetição while.
+1. Faça um programa onde o usuário deverá informar 1 para sim e 0 para não. Caso ele digete outro valor o programa continuará requisitando uma resposta válida.
+1. Faça um programa que peça ao usuário um número entre 12 e 20. Se a pessoa digitar um número diferente, mostrar a mensagem "entrada inválida" e solicitar o número novamente. Se digitar correto mostrar o número digitado.
+1. Faça um programa que leia número inteiros maiores que zero. Quando o usuário informar o número zero, o 
+programa deverá apresentar quantos números foram digitados e a média deles. 
+1. Faça um programa que receba uma senha formada de quatro números inteiros, verifique se a senha está
+correta e, caso não esteja, solicite novamente a senha. Se a senha entrada for a correta, deverá ser
+apresentada a mensagem “Senha Correta”, caso contrário, “Senha Incorreta”
+1. Escreva um código que receba uma entrada em texto (String) e diga se a String é ou não um Palíndromo utilizando estruturas de repetição.
+    * Nota: Um palíndromo é uma palavra/frase que é igual ao seu conteúdo invertido.
+    * Por exemplo: Radar, Socos, Ovo, Osso, Morram após a sopa marrom (nesse caso ignoramos o acento no “ó”)
