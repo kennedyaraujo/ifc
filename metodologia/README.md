@@ -20,8 +20,8 @@
 * **Metaconteúdo**  
     * [Guia Básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
     * [Notas de aula](https://hackmd.io/@pvhbu7pkRQWb0jhWB0TdEQ/Skjs2LeL5/edit)
-#### Temas de Pesquisa
 
+#### Temas de Pesquisa
 
 
 ---
@@ -61,7 +61,12 @@
 
 ---
 
-### EXEMPLOS
+### AULAS
+
+* 04/05 - Referências
+    
+
+
 
 
 
