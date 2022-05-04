@@ -11,6 +11,7 @@
 * [Notas de aula](https://hackmd.io/@pvhbu7pkRQWb0jhWB0TdEQ/B17i1odB5)
 <!-- * [Apostila - Profº Manassés](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/bibliografia/mini-apostila-c-manasses.pdf)  -->
 #### Listas
+* [Lista Python Brasil](https://wiki.python.org.br/ListaDeExercicios)
 * [Operadores](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#operadores)
 * [Estrutura de Decisão](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#estrutura-de-decis%C3%A3o)
 #### Metaconteúdo
