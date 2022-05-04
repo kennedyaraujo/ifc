@@ -64,7 +64,13 @@
 ### AULAS
 
 * 04/05 - Referências
-    
+    * Exercício
+        * Busque os seguintes itens que possam contribuir com o tema do seu artigo e construa as respectivas refereências 
+            * TCC
+            * Artigo em periodico
+            * Artigo em evento
+            * Vídeo no youtube
+        * [Envie por este formulário](https://forms.gle/piSSn77N2r6UeJ3P8)
 
 
 

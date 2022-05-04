@@ -25,12 +25,13 @@
     * [Link do Replit](https://replit.com/join/lmxwmtpfkp-kennedyarajo)
     * [Lista de Exercício Operadores](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#operadores)
     * [Lista de Exercício Estrutura de Decisão](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#estrutura-de-decis%C3%A3o)
-* **Aula 04/05 - Operadores e estrutura de decisão**
+* **Aula 04/05 - While**
+    * [Frequência](https://docs.google.com/spreadsheets/d/12PnEcdajIAbbttPhl0nXRizCFwaGRPZdZcnUVUYS53I/edit?usp=sharing)
     * Referências
         * [Documentação Python](https://wiki.python.org/moin/WhileLoop)
         * [W3schools](https://www.w3schools.com/python/python_while_loops.asp)
     * [Link do Replit](https://replit.com/join/hfppjnuxxx-kennedyarajo)
-    * [Exercícios While](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#operadores)
+    * [Exercícios While](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#exerc%C3%ADcios-while)
     
 <!-- * **[NOTAS DE AULA](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/notas-de-aula.md)**
 * **Aula 01 - Introdução à Lógica de Programação**   
