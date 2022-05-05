@@ -71,6 +71,8 @@
             * Artigo em evento
             * Vídeo no youtube
         * [Envie por este formulário](https://forms.gle/piSSn77N2r6UeJ3P8)
+* 05/05 - Referências
+    * [Análise Exercício](https://docs.google.com/document/d/1c3zB5SEleiqe3t8p722QwUBpkpzQlfj6l8qERMEZ96E/edit?usp=sharing)
 
 
 
