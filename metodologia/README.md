@@ -4,8 +4,8 @@
 
 
 ### CONTEÚDO
-* [ESTRUTURA DO TRABALHO](estrutura-tcc.md)
-* [ETAPAS PARA ELABORAÇÃO](etapas-elaboracao.md)
+<!-- * [ESTRUTURA DO TRABALHO](estrutura-tcc.md)
+* [ETAPAS PARA ELABORAÇÃO](etapas-elaboracao.md) -->
 * **Bibliografia**
     * [Metodologia de Pesquisa para Ciência da Computação - Raul Wazlawick](https://books.google.com.br/books?id=BZioBQAAQBAJ&newbks=0&hl=pt-BR&source=newbks_fb&redir_esc=y)
     * [Metodologia do Trabalho Científico: Métodos e Técnicas de Pesquisa e do Trabalho Acadêmico.](https://books.google.com.br/books/about/Metodologia_do_Trabalho_Cient%C3%ADfico_M%C3%A9t.html?hl=pt-BR&id=zUDsAQAAQBAJ&redir_esc=y)
@@ -30,7 +30,7 @@
 ### RECURSOS
 * Templates / Modelos
     * [Normalização de trabalhos acadêmicos - IFC](https://biblioteca.ifc.edu.br/normalizacao-de-trabalhos/)
-    * [Normalização de trabalhos acadêmicos - UFSC](https://portal.bu.ufsc.br/normalizacao/)
+    * [Modelo Artigo - SBC](https://www.sbc.org.br/documentos-da-sbc/summary/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos)
 * Referências
     * [Mecanismo Online para Referências - MORE - UFSC](http://novo.more.ufsc.br/)
     * [Gerador de referências - ZoteroBib](https://zbib.org/)
