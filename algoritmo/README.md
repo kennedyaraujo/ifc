@@ -142,9 +142,9 @@ apresentada a mensagem “Senha Correta”, caso contrário, “Senha Incorreta�
     * Nota: Um palíndromo é uma palavra/frase que é igual ao seu conteúdo invertido.
     * Por exemplo: Radar, Socos, Ovo, Osso, Morram após a sopa marrom (nesse caso ignoramos o acento no “ó”)
 1. Faça um programa que apresente o seguinte menu
-    > 1) Opção 1
-    > 2) Opção 2
-    > 3) Opção 3
-    > 0) Sair
-    Ao escolher a opção um o programa deve imprimir na tela "Você escolheu a opção 1" e assim para todas as opções. Caso digitar zero, o programa deverá emitir um mnensagem de encerramento e terminar.
-    Caso o usuário digite algo fora do escopo o programa deverá mostrar "opção inválida".
+    > 1. Opção 1
+    > 2. Opção 2
+    > 3. Opção 3
+    > 0. Sair
+Ao escolher a opção um o programa deve imprimir na tela "Você escolheu a opção 1" e assim para todas as opções. Caso digitar zero, o programa deverá emitir um mnensagem de encerramento e terminar.
+Caso o usuário digite algo fora do escopo o programa deverá mostrar "opção inválida".
