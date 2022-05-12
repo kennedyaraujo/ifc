@@ -35,7 +35,8 @@
     * [Exercícios While](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#exerc%C3%ADcios-while)
 * **Aula 05/05 - Exercícios**
     * [Link do replit](https://replit.com/join/smnicymdiz-kennedyarajo)
-    
+* **Aula 12/05 - Correção de Exercícios**
+    * [Link do replit](https://replit.com/join/rhsxksochm-kennedyarajo)    
 <!-- * **[NOTAS DE AULA](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/notas-de-aula.md)**
 * **Aula 01 - Introdução à Lógica de Programação**   
     * [Slides - Aula 01](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/slides/aula01-algoritmo.pdf)
