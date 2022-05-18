@@ -33,7 +33,7 @@
         * [W3schools](https://www.w3schools.com/python/python_while_loops.asp)
     * [Link do Replit](https://replit.com/join/hfppjnuxxx-kennedyarajo)
     * [Exercícios While](https://github.com/kennedyaraujo/ifc/tree/main/algoritmo#exerc%C3%ADcios-while)
-* **Aula 05/05 - Exercícios**
+* **Aula 05/05 - While (Exercícios)**
     * [Link do replit](https://replit.com/join/smnicymdiz-kennedyarajo)
 * **Aula 12/05 - Correção de Exercícios**
     * [Link do replit](https://replit.com/join/rhsxksochm-kennedyarajo)    

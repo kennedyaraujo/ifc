@@ -76,10 +76,6 @@ Exemplos de Introdução:
         * Insira nos objetivos aquilo de fato será realizado no trabalho
     1. Objetivo Geral
         * Define explicitamente o propósito do trabalho 
-    1. Objetivo Específico
-        * Correspondem as etapas/fases para que se alcance o objetivo Geral
-        * Quantidade: entre 3 e 5.
-        * Tente apresentá-los em ordem de execução
     1. **Tabela de sugestão de verbos por objetivos (PRODANOV; FREITAS, 2013):**
 
     Objetivo | Verbos
@@ -106,26 +102,6 @@ Recomendações:
 - Evite seções ou subseções que tenham como fonte um único autor.
 - Deve-se construir um diálogo com os conceitos que estão sendo explorados.
 - Expor conceitos de autores distintos, indicar qual será adotado no trabalho, ou partir do que foi exposto elaborar sua própria definição.
-
-## Trabalhos Relacionados
-
-Neste seção você deve expor trabalhos que tenham relação com a pesquisa deseja desenvolver, procure por trabalhos da mesma área, ou mesmo em área diferentes mas que se utilizaram  recursos/tecnicas/tecnologias que você também deseja aplicar/implementar.
-
-Ao abordar cada trabalho apresente: 
-* Título do trabalho
-* Contexto da pesquisa / De quais áreas trata
-* Problema de pesquisa 
-* Objetivos / A solução proposta
-* Como foi implementada (percurso metodológico)
-* Resultados obtidos
-* O porquê da escolha do trabalho, no que ele se aproxima da sua pesquisa e em quais pontos se distncia
-* Suas considerações sobre o trabalho: algum ponto que chamou atenção, um determinado conceito que desconhecia, métodos podem ser aplicados em outros contexto...
-**Obs**: Lembre de durante seu texto citar o nome dos autores do trabalho
-
-Recomenda-se que você traga não só artigos mas também  trabalhos de mesmo tipo daquele que está sendo desenvolvido. Se está fazendo um TCC, inclua também algum trabalho de conclusão dentro dos trabalhos relacionados. Pode ocorrer de um TCC também ser transposto para forma de artigo e você ter contato com os dois tipos de documentos, é interessante citar isso quando for descrever o trabalho.
-
-Além da leitura de todo trabalho, é interessante também ler o resumo, para verificar quais os pontos do trabalho o próprio autor(a) considerou como chave (por isso inseriu em seu resumo). 
-
 
 
 
