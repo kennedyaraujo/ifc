@@ -67,7 +67,7 @@ Exemplos de Introdução:
         - Quais as fragilidades que a técnica a ser utilizada consegue solucionar em detrimento aquilo que foi ou é implementado?
         - Existe um beneficio direto do tipo de realidade aumentada escolhida para o aluno, para o professor ou para o processo de ensino e aprendizagem?
     - Finalizar explicitando a solução proposta/objetivo do trabalho especificando trazendo um detalhamento maior daquele presente na seção de objetivos, cabe destacar as características do trabalhar que intencionam solucionar ou amenizar os itens destacados como problema.
-1. **Motivação:** 
+1. **Motivação: (Opcional)** 
     * Mais relacionado ao autor(a) da pesquisa, existe alguma motivação de cunho pessoal para o desenvimento da pesquisa?
 1. **Objetivos**
     1. **Recomendações para contrução:**
