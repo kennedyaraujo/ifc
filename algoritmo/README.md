@@ -1,4 +1,4 @@
-# Algoritmo - Redes de Computadores - 2022.2
+# Programação I - Redes de Computadores - 2022.1
 
 ### RECURSOS
 #### Ferramentas
@@ -38,9 +38,9 @@
 * **Aula 12/05 - Correção de Exercícios**
     * [Link do replit](https://replit.com/join/rhsxksochm-kennedyarajo)
 * **Aula 19/05 - Exercício DE Revisão**
-    1. A comitiva está chegando à cidade de Araquari e você precisa construir o programa que irá organizar o transporte. O programa deverá receber a quantidade de pessoas que virá na comitiva e informar quantos carros e motos precisarão ser deslocados para transportá-los. Cada carro comporta 4 pessoas e deve ser escoltado por 4 motos. O código criado deve utilizar o mínimo de veículos possível.
-    1. Uma floricultura se para o dia da florada e precisa saber quantas flores serão colhidas. Para isso você deve construir um programa que fará a contagem de quantas flores de cada tipo foi colhida. Existem quatro tipos de flores: 1 – begônia; 2 – margarida; 3 – cravos; 4 – camélia. No programa o usuário irá digitar os números de cada tipo de flor em sequência e quando desejar finalizar irá inserir o valor 5. Ao final você deve exibir a contagem de quantas flores de cada tipo foi colhida.
-    1. O festival da Lua Vermelha ocorrerá na próxima semana e o preço do ingresso varia de acordo com o dia: segunda (23), quarta (25) e sexta (27) custa R$20,00; já terça (24), quinta (26) e sábado (27) o valor será R$25,00. Crie um algoritmo onde o usuário irá digitar a quantidade de ingressos inteira e meia vendidos em cada dia e programa mostrará o total que foi arrecadado em todos os dias de evento.
+    1. A comitiva do Papa está chegando à cidade de Araquari e você precisa construir o programa que irá organizar o transporte. O programa deverá receber a quantidade de pessoas que virá na comitiva e informar quantos carros e motos precisarão ser deslocados para transportá-los. Cada carro comporta 4 pessoas e deve ser escoltado por um conjunto de motos. O comboio deve ser organizado de maneira que cada carro tenha duas motos a sua frente e duas motos na sua traseira. O código criado deve utilizar o mínimo de veículos possível.
+    1. Uma floricultura se prepara o dia da florada e precisa saber quantas flores de cada tipo serão colhidas e você foi o encarregado de construir o programa que fará essa contagem. Existem quatro tipos de flores: 1 – begônia; 2 – margarida; 3 – cravos; 4 – camélia. No programa o usuário irá digitar os números de cada tipo de flor em sequência e quando desejar finalizar irá inserir o valor 5. Ao final você deve exibir a contagem de quantas flores de cada tipo foi colhida.
+    1. O festival da Lua Vermelha ocorrerá na próxima semana e o preço do ingresso varia de acordo com o dia: segunda (23), quarta (25) e sexta (27) custa R$20,00; já terça (24), quinta (26) e sábado (27) o valor será R$25,00. Crie um algoritmo onde o usuário irá digitar a quantidade de ingressos inteira e meia vendidos em cada dia e programa mostrará o quanto foi arrecadado em todos os dias de evento.
     
 <!-- * **[NOTAS DE AULA](https://github.com/kennedyaraujo/ifc/blob/main/algoritmo/notas-de-aula.md)**
 * **Aula 01 - Introdução à Lógica de Programação**   
