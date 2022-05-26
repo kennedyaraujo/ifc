@@ -40,7 +40,7 @@ As palavras-chave irão refletir os pontos principais nos quais sua pesquisa foc
 
 ## Introdução
 
->Contexto, justificativa, problema e solução (objetivos).
+>Contexto, justificativa, problema, solução (objetivos) e organização.
 
 Justificativa: Importância dos níveis de educação
 Problema: Os alunos que progridem sem realmente se apropriar do conteúdo daquela série
