@@ -4,6 +4,10 @@
 #### Ferramentas
 * [Onlinegdb.com - Compilador Online Python](https://www.onlinegdb.com/online_python_compiler)
 * [Replit.com -Ferramenta para codificação colaborativa](https://replit.com/ )
+* Verificação de código - Plataformas de correção automática de exercícios de programação
+  * [BeeCrowd](https://www.beecrowd.com.br/judge/en/login)
+  * [Anthropic](https://www.anthropic.com/index/introducing-claude)
+  * [CodeBench](https://codebench.icomp.ufam.edu.br/)
 <!-- * [IDE CodeBlocks - Compilador em C](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe) -->
 #### Bibliografia
 * [Documentação](https://docs.python.org/pt-br/3/tutorial/)
