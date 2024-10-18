@@ -55,12 +55,6 @@
 <a href="https://github.com/kennedyaraujo"><img src="https://img.shields.io/badge/Github-red?style=for-the-badge&logo=github&labelColor=60045C&color=751471"/></a>
 
 
-
-
-
-
-
-
 ## Marco André Lopes Mendes
 
 :mortar_board: Graduação: Tecnologia em Processamento de Dados  
@@ -95,5 +89,3 @@
 :e-mail: E-mail: [naylor.bachiega@ifc.edu.br](mailto:naylor.bachiega@ifc.edu.br)  
 :books: Áreas de pesquisa: Servidores Linux, Administração de Redes, Programação Paralela e Cloud Computing (DevOps)  
 :pushpin: Disciplinas que ministra: Banco de Dados  
-
-
