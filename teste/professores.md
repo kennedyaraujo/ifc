@@ -66,7 +66,7 @@
 
 ## Marco Antonio Torrez Rojas
 
-:mortar_board: Graduação: graduação em Matemática (Bacharelado e Licenciatura) e Análise e Desenvolvimento de Sistemas  
+:mortar_board: Graduação: Graduação em Matemática (Bacharelado e Licenciatura) e Análise e Desenvolvimento de Sistemas  
 :closed_book: Última Formação: Doutorado em Engenharia de Computação  
 :e-mail: E-mail: [marco.rojas@ifc.edu.br](mailto:marco.rojas@ifc.edu.br)  
 :books: Áreas de pesquisa: Sistemas de Computação  
@@ -88,4 +88,4 @@
 :closed_book: Última Formação: Especialização em Tecnologia em Redes de Computadores  
 :e-mail: E-mail: [naylor.bachiega@ifc.edu.br](mailto:naylor.bachiega@ifc.edu.br)  
 :books: Áreas de pesquisa: Servidores Linux, Administração de Redes, Programação Paralela e Cloud Computing (DevOps)  
-:pushpin: Disciplinas que ministra: Banco de Dados  
+:pushpin: Disciplinas que ministra: Banco de Dados.  
